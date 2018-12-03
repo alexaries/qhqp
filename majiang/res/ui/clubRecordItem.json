@@ -1,0 +1,556 @@
+{
+  "ID": "2de47c55-7cb1-456b-ab0f-172b630d8d58",
+  "Version": "2.3.4",
+  "Name": "clubRecordItem",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 221,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": -283,
+            "Scale9OriginY": -52,
+            "Scale9Width": 566,
+            "Scale9Height": 104,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.1166,
+              "Y": 0.6329
+            },
+            "RightMargin": 758.0,
+            "TopMargin": 58.0,
+            "Tag": 238,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "gxDdz/17-club4/club_bg_zhanji@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 0.985,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 8.58,
+                  "Y": 1.58
+                },
+                "RightMargin": -758.0,
+                "TopMargin": -58.0,
+                "Tag": 237,
+                "ActionTag": -239552131,
+                "Size": {
+                  "X": 858.0,
+                  "Y": 158.0
+                },
+                "Name": "Sprite_2",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 374934230,
+            "Size": {
+              "X": 100.0,
+              "Y": 100.0
+            },
+            "Name": "bg",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "斗地主-经典玩法法斗地主-经典玩法法斗地主",
+            "FontResource": {
+              "Type": "Default",
+              "Path": "",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 13.9995,
+              "Y": 136.9993
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 139,
+              "G": 105,
+              "B": 20
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0163,
+              "Y": 0.8671
+            },
+            "PreSize": {
+              "X": 0.4662,
+              "Y": 0.1266
+            },
+            "LeftMargin": 13.9995,
+            "RightMargin": 444.0005,
+            "TopMargin": 11.0007,
+            "BottomMargin": 126.9993,
+            "Tag": 243,
+            "ActionTag": 376463903,
+            "Size": {
+              "X": 400.0,
+              "Y": 20.0
+            },
+            "Name": "modeTxt",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "房间号：",
+            "FontResource": {
+              "Type": "Default",
+              "Path": "",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 484.9994,
+              "Y": 136.9997
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 139,
+              "G": 105,
+              "B": 20
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5653,
+              "Y": 0.8671
+            },
+            "PreSize": {
+              "X": 0.0932,
+              "Y": 0.1266
+            },
+            "LeftMargin": 444.9994,
+            "RightMargin": 333.0006,
+            "TopMargin": 11.0003,
+            "BottomMargin": 126.9997,
+            "Tag": 414,
+            "ActionTag": -1610992594,
+            "Size": {
+              "X": 80.0,
+              "Y": 20.0
+            },
+            "Name": "titleTxt_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "1234567",
+            "FontResource": {
+              "Type": "Default",
+              "Path": "",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 561.9954,
+              "Y": 136.9997
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 139,
+              "G": 105,
+              "B": 20
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.655,
+              "Y": 0.8671
+            },
+            "PreSize": {
+              "X": 0.0816,
+              "Y": 0.1266
+            },
+            "LeftMargin": 526.9954,
+            "RightMargin": 261.0046,
+            "TopMargin": 11.0003,
+            "BottomMargin": 126.9997,
+            "Tag": 415,
+            "ActionTag": 1632368524,
+            "Size": {
+              "X": 70.0,
+              "Y": 20.0
+            },
+            "Name": "roomIdTxt",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "2017-01-01 11-11 11:11",
+            "HorizontalAlignmentType": "HT_Right",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 722.4231,
+              "Y": 136.9997
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 139,
+              "G": 105,
+              "B": 20
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.842,
+              "Y": 0.8671
+            },
+            "PreSize": {
+              "X": 0.2564,
+              "Y": 0.1266
+            },
+            "LeftMargin": 612.4231,
+            "RightMargin": 25.5769,
+            "TopMargin": 11.0003,
+            "BottomMargin": 126.9997,
+            "Tag": 482,
+            "ActionTag": -1804892233,
+            "Size": {
+              "X": 220.0,
+              "Y": 20.0
+            },
+            "Name": "timeTxt",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "clubRecordUser.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 7.0001,
+              "Y": 18.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0082,
+              "Y": 0.1139
+            },
+            "PreSize": {
+              "X": 0.2214,
+              "Y": 0.6709
+            },
+            "LeftMargin": 7.0001,
+            "RightMargin": 660.9999,
+            "TopMargin": 34.0,
+            "BottomMargin": 18.0,
+            "Tag": 416,
+            "ActionTag": -1638483896,
+            "Size": {
+              "X": 190.0,
+              "Y": 106.0
+            },
+            "Name": "user0",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "clubRecordUser.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 183.4998,
+              "Y": 18.0002
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.2139,
+              "Y": 0.1139
+            },
+            "PreSize": {
+              "X": 0.2214,
+              "Y": 0.6709
+            },
+            "LeftMargin": 183.4998,
+            "RightMargin": 484.5002,
+            "TopMargin": 33.9998,
+            "BottomMargin": 18.0002,
+            "Tag": 432,
+            "ActionTag": -1972633571,
+            "Size": {
+              "X": 190.0,
+              "Y": 106.0
+            },
+            "Name": "user1",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "clubRecordUser.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 359.9999,
+              "Y": 18.0002
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.4196,
+              "Y": 0.1139
+            },
+            "PreSize": {
+              "X": 0.2214,
+              "Y": 0.6709
+            },
+            "LeftMargin": 359.9999,
+            "RightMargin": 308.0001,
+            "TopMargin": 33.9998,
+            "BottomMargin": 18.0002,
+            "Tag": 438,
+            "ActionTag": 920495876,
+            "Size": {
+              "X": 190.0,
+              "Y": 106.0
+            },
+            "Name": "user2",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "clubRecordUser.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 536.4997,
+              "Y": 18.0002
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.6253,
+              "Y": 0.1139
+            },
+            "PreSize": {
+              "X": 0.2214,
+              "Y": 0.6709
+            },
+            "LeftMargin": 536.4997,
+            "RightMargin": 131.5003,
+            "TopMargin": 33.9998,
+            "BottomMargin": 18.0002,
+            "Tag": 444,
+            "ActionTag": 674546007,
+            "Size": {
+              "X": 190.0,
+              "Y": 106.0
+            },
+            "Name": "user3",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "clubRecordUser.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 712.9991,
+              "Y": 18.0002
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.831,
+              "Y": 0.1139
+            },
+            "PreSize": {
+              "X": 0.2214,
+              "Y": 0.6709
+            },
+            "LeftMargin": 712.9991,
+            "RightMargin": -44.9991,
+            "TopMargin": 33.9998,
+            "BottomMargin": 18.0002,
+            "Tag": 450,
+            "ActionTag": -736755967,
+            "Size": {
+              "X": 190.0,
+              "Y": 106.0
+            },
+            "Name": "user4",
+            "ctype": "ProjectNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 858.0,
+          "Y": 158.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "clubRecordUser.json",
+        "gxDdz/17-club4/club_bg_zhanji@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

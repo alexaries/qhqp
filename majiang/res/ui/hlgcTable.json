@@ -1,0 +1,289 @@
+{
+  "ID": "8f8beebc-6df3-49ff-836a-a45b45a7037e",
+  "Version": "2.3.4",
+  "Name": "hlgcTable",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 495,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "kwxResource/yypk_background.jpg",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 496,
+            "ActionTag": 1741355010,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "BG",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hlgc_controlLayer.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 2136,
+            "ActionTag": 1663042320,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "controlLayer",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "HlgcTbale_UI.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 1.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0016
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "TopMargin": -1.0,
+            "BottomMargin": 1.0,
+            "Tag": 2151,
+            "ActionTag": -845722579,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "uiLayer",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "hand_right.png",
+              "Plist": "newMah/gxDdz/mah_back.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 847.6652,
+              "Y": 572.0
+            },
+            "Scale": {
+              "ScaleX": 0.655,
+              "ScaleY": 0.72
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7462,
+              "Y": 0.8938
+            },
+            "PreSize": {
+              "X": 0.0317,
+              "Y": 0.1219
+            },
+            "LeftMargin": 829.6652,
+            "RightMargin": 270.3348,
+            "TopMargin": -10.0,
+            "BottomMargin": 572.0,
+            "Tag": 1390,
+            "ActionTag": -283114615,
+            "Size": {
+              "X": 36.0,
+              "Y": 78.0
+            },
+            "VisibleForFrame": false,
+            "Name": "hand_right_89",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "hand_top.png",
+              "Plist": "newMah/gxDdz/mah_back.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 300.0,
+              "Y": 571.3526
+            },
+            "Scale": {
+              "ScaleX": 0.78,
+              "ScaleY": 0.78
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2641,
+              "Y": 0.8927
+            },
+            "PreSize": {
+              "X": 0.0502,
+              "Y": 0.1312
+            },
+            "LeftMargin": 300.0,
+            "RightMargin": 779.0,
+            "TopMargin": 26.6474,
+            "BottomMargin": 529.3526,
+            "Tag": 1391,
+            "ActionTag": -2002239836,
+            "Size": {
+              "X": 57.0,
+              "Y": 84.0
+            },
+            "VisibleForFrame": false,
+            "Name": "hand_top_90",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "hand_left.png",
+              "Plist": "newMah/gxDdz/mah_back.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 169.6854,
+              "Y": 120.0
+            },
+            "Scale": {
+              "ScaleX": 0.72,
+              "ScaleY": 0.72
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1494,
+              "Y": 0.1875
+            },
+            "PreSize": {
+              "X": 0.0317,
+              "Y": 0.1219
+            },
+            "LeftMargin": 169.6854,
+            "RightMargin": 930.3146,
+            "TopMargin": 442.0,
+            "BottomMargin": 120.0,
+            "Tag": 1392,
+            "ActionTag": 1846307030,
+            "Size": {
+              "X": 36.0,
+              "Y": 78.0
+            },
+            "VisibleForFrame": false,
+            "Name": "hand_left_91",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "hlgc_controlLayer.json",
+        "HlgcTbale_UI.json",
+        "kwxResource/yypk_background.jpg",
+        "newMah/gxDdz/mah_back.plist",
+        "newMah/gxDdz/mah_back.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

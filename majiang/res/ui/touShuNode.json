@@ -1,0 +1,125 @@
+{
+  "ID": "7fc42f12-c36f-4f11-afbd-fdb650bd887e",
+  "Version": "2.3.4",
+  "Name": "touShuNode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 121,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "wl/bg_num@2x.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 9,
+            "Scale9OriginY": 5,
+            "Scale9Width": 10,
+            "Scale9Height": 8,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -20.0,
+            "RightMargin": -20.0,
+            "TopMargin": -12.5,
+            "BottomMargin": -12.5,
+            "Tag": 122,
+            "Children": [
+              {
+                "CharWidth": 18,
+                "CharHeight": 23,
+                "LabelText": "89",
+                "StartChar": "0",
+                "LabelAtlasFileImage_CNB": {
+                  "Type": "Normal",
+                  "Path": "common/number/number_paishu1.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 20.2436,
+                  "Y": 12.7541
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5061,
+                  "Y": 0.5102
+                },
+                "PreSize": {
+                  "X": 0.9,
+                  "Y": 0.92
+                },
+                "LeftMargin": 2.2436,
+                "RightMargin": 1.7564,
+                "TopMargin": 0.7459,
+                "BottomMargin": 1.2541,
+                "Tag": 12,
+                "ActionTag": 1507930452,
+                "Size": {
+                  "X": 36.0,
+                  "Y": 23.0
+                },
+                "Name": "textLabel",
+                "ctype": "TextAtlasObjectData"
+              }
+            ],
+            "ActionTag": -942177806,
+            "Size": {
+              "X": 40.0,
+              "Y": 25.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "common/number/number_paishu1.png",
+        "wl/bg_num@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

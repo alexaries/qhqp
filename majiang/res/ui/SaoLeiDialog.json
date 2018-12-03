@@ -1,0 +1,452 @@
+{
+  "ID": "da4531de-1e78-4ebd-a992-64466a2b3af8",
+  "Version": "2.3.4",
+  "Name": "SaoLeiDialog",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 668,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 101,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "MineSweepingNew/sl_bg_kai@2x.png",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 124,
+            "Scale9OriginY": 176,
+            "Scale9Width": 130,
+            "Scale9Height": 183,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -0.0001,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "VerticalEdge": "TopEdge",
+            "LeftMargin": -0.0001,
+            "RightMargin": 0.0001,
+            "Tag": 669,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "MineSweepingNew/sl_bg_kong@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 39,
+                "Scale9OriginY": 39,
+                "Scale9Width": 42,
+                "Scale9Height": 42,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 320.0,
+                  "Y": 763.739
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.6723
+                },
+                "PreSize": {
+                  "X": 0.1875,
+                  "Y": 0.1056
+                },
+                "LeftMargin": 260.0,
+                "RightMargin": 260.0,
+                "TopMargin": 312.261,
+                "BottomMargin": 703.739,
+                "Tag": 671,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "MineSweepingNew/sl_bg_frame@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 39,
+                    "Scale9OriginY": 39,
+                    "Scale9Width": 42,
+                    "Scale9Height": 42,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 60.0,
+                      "Y": 60.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 882,
+                    "ActionTag": -1958999746,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 120.0
+                    },
+                    "Name": "iv_border",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 826723259,
+                "Size": {
+                  "X": 120.0,
+                  "Y": 120.0
+                },
+                "Name": "iv_head",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "MineSweepingNew/sl_bg_jifen@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 45,
+                "Scale9OriginY": 14,
+                "Scale9Width": 48,
+                "Scale9Height": 15,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 320.0,
+                  "Y": 696.0883
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.6128
+                },
+                "PreSize": {
+                  "X": 0.2156,
+                  "Y": 0.0379
+                },
+                "LeftMargin": 251.0,
+                "RightMargin": 251.0,
+                "TopMargin": 418.4117,
+                "BottomMargin": 674.5883,
+                "Tag": 672,
+                "ActionTag": 540800006,
+                "Size": {
+                  "X": 138.0,
+                  "Y": 43.0
+                },
+                "Name": "Image_3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "MineSweepingNew/sl_btn_open@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 100,
+                "Scale9Height": 108,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 320.0,
+                  "Y": 438.1677
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.3857
+                },
+                "PreSize": {
+                  "X": 0.2031,
+                  "Y": 0.1144
+                },
+                "LeftMargin": 255.0,
+                "RightMargin": 255.0,
+                "TopMargin": 632.8323,
+                "BottomMargin": 373.1677,
+                "Tag": 676,
+                "ActionTag": 1664962299,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 130.0
+                },
+                "Name": "btn_open",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "MineSweepingNew/sl_bg_prompt@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 100,
+                "Scale9OriginY": 19,
+                "Scale9Width": 104,
+                "Scale9Height": 22,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 320.0004,
+                  "Y": 571.3059
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5029
+                },
+                "PreSize": {
+                  "X": 0.475,
+                  "Y": 0.0528
+                },
+                "LeftMargin": 168.0004,
+                "RightMargin": 167.9996,
+                "TopMargin": 534.6941,
+                "BottomMargin": 541.3059,
+                "Tag": 674,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 30,
+                    "LabelText": "雷针：3",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/FZY4JW_0569.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 154.4679,
+                      "Y": 28.443
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5081,
+                      "Y": 0.4741
+                    },
+                    "PreSize": {
+                      "X": 0.9868,
+                      "Y": 0.5833
+                    },
+                    "LeftMargin": 4.4679,
+                    "RightMargin": -0.4679,
+                    "TopMargin": 14.057,
+                    "BottomMargin": 10.943,
+                    "Tag": 675,
+                    "ActionTag": -1278193129,
+                    "Size": {
+                      "X": 300.0,
+                      "Y": 35.0
+                    },
+                    "Name": "tv_prompt1",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1668070003,
+                "Size": {
+                  "X": 304.0,
+                  "Y": 60.0
+                },
+                "Name": "iv_prompt1",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1947509129,
+            "Size": {
+              "X": 640.0,
+              "Y": 1136.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "有点忙",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 318.908,
+              "Y": 697.7947
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4983,
+              "Y": 0.6143
+            },
+            "PreSize": {
+              "X": 0.0938,
+              "Y": 0.0176
+            },
+            "LeftMargin": 288.908,
+            "RightMargin": 291.092,
+            "TopMargin": 428.2053,
+            "BottomMargin": 687.7947,
+            "Tag": 673,
+            "ActionTag": 296129935,
+            "Size": {
+              "X": 60.0,
+              "Y": 20.0
+            },
+            "Name": "tv_name",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Font/FZY4JW_0569.TTF",
+        "MineSweepingNew/sl_bg_frame@2x.png",
+        "MineSweepingNew/sl_bg_jifen@2x.png",
+        "MineSweepingNew/sl_bg_kai@2x.png",
+        "MineSweepingNew/sl_bg_kong@2x.png",
+        "MineSweepingNew/sl_bg_prompt@2x.png",
+        "MineSweepingNew/sl_btn_open@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

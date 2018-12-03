@@ -1,0 +1,2028 @@
+{
+  "ID": "9566cdc7-ce87-463c-b766-a1f3bbfe455a",
+  "Version": "2.3.4",
+  "Name": "JoinRoomWindow",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 19,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 127,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": -374,
+            "Scale9OriginY": -211,
+            "Scale9Width": 748,
+            "Scale9Height": 422,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.832
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5013
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "TopMargin": -0.832,
+            "BottomMargin": 0.832,
+            "Tag": 53,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "Scale9OriginX": -11,
+                "Scale9OriginY": -11,
+                "Scale9Width": 22,
+                "Scale9Height": 22,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 320.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 58,
+                "ActionTag": -588150326,
+                "Size": {
+                  "X": 1136.0,
+                  "Y": 640.0
+                },
+                "Name": "backBtn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qhqp/5-join/qh_bg_join@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 26,
+                "Scale9OriginY": 25,
+                "Scale9Width": 619,
+                "Scale9Height": 495,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 320.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.5907,
+                  "Y": 0.8516
+                },
+                "LeftMargin": 232.5,
+                "RightMargin": 232.5,
+                "TopMargin": 47.5,
+                "BottomMargin": 47.5,
+                "Tag": 55,
+                "Children": [
+                  {
+                    "FontSize": 36,
+                    "ButtonText": "",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "TextColor": {
+                      "R": 229,
+                      "G": 229,
+                      "B": 229
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/5-join/qh_btn_bun@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 120,
+                    "Scale9Height": 50,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 144.903,
+                      "Y": 308.2511
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.216,
+                      "Y": 0.5656
+                    },
+                    "PreSize": {
+                      "X": 0.2235,
+                      "Y": 0.1321
+                    },
+                    "LeftMargin": 69.903,
+                    "RightMargin": 451.097,
+                    "TopMargin": 200.7489,
+                    "BottomMargin": 272.2511,
+                    "Tag": 60,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "qhqp/5-join/1@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 75.0,
+                          "Y": 39.6
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.55
+                        },
+                        "PreSize": {
+                          "X": 0.0867,
+                          "Y": 0.4167
+                        },
+                        "LeftMargin": 68.5,
+                        "RightMargin": 68.5,
+                        "TopMargin": 17.4,
+                        "BottomMargin": 24.6,
+                        "Tag": 262,
+                        "ActionTag": 1769870607,
+                        "Size": {
+                          "X": 13.0,
+                          "Y": 30.0
+                        },
+                        "Name": "Sprite_3",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 368723189,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 72.0
+                    },
+                    "Name": "btn1",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 36,
+                    "ButtonText": "",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "TextColor": {
+                      "R": 229,
+                      "G": 229,
+                      "B": 229
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/5-join/qh_btn_bun@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 120,
+                    "Scale9Height": 50,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 341.4938,
+                      "Y": 308.2521
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5089,
+                      "Y": 0.5656
+                    },
+                    "PreSize": {
+                      "X": 0.2235,
+                      "Y": 0.1321
+                    },
+                    "LeftMargin": 266.4938,
+                    "RightMargin": 254.5062,
+                    "TopMargin": 200.7479,
+                    "BottomMargin": 272.2521,
+                    "Tag": 62,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "qhqp/5-join/2@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 75.0,
+                          "Y": 39.6
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.55
+                        },
+                        "PreSize": {
+                          "X": 0.14,
+                          "Y": 0.4167
+                        },
+                        "LeftMargin": 64.5,
+                        "RightMargin": 64.5,
+                        "TopMargin": 17.4,
+                        "BottomMargin": 24.6,
+                        "Tag": 263,
+                        "ActionTag": -636028897,
+                        "Size": {
+                          "X": 21.0,
+                          "Y": 30.0
+                        },
+                        "Name": "Sprite_4",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 902159862,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 72.0
+                    },
+                    "Name": "btn2",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 36,
+                    "ButtonText": "",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "TextColor": {
+                      "R": 229,
+                      "G": 229,
+                      "B": 229
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/5-join/qh_btn_bun@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 120,
+                    "Scale9Height": 50,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 539.0859,
+                      "Y": 308.2511
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8034,
+                      "Y": 0.5656
+                    },
+                    "PreSize": {
+                      "X": 0.2235,
+                      "Y": 0.1321
+                    },
+                    "LeftMargin": 464.0859,
+                    "RightMargin": 56.9141,
+                    "TopMargin": 200.7489,
+                    "BottomMargin": 272.2511,
+                    "Tag": 63,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "qhqp/5-join/3@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 75.0,
+                          "Y": 39.6
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.55
+                        },
+                        "PreSize": {
+                          "X": 0.14,
+                          "Y": 0.4167
+                        },
+                        "LeftMargin": 64.5,
+                        "RightMargin": 64.5,
+                        "TopMargin": 17.4,
+                        "BottomMargin": 24.6,
+                        "Tag": 264,
+                        "ActionTag": -204802583,
+                        "Size": {
+                          "X": 21.0,
+                          "Y": 30.0
+                        },
+                        "Name": "Sprite_5",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -132071572,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 72.0
+                    },
+                    "Name": "btn3",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 36,
+                    "ButtonText": "",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "TextColor": {
+                      "R": 229,
+                      "G": 229,
+                      "B": 229
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/5-join/qh_btn_bun@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 120,
+                    "Scale9Height": 50,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 144.903,
+                      "Y": 231.9036
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.216,
+                      "Y": 0.4255
+                    },
+                    "PreSize": {
+                      "X": 0.2235,
+                      "Y": 0.1321
+                    },
+                    "LeftMargin": 69.903,
+                    "RightMargin": 451.097,
+                    "TopMargin": 277.0964,
+                    "BottomMargin": 195.9036,
+                    "Tag": 64,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "qhqp/5-join/4@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 75.0,
+                          "Y": 39.6
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.55
+                        },
+                        "PreSize": {
+                          "X": 0.1467,
+                          "Y": 0.4167
+                        },
+                        "LeftMargin": 64.0,
+                        "RightMargin": 64.0,
+                        "TopMargin": 17.4,
+                        "BottomMargin": 24.6,
+                        "Tag": 265,
+                        "ActionTag": -674345443,
+                        "Size": {
+                          "X": 22.0,
+                          "Y": 30.0
+                        },
+                        "Name": "Sprite_6",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 227332911,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 72.0
+                    },
+                    "Name": "btn4",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 36,
+                    "ButtonText": "",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "TextColor": {
+                      "R": 229,
+                      "G": 229,
+                      "B": 229
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/5-join/qh_btn_bun@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 120,
+                    "Scale9Height": 50,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 341.4938,
+                      "Y": 231.9037
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5089,
+                      "Y": 0.4255
+                    },
+                    "PreSize": {
+                      "X": 0.2235,
+                      "Y": 0.1321
+                    },
+                    "LeftMargin": 266.4938,
+                    "RightMargin": 254.5062,
+                    "TopMargin": 277.0963,
+                    "BottomMargin": 195.9037,
+                    "Tag": 65,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "qhqp/5-join/5@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 75.0,
+                          "Y": 39.6
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.55
+                        },
+                        "PreSize": {
+                          "X": 0.14,
+                          "Y": 0.4167
+                        },
+                        "LeftMargin": 64.5,
+                        "RightMargin": 64.5,
+                        "TopMargin": 17.4,
+                        "BottomMargin": 24.6,
+                        "Tag": 266,
+                        "ActionTag": -1992576819,
+                        "Size": {
+                          "X": 21.0,
+                          "Y": 30.0
+                        },
+                        "Name": "Sprite_7",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -923758208,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 72.0
+                    },
+                    "Name": "btn5",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 36,
+                    "ButtonText": "",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "TextColor": {
+                      "R": 229,
+                      "G": 229,
+                      "B": 229
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/5-join/qh_btn_bun@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 120,
+                    "Scale9Height": 50,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 539.0859,
+                      "Y": 231.9037
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8034,
+                      "Y": 0.4255
+                    },
+                    "PreSize": {
+                      "X": 0.2235,
+                      "Y": 0.1321
+                    },
+                    "LeftMargin": 464.0859,
+                    "RightMargin": 56.9141,
+                    "TopMargin": 277.0963,
+                    "BottomMargin": 195.9037,
+                    "Tag": 66,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "qhqp/5-join/6@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 75.0,
+                          "Y": 39.6
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.55
+                        },
+                        "PreSize": {
+                          "X": 0.14,
+                          "Y": 0.4167
+                        },
+                        "LeftMargin": 64.5,
+                        "RightMargin": 64.5,
+                        "TopMargin": 17.4,
+                        "BottomMargin": 24.6,
+                        "Tag": 268,
+                        "ActionTag": -2068421778,
+                        "Size": {
+                          "X": 21.0,
+                          "Y": 30.0
+                        },
+                        "Name": "Sprite_9",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 508257115,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 72.0
+                    },
+                    "Name": "btn6",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 36,
+                    "ButtonText": "",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "TextColor": {
+                      "R": 229,
+                      "G": 229,
+                      "B": 229
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/5-join/qh_btn_bun@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 120,
+                    "Scale9Height": 50,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 144.903,
+                      "Y": 156.5558
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.216,
+                      "Y": 0.2873
+                    },
+                    "PreSize": {
+                      "X": 0.2235,
+                      "Y": 0.1321
+                    },
+                    "LeftMargin": 69.903,
+                    "RightMargin": 451.097,
+                    "TopMargin": 352.4442,
+                    "BottomMargin": 120.5558,
+                    "Tag": 67,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "qhqp/5-join/7@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 75.0,
+                          "Y": 39.6
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.55
+                        },
+                        "PreSize": {
+                          "X": 0.1333,
+                          "Y": 0.4167
+                        },
+                        "LeftMargin": 65.0,
+                        "RightMargin": 65.0,
+                        "TopMargin": 17.4,
+                        "BottomMargin": 24.6,
+                        "Tag": 269,
+                        "ActionTag": -1468800912,
+                        "Size": {
+                          "X": 20.0,
+                          "Y": 30.0
+                        },
+                        "Name": "Sprite_10",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 215624047,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 72.0
+                    },
+                    "Name": "btn7",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 36,
+                    "ButtonText": "",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "TextColor": {
+                      "R": 229,
+                      "G": 229,
+                      "B": 229
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/5-join/qh_btn_bun@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 120,
+                    "Scale9Height": 50,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 341.4938,
+                      "Y": 156.5558
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5089,
+                      "Y": 0.2873
+                    },
+                    "PreSize": {
+                      "X": 0.2235,
+                      "Y": 0.1321
+                    },
+                    "LeftMargin": 266.4938,
+                    "RightMargin": 254.5062,
+                    "TopMargin": 352.4442,
+                    "BottomMargin": 120.5558,
+                    "Tag": 68,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "qhqp/5-join/8@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 75.0,
+                          "Y": 39.6
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.55
+                        },
+                        "PreSize": {
+                          "X": 0.14,
+                          "Y": 0.4167
+                        },
+                        "LeftMargin": 64.5,
+                        "RightMargin": 64.5,
+                        "TopMargin": 17.4,
+                        "BottomMargin": 24.6,
+                        "Tag": 270,
+                        "ActionTag": 1618081904,
+                        "Size": {
+                          "X": 21.0,
+                          "Y": 30.0
+                        },
+                        "Name": "Sprite_11",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -462998442,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 72.0
+                    },
+                    "Name": "btn8",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 36,
+                    "ButtonText": "",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "TextColor": {
+                      "R": 229,
+                      "G": 229,
+                      "B": 229
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/5-join/qh_btn_bun@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 120,
+                    "Scale9Height": 50,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 538.988,
+                      "Y": 156.5558
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8033,
+                      "Y": 0.2873
+                    },
+                    "PreSize": {
+                      "X": 0.2235,
+                      "Y": 0.1321
+                    },
+                    "LeftMargin": 463.988,
+                    "RightMargin": 57.012,
+                    "TopMargin": 352.4442,
+                    "BottomMargin": 120.5558,
+                    "Tag": 69,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "qhqp/5-join/9@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 75.0,
+                          "Y": 39.6
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.55
+                        },
+                        "PreSize": {
+                          "X": 0.14,
+                          "Y": 0.4167
+                        },
+                        "LeftMargin": 64.5,
+                        "RightMargin": 64.5,
+                        "TopMargin": 17.4,
+                        "BottomMargin": 24.6,
+                        "Tag": 271,
+                        "ActionTag": -69653151,
+                        "Size": {
+                          "X": 21.0,
+                          "Y": 30.0
+                        },
+                        "Name": "Sprite_12",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 1913437245,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 72.0
+                    },
+                    "Name": "btn9",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 36,
+                    "ButtonText": "",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "TextColor": {
+                      "R": 229,
+                      "G": 229,
+                      "B": 229
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/5-join/qh_btn_bun@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 120,
+                    "Scale9Height": 50,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 341.4938,
+                      "Y": 81.2079
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5089,
+                      "Y": 0.149
+                    },
+                    "PreSize": {
+                      "X": 0.2235,
+                      "Y": 0.1321
+                    },
+                    "LeftMargin": 266.4938,
+                    "RightMargin": 254.5062,
+                    "TopMargin": 427.7921,
+                    "BottomMargin": 45.2079,
+                    "Tag": 70,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "qhqp/5-join/0@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 75.0,
+                          "Y": 39.6
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.55
+                        },
+                        "PreSize": {
+                          "X": 0.1467,
+                          "Y": 0.4167
+                        },
+                        "LeftMargin": 64.0,
+                        "RightMargin": 64.0,
+                        "TopMargin": 17.4,
+                        "BottomMargin": 24.6,
+                        "Tag": 272,
+                        "ActionTag": 618681615,
+                        "Size": {
+                          "X": 22.0,
+                          "Y": 30.0
+                        },
+                        "Name": "Sprite_13",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -2105216252,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 72.0
+                    },
+                    "Name": "btn0",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 36,
+                    "ButtonText": "",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "TextColor": {
+                      "R": 229,
+                      "G": 229,
+                      "B": 229
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/5-join/btn_reset@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 120,
+                    "Scale9Height": 50,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 539.0859,
+                      "Y": 81.2079
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8034,
+                      "Y": 0.149
+                    },
+                    "PreSize": {
+                      "X": 0.2235,
+                      "Y": 0.1321
+                    },
+                    "LeftMargin": 464.0859,
+                    "RightMargin": 56.9141,
+                    "TopMargin": 427.7921,
+                    "BottomMargin": 45.2079,
+                    "Tag": 71,
+                    "ActionTag": -520791298,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 72.0
+                    },
+                    "Name": "cs",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 36,
+                    "ButtonText": "",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "TextColor": {
+                      "R": 229,
+                      "G": 229,
+                      "B": 229
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/5-join/btn_delete@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 120,
+                    "Scale9Height": 50,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 144.903,
+                      "Y": 81.2079
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.216,
+                      "Y": 0.149
+                    },
+                    "PreSize": {
+                      "X": 0.2235,
+                      "Y": 0.1321
+                    },
+                    "LeftMargin": 69.903,
+                    "RightMargin": 451.097,
+                    "TopMargin": 427.7921,
+                    "BottomMargin": 45.2079,
+                    "Tag": 72,
+                    "ActionTag": -829188389,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 72.0
+                    },
+                    "Name": "sc",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/5-join/qh_img_input@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 185,
+                    "Scale9OriginY": 25,
+                    "Scale9Width": 172,
+                    "Scale9Height": 22,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 338.855,
+                      "Y": 411.6785
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.505,
+                      "Y": 0.7554
+                    },
+                    "PreSize": {
+                      "X": 0.8077,
+                      "Y": 0.1321
+                    },
+                    "LeftMargin": 67.855,
+                    "RightMargin": 61.145,
+                    "TopMargin": 97.3215,
+                    "BottomMargin": 375.6785,
+                    "Tag": 61,
+                    "Children": [
+                      {
+                        "FontSize": 48,
+                        "LabelText": "0",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "FZHei-B01S.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 49.8708,
+                          "Y": 36.3799
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.092,
+                          "Y": 0.5053
+                        },
+                        "PreSize": {
+                          "X": 0.0517,
+                          "Y": 0.75
+                        },
+                        "LeftMargin": 35.8708,
+                        "RightMargin": 478.1292,
+                        "TopMargin": 8.6201,
+                        "BottomMargin": 9.3799,
+                        "Tag": 74,
+                        "ActionTag": -1161472871,
+                        "Size": {
+                          "X": 28.0,
+                          "Y": 54.0
+                        },
+                        "Name": "1",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 48,
+                        "LabelText": "0",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "FZHei-B01S.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 140.7015,
+                          "Y": 36.3797
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2596,
+                          "Y": 0.5053
+                        },
+                        "PreSize": {
+                          "X": 0.0517,
+                          "Y": 0.75
+                        },
+                        "LeftMargin": 126.7015,
+                        "RightMargin": 387.2985,
+                        "TopMargin": 8.6203,
+                        "BottomMargin": 9.3797,
+                        "Tag": 75,
+                        "ActionTag": -756495651,
+                        "Size": {
+                          "X": 28.0,
+                          "Y": 54.0
+                        },
+                        "Name": "2",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 48,
+                        "LabelText": "0",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "FZHei-B01S.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 229.5328,
+                          "Y": 36.3797
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4235,
+                          "Y": 0.5053
+                        },
+                        "PreSize": {
+                          "X": 0.0517,
+                          "Y": 0.75
+                        },
+                        "LeftMargin": 215.5328,
+                        "RightMargin": 298.4672,
+                        "TopMargin": 8.6203,
+                        "BottomMargin": 9.3797,
+                        "Tag": 76,
+                        "ActionTag": -192660059,
+                        "Size": {
+                          "X": 28.0,
+                          "Y": 54.0
+                        },
+                        "Name": "3",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 48,
+                        "LabelText": "0",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "FZHei-B01S.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 320.364,
+                          "Y": 36.3797
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5911,
+                          "Y": 0.5053
+                        },
+                        "PreSize": {
+                          "X": 0.0517,
+                          "Y": 0.75
+                        },
+                        "LeftMargin": 306.364,
+                        "RightMargin": 207.636,
+                        "TopMargin": 8.6203,
+                        "BottomMargin": 9.3797,
+                        "Tag": 77,
+                        "ActionTag": 1349398125,
+                        "Size": {
+                          "X": 28.0,
+                          "Y": 54.0
+                        },
+                        "Name": "4",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 48,
+                        "LabelText": "0",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "FZHei-B01S.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 409.1953,
+                          "Y": 36.3797
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.755,
+                          "Y": 0.5053
+                        },
+                        "PreSize": {
+                          "X": 0.0517,
+                          "Y": 0.75
+                        },
+                        "LeftMargin": 395.1953,
+                        "RightMargin": 118.8047,
+                        "TopMargin": 8.6203,
+                        "BottomMargin": 9.3797,
+                        "Tag": 78,
+                        "ActionTag": 314927807,
+                        "Size": {
+                          "X": 28.0,
+                          "Y": 54.0
+                        },
+                        "Name": "5",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 48,
+                        "LabelText": "0",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "FZHei-B01S.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 495.0259,
+                          "Y": 36.3799
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.9133,
+                          "Y": 0.5053
+                        },
+                        "PreSize": {
+                          "X": 0.0517,
+                          "Y": 0.75
+                        },
+                        "LeftMargin": 481.0259,
+                        "RightMargin": 32.9741,
+                        "TopMargin": 8.6201,
+                        "BottomMargin": 9.3799,
+                        "Tag": 79,
+                        "ActionTag": -236926602,
+                        "Size": {
+                          "X": 28.0,
+                          "Y": 54.0
+                        },
+                        "Name": "6",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -59645129,
+                    "Size": {
+                      "X": 542.0,
+                      "Y": 72.0
+                    },
+                    "Name": "Image_7",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1127038898,
+                "Size": {
+                  "X": 671.0,
+                  "Y": 545.0
+                },
+                "Name": "bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qhqp/5-join/qh_title_join@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 573.1466,
+                  "Y": 562.3888
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5045,
+                  "Y": 0.8787
+                },
+                "PreSize": {
+                  "X": 0.1224,
+                  "Y": 0.0531
+                },
+                "LeftMargin": 503.6466,
+                "RightMargin": 493.3534,
+                "TopMargin": 60.6112,
+                "BottomMargin": 545.3888,
+                "Tag": 260,
+                "ActionTag": 925477685,
+                "Size": {
+                  "X": 139.0,
+                  "Y": 34.0
+                },
+                "Name": "title",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "qhqp/4-create/qh_btn_close@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 46,
+                "Scale9Height": 60,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 891.5133,
+                  "Y": 548.1575
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7848,
+                  "Y": 0.8565
+                },
+                "PreSize": {
+                  "X": 0.0669,
+                  "Y": 0.1281
+                },
+                "LeftMargin": 853.5133,
+                "RightMargin": 206.4867,
+                "TopMargin": 50.8425,
+                "BottomMargin": 507.1575,
+                "Tag": 448,
+                "ActionTag": -1242626263,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 82.0
+                },
+                "Name": "closeBtn",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1032211798,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "Panel_1_0",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "FZHei-B01S.ttf",
+        "qhqp/4-create/qh_btn_close@2x.png",
+        "qhqp/5-join/0@2x.png",
+        "qhqp/5-join/1@2x.png",
+        "qhqp/5-join/2@2x.png",
+        "qhqp/5-join/3@2x.png",
+        "qhqp/5-join/4@2x.png",
+        "qhqp/5-join/5@2x.png",
+        "qhqp/5-join/6@2x.png",
+        "qhqp/5-join/7@2x.png",
+        "qhqp/5-join/8@2x.png",
+        "qhqp/5-join/9@2x.png",
+        "qhqp/5-join/btn_delete@2x.png",
+        "qhqp/5-join/btn_reset@2x.png",
+        "qhqp/5-join/qh_bg_join@2x.png",
+        "qhqp/5-join/qh_btn_bun@2x.png",
+        "qhqp/5-join/qh_img_input@2x.png",
+        "qhqp/5-join/qh_title_join@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

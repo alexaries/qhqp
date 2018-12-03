@@ -1,0 +1,850 @@
+{
+  "ID": "f4e92257-d113-452e-952a-0b037c89fecc",
+  "Version": "2.3.4",
+  "Name": "fightSet",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 141,
+        "Children": [
+          {
+            "ClipAble": true,
+            "BackColorAlpha": 101,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 361.224
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5017
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "TopMargin": -1.224,
+            "BottomMargin": 1.224,
+            "Tag": 171,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "gxDdz/13-room1-4/bg_room_setting@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 26,
+                "Scale9OriginY": 25,
+                "Scale9Width": 546,
+                "Scale9Height": 294,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 679.6801,
+                  "Y": 354.744
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.531,
+                  "Y": 0.4927
+                },
+                "PreSize": {
+                  "X": 0.4672,
+                  "Y": 0.4778
+                },
+                "LeftMargin": 380.6801,
+                "RightMargin": 301.3199,
+                "TopMargin": 193.256,
+                "BottomMargin": 182.744,
+                "Tag": 172,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "gxDdz/13-room1-4/Button_Close@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 28,
+                    "Scale9Height": 38,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 583.4216,
+                      "Y": 329.7541
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9756,
+                      "Y": 0.9586
+                    },
+                    "PreSize": {
+                      "X": 0.097,
+                      "Y": 0.1744
+                    },
+                    "LeftMargin": 554.4216,
+                    "RightMargin": -14.4216,
+                    "TopMargin": -15.7541,
+                    "BottomMargin": 299.7541,
+                    "Tag": 358,
+                    "ActionTag": -727048564,
+                    "Size": {
+                      "X": 58.0,
+                      "Y": 60.0
+                    },
+                    "Name": "exitLogin",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "gxDdz/13-room1-4/setting_title@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 31,
+                    "Scale9OriginY": 12,
+                    "Scale9Width": 60,
+                    "Scale9Height": 24,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 292.4438,
+                      "Y": 303.444
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.489,
+                      "Y": 0.8821
+                    },
+                    "PreSize": {
+                      "X": 0.204,
+                      "Y": 0.1395
+                    },
+                    "LeftMargin": 231.4438,
+                    "RightMargin": 244.5562,
+                    "TopMargin": 16.556,
+                    "BottomMargin": 279.444,
+                    "Tag": 303,
+                    "ActionTag": -140054205,
+                    "Size": {
+                      "X": 122.0,
+                      "Y": 48.0
+                    },
+                    "Name": "Image_55",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 36,
+                    "ButtonText": "",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "TextColor": {},
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "common/btnAndText/btn_samllblue@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 4,
+                    "Scale9Width": 213,
+                    "Scale9Height": 88,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 179.4,
+                      "Y": 51.6
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.3,
+                      "Y": 0.15
+                    },
+                    "PreSize": {
+                      "X": 0.2809,
+                      "Y": 0.2238
+                    },
+                    "LeftMargin": 95.4,
+                    "RightMargin": 334.6,
+                    "TopMargin": 253.9,
+                    "BottomMargin": 13.1,
+                    "Tag": 176,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "common/btnAndText/qiehuanzhanghao_zi.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 24,
+                        "Scale9OriginY": 9,
+                        "Scale9Width": 69,
+                        "Scale9Height": 11,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 84.504,
+                          "Y": 42.7581
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.503,
+                          "Y": 0.5553
+                        },
+                        "PreSize": {
+                          "X": 0.6964,
+                          "Y": 0.3766
+                        },
+                        "LeftMargin": 26.004,
+                        "RightMargin": 24.996,
+                        "TopMargin": 19.7419,
+                        "BottomMargin": 28.2581,
+                        "Tag": 1231,
+                        "ActionTag": 1995921333,
+                        "Size": {
+                          "X": 117.0,
+                          "Y": 29.0
+                        },
+                        "Name": "Image_56",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -17992567,
+                    "Size": {
+                      "X": 168.0,
+                      "Y": 77.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "change",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "BackGroundData": {
+                      "Type": "Normal",
+                      "Path": "gxDdz/13-room1-4/setting_bar_bg@2x.png",
+                      "Plist": ""
+                    },
+                    "ProgressBarData": {
+                      "Type": "Normal",
+                      "Path": "gxDdz/13-room1-4/setting_bar@2x.png",
+                      "Plist": ""
+                    },
+                    "BallNormalData": {
+                      "Type": "Normal",
+                      "Path": "gxDdz/13-room1-4/setting_dice@2x.png",
+                      "Plist": ""
+                    },
+                    "BallPressedData": {
+                      "Type": "Normal",
+                      "Path": "gxDdz/13-room1-4/setting_dice@2x.png",
+                      "Plist": ""
+                    },
+                    "BallDisabledData": {
+                      "Type": "Normal",
+                      "Path": "gxDdz/13-room1-4/setting_dice@2x.png",
+                      "Plist": ""
+                    },
+                    "PercentInfo": 100,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 318.3899,
+                      "Y": 123.382
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5324,
+                      "Y": 0.3587
+                    },
+                    "PreSize": {
+                      "X": 0.5786,
+                      "Y": 0.1395
+                    },
+                    "LeftMargin": 145.3899,
+                    "RightMargin": 106.6101,
+                    "TopMargin": 196.618,
+                    "BottomMargin": 99.382,
+                    "Tag": 179,
+                    "ActionTag": 327367860,
+                    "Size": {
+                      "X": 346.0,
+                      "Y": 48.0
+                    },
+                    "Name": "musicSlider",
+                    "ctype": "SliderObjectData"
+                  },
+                  {
+                    "BackGroundData": {
+                      "Type": "Normal",
+                      "Path": "gxDdz/13-room1-4/setting_bar_bg@2x.png",
+                      "Plist": ""
+                    },
+                    "ProgressBarData": {
+                      "Type": "Normal",
+                      "Path": "gxDdz/13-room1-4/setting_bar@2x.png",
+                      "Plist": ""
+                    },
+                    "BallNormalData": {
+                      "Type": "Normal",
+                      "Path": "gxDdz/13-room1-4/setting_dice@2x.png",
+                      "Plist": ""
+                    },
+                    "BallPressedData": {
+                      "Type": "Normal",
+                      "Path": "gxDdz/13-room1-4/setting_dice@2x.png",
+                      "Plist": ""
+                    },
+                    "BallDisabledData": {
+                      "Type": "Normal",
+                      "Path": "gxDdz/13-room1-4/setting_dice@2x.png",
+                      "Plist": ""
+                    },
+                    "PercentInfo": 100,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5313,
+                      "ScaleY": 0.5378
+                    },
+                    "Position": {
+                      "X": 329.2197,
+                      "Y": 222.8949
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5505,
+                      "Y": 0.648
+                    },
+                    "PreSize": {
+                      "X": 0.5786,
+                      "Y": 0.1395
+                    },
+                    "LeftMargin": 145.3899,
+                    "RightMargin": 106.6101,
+                    "TopMargin": 98.9195,
+                    "BottomMargin": 197.0805,
+                    "Tag": 180,
+                    "ActionTag": 696293932,
+                    "Size": {
+                      "X": 346.0,
+                      "Y": 48.0
+                    },
+                    "Name": "effectSlider",
+                    "ctype": "SliderObjectData"
+                  },
+                  {
+                    "FontSize": 36,
+                    "ButtonText": "",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "TextColor": {},
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "gxDdz/13-room1-4/btn_dismiss_room@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 4,
+                    "Scale9Width": 152,
+                    "Scale9Height": 53,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 296.6323,
+                      "Y": 36.135
+                    },
+                    "Scale": {
+                      "ScaleX": 0.75,
+                      "ScaleY": 0.8
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.496,
+                      "Y": 0.105
+                    },
+                    "PreSize": {
+                      "X": 0.2977,
+                      "Y": 0.1773
+                    },
+                    "LeftMargin": 207.6323,
+                    "RightMargin": 212.3677,
+                    "TopMargin": 277.3651,
+                    "BottomMargin": 5.635,
+                    "Tag": 172,
+                    "ActionTag": 1461408908,
+                    "Size": {
+                      "X": 178.0,
+                      "Y": 61.0
+                    },
+                    "Name": "dissmissBtn",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "gxDdz/13-room1-4/setting_music@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 23,
+                    "Scale9OriginY": 10,
+                    "Scale9Width": 22,
+                    "Scale9Height": 20,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 51.8274,
+                      "Y": 121.3645
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0867,
+                      "Y": 0.3528
+                    },
+                    "PreSize": {
+                      "X": 0.1137,
+                      "Y": 0.1163
+                    },
+                    "LeftMargin": 17.8274,
+                    "RightMargin": 512.1726,
+                    "TopMargin": 202.6355,
+                    "BottomMargin": 101.3645,
+                    "Tag": 479,
+                    "ActionTag": 1810108093,
+                    "Size": {
+                      "X": 68.0,
+                      "Y": 40.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "gxDdz/13-room1-4/setting_sound_effect@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 23,
+                    "Scale9OriginY": 10,
+                    "Scale9Width": 22,
+                    "Scale9Height": 20,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 51.8274,
+                      "Y": 220.1568
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0867,
+                      "Y": 0.64
+                    },
+                    "PreSize": {
+                      "X": 0.1137,
+                      "Y": 0.1163
+                    },
+                    "LeftMargin": 17.8274,
+                    "RightMargin": 512.1726,
+                    "TopMargin": 103.8432,
+                    "BottomMargin": 200.1568,
+                    "Tag": 480,
+                    "ActionTag": 1510791477,
+                    "Size": {
+                      "X": 68.0,
+                      "Y": 40.0
+                    },
+                    "Name": "Image_2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "gxDdz/13-room1-4/setting_max_sound_sign@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 41,
+                    "Scale9Height": 32,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 545.9057,
+                      "Y": 117.6008
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9129,
+                      "Y": 0.3419
+                    },
+                    "PreSize": {
+                      "X": 0.102,
+                      "Y": 0.1453
+                    },
+                    "LeftMargin": 515.4057,
+                    "RightMargin": 21.5943,
+                    "TopMargin": 201.3992,
+                    "BottomMargin": 92.6008,
+                    "Tag": 483,
+                    "ActionTag": -1757408315,
+                    "Size": {
+                      "X": 61.0,
+                      "Y": 50.0
+                    },
+                    "Name": "Image_4",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "gxDdz/13-room1-4/setting_max_sound_sign@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 8,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 45,
+                    "Scale9Height": 32,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 545.9057,
+                      "Y": 219.1536
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9129,
+                      "Y": 0.6371
+                    },
+                    "PreSize": {
+                      "X": 0.102,
+                      "Y": 0.1453
+                    },
+                    "LeftMargin": 515.4057,
+                    "RightMargin": 21.5943,
+                    "TopMargin": 99.8464,
+                    "BottomMargin": 194.1536,
+                    "Tag": 482,
+                    "ActionTag": 217717116,
+                    "Size": {
+                      "X": 61.0,
+                      "Y": 50.0
+                    },
+                    "Name": "Image_3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "gxDdz/13-room1-4/setting_min_sound_sign@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 8,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 42,
+                    "Scale9Height": 28,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 113.7579,
+                      "Y": 218.8907
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1902,
+                      "Y": 0.6363
+                    },
+                    "PreSize": {
+                      "X": 0.097,
+                      "Y": 0.1337
+                    },
+                    "LeftMargin": 84.7579,
+                    "RightMargin": 455.2421,
+                    "TopMargin": 102.1093,
+                    "BottomMargin": 195.8907,
+                    "Tag": 162,
+                    "ActionTag": 1630728029,
+                    "Size": {
+                      "X": 58.0,
+                      "Y": 46.0
+                    },
+                    "Name": "Image_3_0",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "gxDdz/13-room1-4/setting_min_sound_sign@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 38,
+                    "Scale9Height": 28,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 113.7579,
+                      "Y": 119.8916
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1902,
+                      "Y": 0.3485
+                    },
+                    "PreSize": {
+                      "X": 0.097,
+                      "Y": 0.1337
+                    },
+                    "LeftMargin": 84.7579,
+                    "RightMargin": 455.2421,
+                    "TopMargin": 201.1084,
+                    "BottomMargin": 96.8916,
+                    "Tag": 163,
+                    "ActionTag": -1279528058,
+                    "Size": {
+                      "X": 58.0,
+                      "Y": 46.0
+                    },
+                    "Name": "Image_4_0",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 975825058,
+                "Size": {
+                  "X": 598.0,
+                  "Y": 344.0
+                },
+                "Name": "bg",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 275182096,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common/btnAndText/btn_samllblue@2x.png",
+        "common/btnAndText/qiehuanzhanghao_zi.png",
+        "FZHei-B01S.ttf",
+        "gxDdz/13-room1-4/bg_room_setting@2x.png",
+        "gxDdz/13-room1-4/btn_dismiss_room@2x.png",
+        "gxDdz/13-room1-4/Button_Close@2x.png",
+        "gxDdz/13-room1-4/setting_bar@2x.png",
+        "gxDdz/13-room1-4/setting_bar_bg@2x.png",
+        "gxDdz/13-room1-4/setting_dice@2x.png",
+        "gxDdz/13-room1-4/setting_max_sound_sign@2x.png",
+        "gxDdz/13-room1-4/setting_min_sound_sign@2x.png",
+        "gxDdz/13-room1-4/setting_music@2x.png",
+        "gxDdz/13-room1-4/setting_sound_effect@2x.png",
+        "gxDdz/13-room1-4/setting_title@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

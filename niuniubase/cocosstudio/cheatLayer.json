@@ -1,0 +1,293 @@
+{
+  "ID": "c28e5de2-0ae5-4e0e-b13b-6799c16b9214",
+  "Version": "2.3.4",
+  "Name": "cheatLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 658,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "Scale9OriginX": -11,
+            "Scale9OriginY": -11,
+            "Scale9Width": 22,
+            "Scale9Height": 22,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 703,
+            "ActionTag": -1442800401,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "backBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 1581,
+            "ActionTag": -449772578,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "Panel_35",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 145.3087,
+              "Y": 168.6958
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1279,
+              "Y": 0.2636
+            },
+            "PreSize": {
+              "X": 0.7306,
+              "Y": 0.7031
+            },
+            "LeftMargin": 145.3087,
+            "RightMargin": 160.6913,
+            "TopMargin": 21.3042,
+            "BottomMargin": 168.6958,
+            "Tag": 708,
+            "ActionTag": -1795283883,
+            "Size": {
+              "X": 830.0,
+              "Y": 450.0
+            },
+            "Name": "allContain",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 129.7145,
+              "Y": 21.0575
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1142,
+              "Y": 0.0329
+            },
+            "PreSize": {
+              "X": 0.757,
+              "Y": 0.1563
+            },
+            "LeftMargin": 129.7145,
+            "RightMargin": 146.2855,
+            "TopMargin": 518.9426,
+            "BottomMargin": 21.0575,
+            "Tag": 709,
+            "ActionTag": 1081515403,
+            "Size": {
+              "X": 860.0,
+              "Y": 100.0
+            },
+            "Name": "selectContain",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 40,
+            "ButtonText": "",
+            "TextColor": {},
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "gxDdz/5-setting/gx_btn_close@2x.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 24,
+            "Scale9Height": 32,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1050.7274,
+              "Y": 561.6945
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9249,
+              "Y": 0.8776
+            },
+            "PreSize": {
+              "X": 0.0475,
+              "Y": 0.0844
+            },
+            "LeftMargin": 1023.7274,
+            "RightMargin": 58.2726,
+            "TopMargin": 51.3055,
+            "BottomMargin": 534.6945,
+            "Tag": 707,
+            "ActionTag": 1075123455,
+            "Size": {
+              "X": 54.0,
+              "Y": 54.0
+            },
+            "Name": "okBtn",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "gxDdz/5-setting/gx_btn_close@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

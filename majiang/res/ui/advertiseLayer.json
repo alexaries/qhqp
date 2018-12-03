@@ -1,0 +1,182 @@
+{
+  "ID": "b1c42367-0b27-40df-9d92-6c5fd33e7740",
+  "Version": "2.3.4",
+  "Name": "advertiseLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 29,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": -15,
+            "Scale9OriginY": -11,
+            "Scale9Width": 30,
+            "Scale9Height": 22,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 74,
+            "ActionTag": 427065300,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "closeBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "gxDdz/13-room1-4/bg_chat@2x.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 182,
+            "Scale9OriginY": 157,
+            "Scale9Width": 188,
+            "Scale9Height": 164,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 552.8669,
+              "Y": 323.1943
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4867,
+              "Y": 0.505
+            },
+            "PreSize": {
+              "X": 0.5616,
+              "Y": 0.5859
+            },
+            "LeftMargin": 233.8669,
+            "RightMargin": 264.1331,
+            "TopMargin": 129.3057,
+            "BottomMargin": 135.6943,
+            "Tag": 30,
+            "Children": [
+              {
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 23.5011,
+                  "Y": 28.6269
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0368,
+                  "Y": 0.0763
+                },
+                "PreSize": {
+                  "X": 0.9248,
+                  "Y": 0.8533
+                },
+                "LeftMargin": 23.5011,
+                "RightMargin": 24.4989,
+                "TopMargin": 26.3731,
+                "BottomMargin": 28.6269,
+                "Tag": 31,
+                "ActionTag": -1168943936,
+                "Size": {
+                  "X": 590.0,
+                  "Y": 320.0
+                },
+                "Name": "picContain",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1834185284,
+            "Size": {
+              "X": 638.0,
+              "Y": 375.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "gxDdz/13-room1-4/bg_chat@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

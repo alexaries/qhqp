@@ -1,0 +1,2485 @@
+{
+  "ID": "ef84c19e-4d1a-4449-bf4f-c16201c065d5",
+  "Version": "2.3.4",
+  "Name": "PTJEndPlayWindow",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 21,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 127,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 500.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.7813
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "TopMargin": -500.0,
+            "BottomMargin": 500.0,
+            "Tag": 22,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "pingtianjiu/ptj_title_win@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 558.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8719
+                },
+                "PreSize": {
+                  "X": 0.3627,
+                  "Y": 0.1797
+                },
+                "LeftMargin": 362.0,
+                "RightMargin": 362.0,
+                "TopMargin": 24.4999,
+                "BottomMargin": 500.5001,
+                "Tag": 160,
+                "ActionTag": 1924191834,
+                "Size": {
+                  "X": 412.0,
+                  "Y": 115.0
+                },
+                "Name": "winorlose",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "pingtianjiu/ptj_bg_win@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 67,
+                "Scale9OriginY": 25,
+                "Scale9Width": 838,
+                "Scale9Height": 26,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 560.0,
+                  "Y": 452.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.493,
+                  "Y": 0.7063
+                },
+                "PreSize": {
+                  "X": 0.8556,
+                  "Y": 0.1406
+                },
+                "LeftMargin": 74.0,
+                "RightMargin": 90.0,
+                "TopMargin": 143.0,
+                "BottomMargin": 407.0,
+                "Tag": 323,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 432,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/inRoomSamePic/zjh_touxiang.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 23,
+                        "Scale9OriginY": 23,
+                        "Scale9Width": 34,
+                        "Scale9Height": 34,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 119.5617,
+                          "Y": 46.2447
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.123,
+                          "Y": 0.5138
+                        },
+                        "PreSize": {
+                          "X": 0.0823,
+                          "Y": 0.8889
+                        },
+                        "LeftMargin": 79.5617,
+                        "RightMargin": 812.4383,
+                        "TopMargin": 3.7553,
+                        "BottomMargin": 6.2447,
+                        "Tag": 118,
+                        "ActionTag": -1632983050,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 80.0
+                        },
+                        "Name": "icon",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 28,
+                        "LabelText": "玩家名字名字",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 166.3978,
+                          "Y": 63.2719
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 218,
+                          "B": 144
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1712,
+                          "Y": 0.703
+                        },
+                        "PreSize": {
+                          "X": 0.1852,
+                          "Y": 0.3111
+                        },
+                        "LeftMargin": 166.3978,
+                        "RightMargin": 625.6022,
+                        "TopMargin": 12.7281,
+                        "BottomMargin": 49.2719,
+                        "Tag": 81,
+                        "ActionTag": -1574310671,
+                        "Size": {
+                          "X": 180.0,
+                          "Y": 28.0
+                        },
+                        "Name": "playername",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 28,
+                        "LabelText": "ID:",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 166.3984,
+                          "Y": 27.2721
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 218,
+                          "B": 144
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1712,
+                          "Y": 0.303
+                        },
+                        "PreSize": {
+                          "X": 0.1852,
+                          "Y": 0.3111
+                        },
+                        "LeftMargin": 166.3984,
+                        "RightMargin": 625.6016,
+                        "TopMargin": 48.7279,
+                        "BottomMargin": 13.2721,
+                        "Tag": 1343,
+                        "ActionTag": 1023106447,
+                        "Size": {
+                          "X": 180.0,
+                          "Y": 28.0
+                        },
+                        "Name": "playerid",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "pingtianjiu/ptj_img_he@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 598.0012,
+                          "Y": 44.0002
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.6152,
+                          "Y": 0.4889
+                        },
+                        "PreSize": {
+                          "X": 0.072,
+                          "Y": 0.7778
+                        },
+                        "LeftMargin": 563.0012,
+                        "RightMargin": 338.9988,
+                        "TopMargin": 10.9998,
+                        "BottomMargin": 9.0002,
+                        "Tag": 400,
+                        "ActionTag": 130269636,
+                        "Size": {
+                          "X": 70.0,
+                          "Y": 70.0
+                        },
+                        "Name": "ptjcard_1_0",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "pingtianjiu/ptj_img_he@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 739.0031,
+                          "Y": 44.0003
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.7603,
+                          "Y": 0.4889
+                        },
+                        "PreSize": {
+                          "X": 0.072,
+                          "Y": 0.7778
+                        },
+                        "LeftMargin": 704.0031,
+                        "RightMargin": 197.9969,
+                        "TopMargin": 10.9997,
+                        "BottomMargin": 9.0003,
+                        "Tag": 401,
+                        "ActionTag": 56111488,
+                        "Size": {
+                          "X": 70.0,
+                          "Y": 70.0
+                        },
+                        "Name": "ptjcard_1_0_0",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/simpleEndPic/yypk_img_zhuang@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 153.7071,
+                          "Y": 80.0269
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1581,
+                          "Y": 0.8892
+                        },
+                        "PreSize": {
+                          "X": 0.0412,
+                          "Y": 0.4556
+                        },
+                        "LeftMargin": 133.7071,
+                        "RightMargin": 798.2929,
+                        "TopMargin": -10.5269,
+                        "BottomMargin": 59.5269,
+                        "Tag": 159,
+                        "ActionTag": -22296357,
+                        "Size": {
+                          "X": 40.0,
+                          "Y": 41.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "zhuang",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 410.0012,
+                          "Y": 45.0001
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.4218,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 410.0012,
+                        "RightMargin": 561.9988,
+                        "TopMargin": 44.9999,
+                        "BottomMargin": 45.0001,
+                        "Tag": 184,
+                        "ActionTag": 1619843992,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "cardbgnode",
+                        "ctype": "SingleNodeObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "pingtianjiu/ptj_jia@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.4035
+                        },
+                        "Position": {
+                          "X": 826.001,
+                          "Y": 45.0002
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.8498,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.0381,
+                          "Y": 0.4111
+                        },
+                        "LeftMargin": 807.501,
+                        "RightMargin": 127.499,
+                        "TopMargin": 22.9293,
+                        "BottomMargin": 30.0707,
+                        "Tag": 376,
+                        "ActionTag": 254315505,
+                        "Size": {
+                          "X": 37.0,
+                          "Y": 37.0
+                        },
+                        "Name": "ptj_plus",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "CharWidth": 32,
+                        "CharHeight": 43,
+                        "LabelText": "88",
+                        "StartChar": ".",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "pingtianjiu/ptj_font1.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 844.002,
+                          "Y": 23.5001
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.8683,
+                          "Y": 0.2611
+                        },
+                        "PreSize": {
+                          "X": 0.0658,
+                          "Y": 0.4778
+                        },
+                        "HorizontalEdge": "LeftEdge",
+                        "LeftMargin": 844.002,
+                        "RightMargin": 63.998,
+                        "TopMargin": 23.4999,
+                        "BottomMargin": 23.5001,
+                        "Tag": 375,
+                        "ActionTag": -259110568,
+                        "Size": {
+                          "X": 64.0,
+                          "Y": 43.0
+                        },
+                        "Name": "ptj_AtlasLabel",
+                        "ctype": "TextAtlasObjectData"
+                      },
+                      {
+                        "CharWidth": 32,
+                        "CharHeight": 43,
+                        "LabelText": "12",
+                        "StartChar": ".",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "pingtianjiu/ptj_font2.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 844.0,
+                          "Y": 23.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.8683,
+                          "Y": 0.2611
+                        },
+                        "PreSize": {
+                          "X": 0.0658,
+                          "Y": 0.4778
+                        },
+                        "HorizontalEdge": "LeftEdge",
+                        "LeftMargin": 844.0,
+                        "RightMargin": 64.0,
+                        "TopMargin": 23.5,
+                        "BottomMargin": 23.5,
+                        "Tag": 380,
+                        "ActionTag": 1285233985,
+                        "Size": {
+                          "X": 64.0,
+                          "Y": 43.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "ptj_AtlasLabel_0",
+                        "ctype": "TextAtlasObjectData"
+                      }
+                    ],
+                    "ActionTag": 487837927,
+                    "Size": {
+                      "X": 972.0,
+                      "Y": 90.0
+                    },
+                    "Name": "Panel_1",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": -1172864336,
+                "Size": {
+                  "X": 972.0,
+                  "Y": 90.0
+                },
+                "Name": "playerbg0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "pingtianjiu/ptj_bg_win@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 67,
+                "Scale9OriginY": 25,
+                "Scale9Width": 838,
+                "Scale9Height": 26,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 560.0,
+                  "Y": 352.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.493,
+                  "Y": 0.55
+                },
+                "PreSize": {
+                  "X": 0.8556,
+                  "Y": 0.1406
+                },
+                "LeftMargin": 74.0,
+                "RightMargin": 90.0,
+                "TopMargin": 243.0,
+                "BottomMargin": 307.0,
+                "Tag": 402,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 435,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/inRoomSamePic/zjh_touxiang.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 23,
+                        "Scale9OriginY": 23,
+                        "Scale9Width": 34,
+                        "Scale9Height": 34,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 119.5617,
+                          "Y": 46.2448
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.123,
+                          "Y": 0.5138
+                        },
+                        "PreSize": {
+                          "X": 0.0823,
+                          "Y": 0.8889
+                        },
+                        "LeftMargin": 79.5617,
+                        "RightMargin": 812.4383,
+                        "TopMargin": 3.7552,
+                        "BottomMargin": 6.2448,
+                        "Tag": 403,
+                        "ActionTag": 1726990659,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 80.0
+                        },
+                        "Name": "icon",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 28,
+                        "LabelText": "玩家名字名字",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 166.3978,
+                          "Y": 63.2722
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 218,
+                          "B": 144
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1712,
+                          "Y": 0.703
+                        },
+                        "PreSize": {
+                          "X": 0.1852,
+                          "Y": 0.3111
+                        },
+                        "LeftMargin": 166.3978,
+                        "RightMargin": 625.6022,
+                        "TopMargin": 12.7278,
+                        "BottomMargin": 49.2722,
+                        "Tag": 404,
+                        "ActionTag": -493178148,
+                        "Size": {
+                          "X": 180.0,
+                          "Y": 28.0
+                        },
+                        "Name": "playername",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 28,
+                        "LabelText": "ID:",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 166.3984,
+                          "Y": 27.2734
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 218,
+                          "B": 144
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1712,
+                          "Y": 0.303
+                        },
+                        "PreSize": {
+                          "X": 0.1852,
+                          "Y": 0.3111
+                        },
+                        "LeftMargin": 166.3984,
+                        "RightMargin": 625.6016,
+                        "TopMargin": 48.7266,
+                        "BottomMargin": 13.2734,
+                        "Tag": 1344,
+                        "ActionTag": -1968341922,
+                        "Size": {
+                          "X": 180.0,
+                          "Y": 28.0
+                        },
+                        "Name": "playerid",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "pingtianjiu/ptj_img_win@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 598.0007,
+                          "Y": 44.0004
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.6152,
+                          "Y": 0.4889
+                        },
+                        "PreSize": {
+                          "X": 0.072,
+                          "Y": 0.7778
+                        },
+                        "LeftMargin": 524.0007,
+                        "RightMargin": 299.9993,
+                        "TopMargin": 24.9996,
+                        "BottomMargin": 23.0004,
+                        "Tag": 410,
+                        "ActionTag": 196797426,
+                        "Size": {
+                          "X": 70.0,
+                          "Y": 70.0
+                        },
+                        "Name": "ptjcard_1_0",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "pingtianjiu/ptj_img_lose@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 739.0023,
+                          "Y": 44.0002
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.7603,
+                          "Y": 0.4889
+                        },
+                        "PreSize": {
+                          "X": 0.072,
+                          "Y": 0.7778
+                        },
+                        "LeftMargin": 665.0023,
+                        "RightMargin": 158.9977,
+                        "TopMargin": 24.9998,
+                        "BottomMargin": 23.0002,
+                        "Tag": 411,
+                        "ActionTag": 1715128327,
+                        "Size": {
+                          "X": 69.0,
+                          "Y": 70.0
+                        },
+                        "Name": "ptjcard_1_0_0",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/simpleEndPic/yypk_img_zhuang@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 152.5346,
+                          "Y": 78.2441
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1569,
+                          "Y": 0.8694
+                        },
+                        "PreSize": {
+                          "X": 0.0412,
+                          "Y": 0.4556
+                        },
+                        "LeftMargin": 132.5346,
+                        "RightMargin": 799.4654,
+                        "TopMargin": -8.7441,
+                        "BottomMargin": 57.7441,
+                        "Tag": 158,
+                        "ActionTag": 1156791811,
+                        "Size": {
+                          "X": 40.0,
+                          "Y": 41.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "zhuang",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 410.0012,
+                          "Y": 45.0002
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.4218,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 410.0012,
+                        "RightMargin": 561.9988,
+                        "TopMargin": 44.9998,
+                        "BottomMargin": 45.0002,
+                        "Tag": 185,
+                        "ActionTag": 929869966,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "cardbgnode",
+                        "ctype": "SingleNodeObjectData"
+                      },
+                      {
+                        "CharWidth": 32,
+                        "CharHeight": 43,
+                        "LabelText": "89",
+                        "StartChar": ".",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "pingtianjiu/ptj_font1.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 844.002,
+                          "Y": 23.5006
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.8683,
+                          "Y": 0.2611
+                        },
+                        "PreSize": {
+                          "X": 0.0658,
+                          "Y": 0.4778
+                        },
+                        "HorizontalEdge": "LeftEdge",
+                        "LeftMargin": 844.002,
+                        "RightMargin": 63.998,
+                        "TopMargin": 23.4994,
+                        "BottomMargin": 23.5006,
+                        "Tag": 371,
+                        "ActionTag": 432880704,
+                        "Size": {
+                          "X": 64.0,
+                          "Y": 43.0
+                        },
+                        "Name": "ptj_AtlasLabel",
+                        "ctype": "TextAtlasObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "pingtianjiu/ptj_jia@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 826.001,
+                          "Y": 45.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.8498,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.0381,
+                          "Y": 0.4111
+                        },
+                        "LeftMargin": 807.501,
+                        "RightMargin": 127.499,
+                        "TopMargin": 26.5,
+                        "BottomMargin": 26.5,
+                        "Tag": 372,
+                        "ActionTag": 685935089,
+                        "Size": {
+                          "X": 37.0,
+                          "Y": 37.0
+                        },
+                        "Name": "ptj_plus",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "CharWidth": 32,
+                        "CharHeight": 43,
+                        "LabelText": "12",
+                        "StartChar": ".",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "pingtianjiu/ptj_font2.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 844.0,
+                          "Y": 23.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.8683,
+                          "Y": 0.2611
+                        },
+                        "PreSize": {
+                          "X": 0.0658,
+                          "Y": 0.4778
+                        },
+                        "HorizontalEdge": "LeftEdge",
+                        "LeftMargin": 844.0,
+                        "RightMargin": 64.0,
+                        "TopMargin": 23.5,
+                        "BottomMargin": 23.5,
+                        "Tag": 377,
+                        "ActionTag": -1959983802,
+                        "Size": {
+                          "X": 64.0,
+                          "Y": 43.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "ptj_AtlasLabel_0",
+                        "ctype": "TextAtlasObjectData"
+                      }
+                    ],
+                    "ActionTag": 1058632218,
+                    "Size": {
+                      "X": 972.0,
+                      "Y": 90.0
+                    },
+                    "Name": "Panel_1",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 2046630522,
+                "Size": {
+                  "X": 972.0,
+                  "Y": 90.0
+                },
+                "Name": "playerbg1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "pingtianjiu/ptj_bg_win@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 67,
+                "Scale9OriginY": 25,
+                "Scale9Width": 838,
+                "Scale9Height": 26,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 560.0,
+                  "Y": 252.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.493,
+                  "Y": 0.3938
+                },
+                "PreSize": {
+                  "X": 0.8556,
+                  "Y": 0.1406
+                },
+                "LeftMargin": 74.0,
+                "RightMargin": 90.0,
+                "TopMargin": 343.0,
+                "BottomMargin": 207.0,
+                "Tag": 412,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 434,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/inRoomSamePic/zjh_touxiang.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 23,
+                        "Scale9OriginY": 23,
+                        "Scale9Width": 34,
+                        "Scale9Height": 34,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 119.5617,
+                          "Y": 46.2448
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.123,
+                          "Y": 0.5138
+                        },
+                        "PreSize": {
+                          "X": 0.0823,
+                          "Y": 0.8889
+                        },
+                        "LeftMargin": 79.5617,
+                        "RightMargin": 812.4383,
+                        "TopMargin": 3.7552,
+                        "BottomMargin": 6.2448,
+                        "Tag": 413,
+                        "ActionTag": 1313864296,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 80.0
+                        },
+                        "Name": "icon",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 28,
+                        "LabelText": "玩家名字名字",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 166.3978,
+                          "Y": 63.272
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 218,
+                          "B": 144
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1712,
+                          "Y": 0.703
+                        },
+                        "PreSize": {
+                          "X": 0.1852,
+                          "Y": 0.3111
+                        },
+                        "LeftMargin": 166.3978,
+                        "RightMargin": 625.6022,
+                        "TopMargin": 12.728,
+                        "BottomMargin": 49.272,
+                        "Tag": 414,
+                        "ActionTag": 1970608338,
+                        "Size": {
+                          "X": 180.0,
+                          "Y": 28.0
+                        },
+                        "Name": "playername",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 28,
+                        "LabelText": "ID:",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 166.3984,
+                          "Y": 27.2731
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 218,
+                          "B": 144
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1712,
+                          "Y": 0.303
+                        },
+                        "PreSize": {
+                          "X": 0.1852,
+                          "Y": 0.3111
+                        },
+                        "LeftMargin": 166.3984,
+                        "RightMargin": 625.6016,
+                        "TopMargin": 48.7269,
+                        "BottomMargin": 13.2731,
+                        "Tag": 1345,
+                        "ActionTag": -190037221,
+                        "Size": {
+                          "X": 180.0,
+                          "Y": 28.0
+                        },
+                        "Name": "playerid",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "pingtianjiu/ptj_img_he@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 598.0012,
+                          "Y": 44.0002
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.6152,
+                          "Y": 0.4889
+                        },
+                        "PreSize": {
+                          "X": 0.072,
+                          "Y": 0.7778
+                        },
+                        "LeftMargin": 563.0012,
+                        "RightMargin": 338.9988,
+                        "TopMargin": 10.9998,
+                        "BottomMargin": 9.0002,
+                        "Tag": 420,
+                        "ActionTag": -1371682197,
+                        "Size": {
+                          "X": 70.0,
+                          "Y": 70.0
+                        },
+                        "Name": "ptjcard_1_0",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "pingtianjiu/ptj_img_win@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 739.0031,
+                          "Y": 44.0003
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.7603,
+                          "Y": 0.4889
+                        },
+                        "PreSize": {
+                          "X": 0.072,
+                          "Y": 0.7778
+                        },
+                        "LeftMargin": 704.0031,
+                        "RightMargin": 197.9969,
+                        "TopMargin": 10.9997,
+                        "BottomMargin": 9.0003,
+                        "Tag": 421,
+                        "ActionTag": -1145653899,
+                        "Size": {
+                          "X": 70.0,
+                          "Y": 70.0
+                        },
+                        "Name": "ptjcard_1_0_0",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/simpleEndPic/yypk_img_zhuang@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 153.9503,
+                          "Y": 74.9498
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1584,
+                          "Y": 0.8328
+                        },
+                        "PreSize": {
+                          "X": 0.0412,
+                          "Y": 0.4556
+                        },
+                        "LeftMargin": 133.9503,
+                        "RightMargin": 798.0497,
+                        "TopMargin": -5.4498,
+                        "BottomMargin": 54.4498,
+                        "Tag": 157,
+                        "ActionTag": 871493176,
+                        "Size": {
+                          "X": 40.0,
+                          "Y": 41.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "zhuang",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 410.0012,
+                          "Y": 45.0002
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.4218,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 410.0012,
+                        "RightMargin": 561.9988,
+                        "TopMargin": 44.9998,
+                        "BottomMargin": 45.0002,
+                        "Tag": 186,
+                        "ActionTag": 159925262,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "cardbgnode",
+                        "ctype": "SingleNodeObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "pingtianjiu/ptj_jia@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 826.001,
+                          "Y": 45.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.8498,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.0381,
+                          "Y": 0.4111
+                        },
+                        "LeftMargin": 807.501,
+                        "RightMargin": 127.499,
+                        "TopMargin": 26.5,
+                        "BottomMargin": 26.5,
+                        "Tag": 373,
+                        "ActionTag": 951133795,
+                        "Size": {
+                          "X": 37.0,
+                          "Y": 37.0
+                        },
+                        "Name": "ptj_plus",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "CharWidth": 32,
+                        "CharHeight": 43,
+                        "LabelText": "12",
+                        "StartChar": ".",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "pingtianjiu/ptj_font1.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 844.002,
+                          "Y": 23.5002
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.8683,
+                          "Y": 0.2611
+                        },
+                        "PreSize": {
+                          "X": 0.0658,
+                          "Y": 0.4778
+                        },
+                        "HorizontalEdge": "LeftEdge",
+                        "LeftMargin": 844.002,
+                        "RightMargin": 63.998,
+                        "TopMargin": 23.4998,
+                        "BottomMargin": 23.5002,
+                        "Tag": 374,
+                        "ActionTag": 122811765,
+                        "Size": {
+                          "X": 64.0,
+                          "Y": 43.0
+                        },
+                        "Name": "ptj_AtlasLabel",
+                        "ctype": "TextAtlasObjectData"
+                      },
+                      {
+                        "CharWidth": 32,
+                        "CharHeight": 43,
+                        "LabelText": "12",
+                        "StartChar": ".",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "pingtianjiu/ptj_font2.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 844.0,
+                          "Y": 23.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.8683,
+                          "Y": 0.2611
+                        },
+                        "PreSize": {
+                          "X": 0.0658,
+                          "Y": 0.4778
+                        },
+                        "HorizontalEdge": "LeftEdge",
+                        "LeftMargin": 844.0,
+                        "RightMargin": 64.0,
+                        "TopMargin": 23.5,
+                        "BottomMargin": 23.5,
+                        "Tag": 378,
+                        "ActionTag": 1342161762,
+                        "Size": {
+                          "X": 64.0,
+                          "Y": 43.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "ptj_AtlasLabel_0",
+                        "ctype": "TextAtlasObjectData"
+                      }
+                    ],
+                    "ActionTag": 848701102,
+                    "Size": {
+                      "X": 972.0,
+                      "Y": 90.0
+                    },
+                    "Name": "Panel_1",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 1855960780,
+                "Size": {
+                  "X": 972.0,
+                  "Y": 90.0
+                },
+                "Name": "playerbg2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "pingtianjiu/ptj_bg_win@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 67,
+                "Scale9OriginY": 25,
+                "Scale9Width": 838,
+                "Scale9Height": 26,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 560.0,
+                  "Y": 152.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.493,
+                  "Y": 0.2375
+                },
+                "PreSize": {
+                  "X": 0.8556,
+                  "Y": 0.1406
+                },
+                "LeftMargin": 74.0,
+                "RightMargin": 90.0,
+                "TopMargin": 443.0,
+                "BottomMargin": 107.0,
+                "Tag": 422,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 433,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/inRoomSamePic/zjh_touxiang.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 23,
+                        "Scale9OriginY": 23,
+                        "Scale9Width": 34,
+                        "Scale9Height": 34,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 119.5617,
+                          "Y": 46.2448
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.123,
+                          "Y": 0.5138
+                        },
+                        "PreSize": {
+                          "X": 0.0823,
+                          "Y": 0.8889
+                        },
+                        "LeftMargin": 79.5617,
+                        "RightMargin": 812.4383,
+                        "TopMargin": 3.7552,
+                        "BottomMargin": 6.2448,
+                        "Tag": 423,
+                        "ActionTag": -117261888,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 80.0
+                        },
+                        "Name": "icon",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 28,
+                        "LabelText": "玩家名字名字",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 166.3978,
+                          "Y": 63.2721
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 218,
+                          "B": 144
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1712,
+                          "Y": 0.703
+                        },
+                        "PreSize": {
+                          "X": 0.1852,
+                          "Y": 0.3111
+                        },
+                        "LeftMargin": 166.3978,
+                        "RightMargin": 625.6022,
+                        "TopMargin": 12.7279,
+                        "BottomMargin": 49.2721,
+                        "Tag": 424,
+                        "ActionTag": -95936988,
+                        "Size": {
+                          "X": 180.0,
+                          "Y": 28.0
+                        },
+                        "Name": "playername",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 28,
+                        "LabelText": "ID:",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 166.3984,
+                          "Y": 27.2716
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 218,
+                          "B": 144
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1712,
+                          "Y": 0.303
+                        },
+                        "PreSize": {
+                          "X": 0.1852,
+                          "Y": 0.3111
+                        },
+                        "LeftMargin": 166.3984,
+                        "RightMargin": 625.6016,
+                        "TopMargin": 48.7284,
+                        "BottomMargin": 13.2716,
+                        "Tag": 1346,
+                        "ActionTag": 1708789881,
+                        "Size": {
+                          "X": 180.0,
+                          "Y": 28.0
+                        },
+                        "Name": "playerid",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "pingtianjiu/ptj_img_he@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 598.0012,
+                          "Y": 44.0001
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.6152,
+                          "Y": 0.4889
+                        },
+                        "PreSize": {
+                          "X": 0.072,
+                          "Y": 0.7778
+                        },
+                        "LeftMargin": 563.0012,
+                        "RightMargin": 338.9988,
+                        "TopMargin": 10.9999,
+                        "BottomMargin": 9.0001,
+                        "Tag": 430,
+                        "ActionTag": -2056264501,
+                        "Size": {
+                          "X": 70.0,
+                          "Y": 70.0
+                        },
+                        "Name": "ptjcard_1_0",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "pingtianjiu/ptj_img_lose@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 739.0023,
+                          "Y": 44.0001
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.7603,
+                          "Y": 0.4889
+                        },
+                        "PreSize": {
+                          "X": 0.071,
+                          "Y": 0.7778
+                        },
+                        "LeftMargin": 704.5023,
+                        "RightMargin": 198.4977,
+                        "TopMargin": 10.9999,
+                        "BottomMargin": 9.0001,
+                        "Tag": 431,
+                        "ActionTag": -932667810,
+                        "Size": {
+                          "X": 69.0,
+                          "Y": 70.0
+                        },
+                        "Name": "ptjcard_1_0_0",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/simpleEndPic/yypk_img_zhuang@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 152.3067,
+                          "Y": 76.6265
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1567,
+                          "Y": 0.8514
+                        },
+                        "PreSize": {
+                          "X": 0.0412,
+                          "Y": 0.4556
+                        },
+                        "LeftMargin": 132.3067,
+                        "RightMargin": 799.6933,
+                        "TopMargin": -7.1265,
+                        "BottomMargin": 56.1265,
+                        "Tag": 156,
+                        "ActionTag": -1177878278,
+                        "Size": {
+                          "X": 40.0,
+                          "Y": 41.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "zhuang",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 410.0012,
+                          "Y": 45.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.4218,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 410.0012,
+                        "RightMargin": 561.9988,
+                        "TopMargin": 45.0,
+                        "BottomMargin": 45.0,
+                        "Tag": 187,
+                        "ActionTag": 1484520448,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "cardbgnode",
+                        "ctype": "SingleNodeObjectData"
+                      },
+                      {
+                        "CharWidth": 32,
+                        "CharHeight": 43,
+                        "LabelText": "12",
+                        "StartChar": ".",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "pingtianjiu/ptj_font1.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 844.002,
+                          "Y": 23.5002
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.8683,
+                          "Y": 0.2611
+                        },
+                        "PreSize": {
+                          "X": 0.0658,
+                          "Y": 0.4778
+                        },
+                        "HorizontalEdge": "LeftEdge",
+                        "LeftMargin": 844.002,
+                        "RightMargin": 63.998,
+                        "TopMargin": 23.4998,
+                        "BottomMargin": 23.5002,
+                        "Tag": 369,
+                        "ActionTag": 684998392,
+                        "Size": {
+                          "X": 64.0,
+                          "Y": 43.0
+                        },
+                        "Name": "ptj_AtlasLabel",
+                        "ctype": "TextAtlasObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "pingtianjiu/ptj_jia@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 826.001,
+                          "Y": 45.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.8498,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.0381,
+                          "Y": 0.4111
+                        },
+                        "LeftMargin": 807.501,
+                        "RightMargin": 127.499,
+                        "TopMargin": 26.5,
+                        "BottomMargin": 26.5,
+                        "Tag": 370,
+                        "ActionTag": 1566011600,
+                        "Size": {
+                          "X": 37.0,
+                          "Y": 37.0
+                        },
+                        "Name": "ptj_plus",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "CharWidth": 32,
+                        "CharHeight": 43,
+                        "LabelText": "12",
+                        "StartChar": ".",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "pingtianjiu/ptj_font2.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 844.0,
+                          "Y": 23.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.8683,
+                          "Y": 0.2611
+                        },
+                        "PreSize": {
+                          "X": 0.0658,
+                          "Y": 0.4778
+                        },
+                        "HorizontalEdge": "LeftEdge",
+                        "LeftMargin": 844.0,
+                        "RightMargin": 64.0,
+                        "TopMargin": 23.5,
+                        "BottomMargin": 23.5,
+                        "Tag": 379,
+                        "ActionTag": 169309468,
+                        "Size": {
+                          "X": 64.0,
+                          "Y": 43.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "ptj_AtlasLabel_0",
+                        "ctype": "TextAtlasObjectData"
+                      }
+                    ],
+                    "ActionTag": 658571177,
+                    "Size": {
+                      "X": 972.0,
+                      "Y": 90.0
+                    },
+                    "Name": "Panel_1",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": -926708109,
+                "Size": {
+                  "X": 972.0,
+                  "Y": 90.0
+                },
+                "Name": "playerbg3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "commonCells/commonPic/simpleEndPic/yypk_btn_green2@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 148,
+                "Scale9Height": 50,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 61.7584
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.0965
+                },
+                "PreSize": {
+                  "X": 0.1567,
+                  "Y": 0.1125
+                },
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 479.0,
+                "RightMargin": 479.0,
+                "TopMargin": 542.2416,
+                "BottomMargin": 25.7584,
+                "Tag": 23,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/simpleEndPic/yypk_img_return@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 36,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 15,
+                    "Scale9Height": 13,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 89.0,
+                      "Y": 36.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0708
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.4888,
+                      "Y": 0.4861
+                    },
+                    "LeftMargin": 45.5,
+                    "RightMargin": 45.5,
+                    "TopMargin": 18.5,
+                    "BottomMargin": 18.5,
+                    "Tag": 1231,
+                    "ActionTag": 339846116,
+                    "Size": {
+                      "X": 87.0,
+                      "Y": 35.0
+                    },
+                    "Name": "Image_17",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1830153741,
+                "Size": {
+                  "X": 178.0,
+                  "Y": 72.0
+                },
+                "Name": "sendReady",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -88110574,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "commonCells/commonPic/inRoomSamePic/zjh_touxiang.png",
+        "commonCells/commonPic/simpleEndPic/yypk_btn_green2@2x.png",
+        "commonCells/commonPic/simpleEndPic/yypk_img_return@2x.png",
+        "commonCells/commonPic/simpleEndPic/yypk_img_zhuang@2x.png",
+        "Font/FZY4JW_0569.TTF",
+        "pingtianjiu/ptj_bg_win@2x.png",
+        "pingtianjiu/ptj_font1.png",
+        "pingtianjiu/ptj_font2.png",
+        "pingtianjiu/ptj_img_he@2x.png",
+        "pingtianjiu/ptj_img_lose@2x.png",
+        "pingtianjiu/ptj_img_win@2x.png",
+        "pingtianjiu/ptj_jia@2x.png",
+        "pingtianjiu/ptj_title_win@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

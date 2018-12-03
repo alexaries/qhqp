@@ -1,0 +1,374 @@
+{
+  "ID": "d8645a3f-8ea6-44a5-8f85-1794dae9fdc0",
+  "Version": "2.3.4",
+  "Name": "MessageBox",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 57,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 59,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qhqp/7-share/qh_bg_share@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 26,
+                "Scale9OriginY": 25,
+                "Scale9Width": 557,
+                "Scale9Height": 348,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.4758,
+                  "Y": 0.5528
+                },
+                "LeftMargin": 335.5,
+                "RightMargin": 335.5,
+                "TopMargin": 161.0,
+                "BottomMargin": 161.0,
+                "Tag": 78,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/11-prompt/qh_title_prompt@2x.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 302.8333,
+                      "Y": 368.7271
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4973,
+                      "Y": 0.9264
+                    },
+                    "PreSize": {
+                      "X": 0.2299,
+                      "Y": 0.0854
+                    },
+                    "LeftMargin": 232.8333,
+                    "RightMargin": 236.1667,
+                    "TopMargin": 12.2729,
+                    "BottomMargin": 351.7271,
+                    "Tag": 457,
+                    "ActionTag": 766226353,
+                    "Size": {
+                      "X": 140.0,
+                      "Y": 34.0
+                    },
+                    "Name": "Sprite_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 28,
+                    "LabelText": "确定解散房间吗？",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 304.5,
+                      "Y": 205.7262
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5169
+                    },
+                    "PreSize": {
+                      "X": 0.9195,
+                      "Y": 0.6281
+                    },
+                    "LeftMargin": 24.5,
+                    "RightMargin": 24.5,
+                    "TopMargin": 67.2738,
+                    "BottomMargin": 80.7262,
+                    "Tag": 63,
+                    "ActionTag": 522167953,
+                    "Size": {
+                      "X": 560.0,
+                      "Y": 250.0
+                    },
+                    "Name": "msg",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/11-prompt/btn_confirm@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 144,
+                    "Scale9Height": 49,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 433.7907,
+                      "Y": 71.0405
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.7123,
+                      "Y": 0.1785
+                    },
+                    "PreSize": {
+                      "X": 0.2857,
+                      "Y": 0.1784
+                    },
+                    "LeftMargin": 346.7907,
+                    "RightMargin": 88.2093,
+                    "TopMargin": 291.4595,
+                    "BottomMargin": 35.5405,
+                    "Tag": 61,
+                    "ActionTag": 1983234089,
+                    "Size": {
+                      "X": 174.0,
+                      "Y": 71.0
+                    },
+                    "Name": "okbtn",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/11-prompt/btn_cancle@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 144,
+                    "Scale9Height": 49,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 160.1061,
+                      "Y": 71.0406
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.2629,
+                      "Y": 0.1785
+                    },
+                    "PreSize": {
+                      "X": 0.2857,
+                      "Y": 0.1784
+                    },
+                    "LeftMargin": 73.1061,
+                    "RightMargin": 361.8939,
+                    "TopMargin": 291.4594,
+                    "BottomMargin": 35.5406,
+                    "Tag": 473,
+                    "ActionTag": -1019908485,
+                    "Size": {
+                      "X": 174.0,
+                      "Y": 71.0
+                    },
+                    "Name": "cancelbtn",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 1438974095,
+                "Size": {
+                  "X": 609.0,
+                  "Y": 398.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1517023638,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "FZHei-B01S.ttf",
+        "qhqp/11-prompt/btn_cancle@2x.png",
+        "qhqp/11-prompt/btn_confirm@2x.png",
+        "qhqp/11-prompt/qh_title_prompt@2x.png",
+        "qhqp/7-share/qh_bg_share@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

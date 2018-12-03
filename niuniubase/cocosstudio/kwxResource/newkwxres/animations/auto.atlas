@@ -1,0 +1,19 @@
+
+auto.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kwx_img_tgz1@2x
+  rotate: false
+  xy: 2, 2
+  size: 112, 42
+  orig: 112, 42
+  offset: 0, 0
+  index: -1
+kwx_img_tgz@2x
+  rotate: false
+  xy: 116, 30
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1

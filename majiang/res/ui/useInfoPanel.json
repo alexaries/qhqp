@@ -1,0 +1,394 @@
+{
+  "ID": "2d8619b0-8807-4c90-abab-a44696706876",
+  "Version": "2.3.4",
+  "Name": "useInfoPanel",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 304,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "gxDdz/3-infor/bg_players@2x.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.1,
+              "ScaleY": 1.1
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -195.0,
+            "RightMargin": -195.0,
+            "TopMargin": -133.5,
+            "BottomMargin": -133.5,
+            "Tag": 321,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "gxDdz/2-hall/gx_bg_head2@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 22,
+                "Scale9OriginY": 22,
+                "Scale9Width": 27,
+                "Scale9Height": 27,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 41.5239,
+                  "Y": 160.4261
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1065,
+                  "Y": 0.6008
+                },
+                "PreSize": {
+                  "X": 0.1821,
+                  "Y": 0.2659
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 41.5239,
+                "RightMargin": 277.4761,
+                "TopMargin": 35.5739,
+                "BottomMargin": 160.4261,
+                "CallBackType": "Touch",
+                "Tag": 322,
+                "ActionTag": -1534531436,
+                "Size": {
+                  "X": 71.0,
+                  "Y": 71.0
+                },
+                "Name": "headback_0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "一二三四五六七八九十",
+                "FontResource": {
+                  "Type": "Default",
+                  "Path": "",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 130.1631,
+                  "Y": 199.4946
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3338,
+                  "Y": 0.7472
+                },
+                "PreSize": {
+                  "X": 0.6154,
+                  "Y": 0.0899
+                },
+                "LeftMargin": 130.1631,
+                "RightMargin": 19.8369,
+                "TopMargin": 55.5054,
+                "BottomMargin": 187.4946,
+                "Tag": 323,
+                "ActionTag": -100578592,
+                "Size": {
+                  "X": 240.0,
+                  "Y": 24.0
+                },
+                "Name": "name",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "gxDdz/2-hall/gx_bg_head1@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 77.1073,
+                  "Y": 195.2702
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1977,
+                  "Y": 0.7313
+                },
+                "PreSize": {
+                  "X": 0.2154,
+                  "Y": 0.3221
+                },
+                "LeftMargin": 35.1073,
+                "RightMargin": 270.8927,
+                "TopMargin": 28.7298,
+                "BottomMargin": 152.2702,
+                "Tag": 324,
+                "ActionTag": -170008534,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 86.0
+                },
+                "Name": "Sprite_1_0",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "ID:12545555  ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "niuniu/FZHei-B01S.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 29.0511,
+                  "Y": 129.689
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0745,
+                  "Y": 0.4857
+                },
+                "PreSize": {
+                  "X": 0.3333,
+                  "Y": 0.0936
+                },
+                "LeftMargin": 29.0511,
+                "RightMargin": 230.9489,
+                "TopMargin": 124.811,
+                "BottomMargin": 117.189,
+                "Tag": 325,
+                "ActionTag": 711960726,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 25.0
+                },
+                "Name": "uid_Text",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "IP:415.685.561.255  ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "niuniu/FZHei-B01S.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 30.9231,
+                  "Y": 99.5739
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0793,
+                  "Y": 0.3729
+                },
+                "PreSize": {
+                  "X": 0.5,
+                  "Y": 0.0936
+                },
+                "LeftMargin": 30.9231,
+                "RightMargin": 164.0769,
+                "TopMargin": 154.9261,
+                "BottomMargin": 87.0739,
+                "Tag": 326,
+                "ActionTag": 923125331,
+                "Size": {
+                  "X": 195.0,
+                  "Y": 25.0
+                },
+                "Name": "uip_Text",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 22,
+                "LabelText": "地址:武汉市汉阳区武汉市汉阳区 ,地址:武汉市汉阳区武汉市汉阳区  ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "niuniu/FZHei-B01S.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 30.4161,
+                  "Y": 55.7496
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.078,
+                  "Y": 0.2088
+                },
+                "PreSize": {
+                  "X": 0.8718,
+                  "Y": 0.1948
+                },
+                "LeftMargin": 30.4161,
+                "RightMargin": 19.5839,
+                "TopMargin": 185.2504,
+                "BottomMargin": 29.7496,
+                "Tag": 327,
+                "ActionTag": 1082584717,
+                "Size": {
+                  "X": 340.0,
+                  "Y": 52.0
+                },
+                "Name": "address_Text",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1105984966,
+            "Size": {
+              "X": 390.0,
+              "Y": 267.0
+            },
+            "Name": "ipLayout",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "gxDdz/2-hall/gx_bg_head1@2x.png",
+        "gxDdz/2-hall/gx_bg_head2@2x.png",
+        "gxDdz/3-infor/bg_players@2x.png",
+        "niuniu/FZHei-B01S.ttf"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

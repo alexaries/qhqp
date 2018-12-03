@@ -1,0 +1,210 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>赤月-麻将算法示例</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="full-screen" content="true" />
+    <meta name="screen-orientation" content="portrait" />
+    <meta name="x5-fullscreen" content="true" />
+    <meta name="360-fullscreen" content="true" />
+    <style>
+        html, body {
+            -ms-touch-action: none;
+            background: #FFFFFF;
+            padding: 0;
+            border: 0;
+            margin: 0;
+            height: 100%;
+        }
+    </style>
+<script src='code/game/js/jszip.min.js'></script>
+<script src='code/game/js/hjonglib.js'></script>
+</head>
+
+<body>
+    <div id="logger">加载表库中（约782 KB）....</div>
+    <script>
+
+        //  * 基础玩法麻将的胡法
+        //  * 1.任意一对可为将
+        //  * 2.无 春夏秋冬、梅兰竹菊 牌
+        //  * 3.风牌（中、发、白、东、南、西、北）只有三种一样时，方可成一句牌
+        //    无法识别7对、13幺、将一色、风一色等特殊胡法
+        //查表法的表源
+        var tableSource = new mahjong.TableSource();
+
+        //加载查表法的表源数据
+        function loadFile(url) {
+            var ajax;
+            if (window.XMLHttpRequest) {
+                ajax = new XMLHttpRequest();
+            } else if (window.ActiveXObject) {
+                ajax = new window.ActiveXObject();
+            } else {
+                alert("请升级至最新版本的浏览器");
+            }
+            if (ajax != null) {
+                ajax.open("GET", url, true);
+                ajax.responseType = "arraybuffer";
+                ajax.send(null);
+                ajax.onreadystatechange = function () {
+                    if (ajax.readyState == 4 && ajax.status == 200) {
+                        parseZipFile(ajax.response);
+                    }
+                };
+
+            }
+        }
+
+        //解析查表法的表源数据
+        function parseZipFile(binData) {
+            var zip = new JSZip(binData);
+            var files = zip['files'];
+
+            var tables = [];
+            var feng_tables = [];
+            var eye_tables = [];
+            var feng_eye_tables = [];
+
+            for (var key in files) {
+                var file = files[key];
+                var str = file.asText();
+                var arr = str.split('\n');
+                if (key.indexOf('feng_eye_table_') != -1) {
+                    feng_eye_tables.push(arr);
+                } else if (key.indexOf('feng_table_') != -1) {
+                    feng_tables.push(arr);
+                } else if (key.indexOf('eye_table_') != -1) {
+                    eye_tables.push(arr);
+                } else if (key.indexOf('table_') != -1) {
+                    tables.push(arr);
+                }
+            }
+            tableSource.build(tables, feng_tables, eye_tables, feng_eye_tables);
+
+            runTest();
+        }
+
+        function runTest() {
+            var runStartTime = new Date().getTime();
+
+            //当前这局牌中，所有的癞子牌枚举
+            //var jokersStr = '二筒,四筒';
+            //var jokerCards = mahjong.MahjongTool.buildCardsByStr(jokersStr);
+
+            var jokersStr = 12;
+            var jokerCards =[];
+            var laizi = mahjong.Card.createFromCardID(jokersStr);
+            jokerCards.push(laizi);
+            //不包括癞子的所有牌各一张。如红中癞子麻将，则包含：[1-9万各一张，1-9筒各一张，1-9条各一张，东南西北发白各一张]。如血流成河，则包含：[除开缺一门的牌各一张]
+            var fullCards = [];
+            for (var i = 0, len = 31; i < len; i++) {
+                if (i != 31) {
+                    var card = mahjong.Card.createFromCardID(i);
+                    //去掉当前癞子
+//                    if (jokersStr.indexOf(card.toString()) == -1) {
+//                        fullCards.push(card);
+//                    }
+                    if (i!=jokersStr) {
+                        fullCards.push(card);
+                    }
+                }
+            }
+
+            console.log(fullCards);
+
+            //当前手牌
+            //var handStr = '五条,一筒,七条,三筒,四筒,四筒,四筒,二条,二条,二筒,二筒,二筒,二筒';
+           // var handCards = mahjong.MahjongTool.buildCardsByStr(handStr);
+            var handCards=[];
+            //0-8 9-17 18- 26   万 筒 条   27-33 东南西北中发白
+            var handStr=[0,1,2,4,4,18,19,20,21,9,10,11,12]
+            for (var i=0;i<handStr.length;i++){
+                var cards = mahjong.Card.createFromCardID(handStr[i]);
+                handCards.push(cards)
+            }
+
+            //新摸到的牌
+            //var mo = mahjong.Card.createFromStr('四条');
+            var mo = mahjong.Card.createFromCardID(12);
+
+            //使用记牌器计数
+            //mahjong.MahjongTool.recordDisCard(mahjong.Card.createFromStr('二条'));
+            //mahjong.MahjongTool.recordDisCard(mahjong.Card.createFromStr('二条'));
+
+            //清理记牌器
+            // mahjong.MahjongTool.clearRecord();
+
+            //初始化工具
+            mahjong.MahjongTool.init(jokerCards, tableSource);
+
+             handCards = mahjong.MahjongTool.sortHandleCard(handCards, jokerCards);
+
+            console.log(handCards.join(','));
+            console.log(mo.toString());
+            console.log(fullCards.join(','));
+           // console.log(jokerCards.join(','));
+            console.log(tableSource);
+
+            //用当前自己的手牌加上新摸到的牌，计算打什么牌后，分别能胡什么牌，以及剩余张数
+            //CheckResult[]
+            // CheckResult {
+            // /**
+            //  * 打出去的牌
+            //  */
+            //  discard:Card;
+
+            // /**
+            //  * 打出去某张牌后，
+            //  * 可以胡的牌
+            //  * null表示不听牌
+            //  */
+            //  winCards:Card[];
+
+            // /**
+            //  * 打出去某张牌后，
+            //  * 可以胡的牌的数量，与winCards一一对应
+            //  */
+            //  winCount:number[];
+            //}
+
+            //[CheckResult, null, CheckResult, null,null,...]
+            var winCards = mahjong.MahjongTool.findWinCardsWhenDraw(handCards, mo, fullCards);
+
+            var log = '';
+
+            log += '麻将胡牌算法\n';
+            log += '当前手牌: ' + handStr + '\n';
+            log += '当前癞子牌: ' + jokersStr + '\n';
+            log += '新摸到: ' + mo.toString() + '\n\n';
+
+            if (winCards && winCards.length) {
+                //可以听牌
+                for (var i = 0, len = winCards.length; i < len; i++) {
+                    var winCard = winCards[i];
+                    if (winCard) {
+                        log += '     ' + winCard.toString() + '\n';
+                    }
+                }
+            } else {
+                //不管打什么，都听不了牌
+                log += '不管打什么都无法听牌\n';
+            }
+
+            var runEndTime = new Date().getTime();
+            log += 'run cost:' + (runEndTime - runStartTime) + 'ms';
+
+
+            document.getElementById('logger').innerText = log;
+        }
+
+
+        //加载查表法的表源数据
+        loadFile('data/all.tbl');
+    </script>
+</body>
+
+</html>

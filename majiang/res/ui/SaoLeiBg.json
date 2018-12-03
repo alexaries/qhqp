@@ -1,0 +1,198 @@
+{
+  "ID": "a1b34658-2846-4d9b-a3cb-899363cf8897",
+  "Version": "2.3.4",
+  "Name": "SaoLeiBg",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 724,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "MineSweepingNew/yypk_bg_sl@2x.png",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 211,
+            "Scale9OriginY": 374,
+            "Scale9Width": 218,
+            "Scale9Height": 388,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 726,
+            "ActionTag": 948345154,
+            "Size": {
+              "X": 640.0,
+              "Y": 1136.0
+            },
+            "Name": "Panel_2",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "房号:888888  地雷:2/6  房主埋雷  分值:50  赔率:         ",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 303.1837,
+              "Y": 1102.2748
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4737,
+              "Y": 0.9703
+            },
+            "PreSize": {
+              "X": 1.05,
+              "Y": 0.0211
+            },
+            "LeftMargin": -32.8163,
+            "RightMargin": 0.8163,
+            "TopMargin": 21.7252,
+            "BottomMargin": 1090.2748,
+            "Tag": 727,
+            "ActionTag": 542915964,
+            "Size": {
+              "X": 672.0,
+              "Y": 24.0
+            },
+            "Name": "tv_title",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "--  ",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Font/FZY4JW_0569.TTF",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 598.8521,
+              "Y": 1100.5718
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 252,
+              "G": 232,
+              "B": 13
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9357,
+              "Y": 0.9688
+            },
+            "PreSize": {
+              "X": 0.0531,
+              "Y": 0.0246
+            },
+            "LeftMargin": 581.8521,
+            "RightMargin": 24.1479,
+            "TopMargin": 21.4282,
+            "BottomMargin": 1086.5718,
+            "Tag": 728,
+            "ActionTag": -831319208,
+            "Size": {
+              "X": 34.0,
+              "Y": 28.0
+            },
+            "Name": "tv_mult",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Font/FZY4JW_0569.TTF",
+        "MineSweepingNew/yypk_bg_sl@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,1291 @@
+{
+  "ID": "f0ee413a-e9c4-4ad4-9c21-40592fb354a4",
+  "Version": "2.3.4",
+  "Name": "ChatMenu",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 33,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 34,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": -15,
+                "Scale9OriginY": -4,
+                "Scale9Width": 30,
+                "Scale9Height": 8,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 320.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 976,
+                "ActionTag": -1469826872,
+                "Size": {
+                  "X": 1136.0,
+                  "Y": 640.0
+                },
+                "Name": "btn_close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "gxDdz/13-room1-4/bg_chat@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 15,
+                "Scale9Width": 522,
+                "Scale9Height": 448,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 325.06
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5079
+                },
+                "PreSize": {
+                  "X": 0.4859,
+                  "Y": 0.7469
+                },
+                "LeftMargin": 292.0,
+                "RightMargin": 292.0,
+                "TopMargin": 75.94,
+                "BottomMargin": 86.06,
+                "Tag": 35,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 233,
+                    "Scale9Height": 25,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 407.4309,
+                      "Y": 419.7819
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7381,
+                      "Y": 0.8782
+                    },
+                    "PreSize": {
+                      "X": 0.4764,
+                      "Y": 0.0983
+                    },
+                    "VerticalEdge": "BottomEdge",
+                    "LeftMargin": 275.9309,
+                    "RightMargin": 13.0691,
+                    "TopMargin": 11.2181,
+                    "BottomMargin": 419.7819,
+                    "Tag": 36,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "gxDdz/13-room1-4/chat_btn_select@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "Tag": 141,
+                        "ActionTag": 848576307,
+                        "Size": {
+                          "X": 263.0,
+                          "Y": 47.0
+                        },
+                        "Name": "normal",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "gxDdz/13-room1-4/chat_btn_normal@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "Tag": 140,
+                        "ActionTag": -1873945079,
+                        "Size": {
+                          "X": 263.0,
+                          "Y": 47.0
+                        },
+                        "Name": "select",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "common/chat/biaoqing.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 74.8599,
+                          "Y": 10.2825
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.2846,
+                          "Y": 0.2188
+                        },
+                        "PreSize": {
+                          "X": 0.3878,
+                          "Y": 0.4894
+                        },
+                        "LeftMargin": 74.8599,
+                        "RightMargin": 86.1401,
+                        "TopMargin": 13.7175,
+                        "BottomMargin": 10.2825,
+                        "Tag": 1459,
+                        "ActionTag": 1415944554,
+                        "Size": {
+                          "X": 102.0,
+                          "Y": 23.0
+                        },
+                        "Name": "Sprite_1",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -2122443615,
+                    "Size": {
+                      "X": 263.0,
+                      "Y": 47.0
+                    },
+                    "Name": "btn0",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 233,
+                    "Scale9Height": 25,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 144.4061,
+                      "Y": 419.7819
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2616,
+                      "Y": 0.8782
+                    },
+                    "PreSize": {
+                      "X": 0.4764,
+                      "Y": 0.0983
+                    },
+                    "VerticalEdge": "BottomEdge",
+                    "LeftMargin": 12.9061,
+                    "RightMargin": 276.0939,
+                    "TopMargin": 11.2181,
+                    "BottomMargin": 419.7819,
+                    "Tag": 37,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "gxDdz/13-room1-4/chat_btn_select@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "Tag": 142,
+                        "ActionTag": 2082418965,
+                        "Size": {
+                          "X": 263.0,
+                          "Y": 47.0
+                        },
+                        "Name": "normal",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "gxDdz/13-room1-4/chat_btn_normal@2x.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "Tag": 37,
+                        "ActionTag": 817558725,
+                        "Size": {
+                          "X": 263.0,
+                          "Y": 47.0
+                        },
+                        "Name": "select",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "common/chat/changyongyu.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 132.7494,
+                          "Y": 21.2152
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5048,
+                          "Y": 0.4514
+                        },
+                        "PreSize": {
+                          "X": 0.2852,
+                          "Y": 0.4894
+                        },
+                        "LeftMargin": 95.2494,
+                        "RightMargin": 92.7506,
+                        "TopMargin": 14.2848,
+                        "BottomMargin": 9.7152,
+                        "Tag": 1460,
+                        "ActionTag": -1674439126,
+                        "Size": {
+                          "X": 75.0,
+                          "Y": 23.0
+                        },
+                        "Name": "Sprite_2",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 1121319427,
+                    "Size": {
+                      "X": 263.0,
+                      "Y": 47.0
+                    },
+                    "Name": "btn1",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "RightMargin": 552.0,
+                    "TopMargin": 478.0,
+                    "Tag": 44,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "gxDdz/13-room1-4/chat_input_bg@2x.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 14,
+                        "Scale9Width": 338,
+                        "Scale9Height": 42,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 184.0,
+                          "Y": 50.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9125,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "HorizontalEdge": "LeftEdge",
+                        "RightMargin": -368.0,
+                        "TopMargin": -85.0,
+                        "BottomMargin": 15.0,
+                        "Tag": 40,
+                        "Children": [
+                          {
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "FZHei-B01S.ttf",
+                              "Plist": ""
+                            },
+                            "FontSize": 30,
+                            "IsCustomSize": true,
+                            "LabelText": "",
+                            "PlaceHolderText": "点击输入...",
+                            "MaxLengthEnable": true,
+                            "MaxLengthText": 50,
+                            "TouchEnable": true,
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 16.5392,
+                              "Y": 16.031
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.0449,
+                              "Y": 0.229
+                            },
+                            "PreSize": {
+                              "X": 0.8967,
+                              "Y": 0.5
+                            },
+                            "LeftMargin": 16.5392,
+                            "RightMargin": 21.4608,
+                            "TopMargin": 18.969,
+                            "BottomMargin": 16.031,
+                            "Tag": 38,
+                            "ActionTag": -1269658635,
+                            "Size": {
+                              "X": 330.0,
+                              "Y": 35.0
+                            },
+                            "Name": "textfield",
+                            "ctype": "TextFieldObjectData"
+                          }
+                        ],
+                        "ActionTag": -150296409,
+                        "Size": {
+                          "X": 368.0,
+                          "Y": 70.0
+                        },
+                        "Name": "textbg",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "gxDdz/13-room1-4/chat_btn_send@2x.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 98,
+                        "Scale9Height": 40,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 452.5433,
+                          "Y": 50.0119
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 388.5433,
+                        "RightMargin": -516.5433,
+                        "TopMargin": -81.0119,
+                        "BottomMargin": 19.0119,
+                        "Tag": 41,
+                        "ActionTag": 1101466335,
+                        "Size": {
+                          "X": 128.0,
+                          "Y": 62.0
+                        },
+                        "Name": "sendbtn",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "ItemMargin": 5,
+                        "DirectionType": "Vertical",
+                        "ScrollDirectionType": 0,
+                        "ClipAble": true,
+                        "BackColorAlpha": 0,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 150
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 150
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": -27,
+                        "Scale9OriginY": -28,
+                        "Scale9Width": 54,
+                        "Scale9Height": 56,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 20.4885,
+                          "Y": 88.2684
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 20.4885,
+                        "RightMargin": -530.4885,
+                        "TopMargin": -413.2684,
+                        "BottomMargin": 88.2684,
+                        "Tag": 109,
+                        "ActionTag": 349606599,
+                        "Size": {
+                          "X": 510.0,
+                          "Y": 325.0
+                        },
+                        "Name": "list1",
+                        "ctype": "ListViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 1321488248,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "chatnode",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "RightMargin": 552.0,
+                    "TopMargin": 478.0,
+                    "Tag": 46,
+                    "Children": [
+                      {
+                        "DirectionType": "Vertical",
+                        "ScrollDirectionType": 0,
+                        "ClipAble": true,
+                        "BackColorAlpha": 0,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 150
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 150
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": -27,
+                        "Scale9OriginY": -28,
+                        "Scale9Width": 54,
+                        "Scale9Height": 56,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 20.0,
+                          "Y": 23.0003
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 20.0,
+                        "RightMargin": -530.0,
+                        "TopMargin": -413.0003,
+                        "BottomMargin": 23.0003,
+                        "Tag": 49,
+                        "Children": [
+                          {
+                            "ItemMargin": 30,
+                            "ScrollDirectionType": 0,
+                            "ClipAble": true,
+                            "BackColorAlpha": 0,
+                            "ComboBoxIndex": 1,
+                            "SingleColor": {
+                              "R": 150,
+                              "G": 150
+                            },
+                            "FirstColor": {
+                              "R": 150,
+                              "G": 150
+                            },
+                            "EndColor": {},
+                            "ColorVector": {
+                              "ScaleY": 1.0
+                            },
+                            "Scale9Enable": true,
+                            "Scale9OriginX": -27,
+                            "Scale9OriginY": -28,
+                            "Scale9Width": 54,
+                            "Scale9Height": 56,
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 378.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.8438
+                            },
+                            "PreSize": {
+                              "X": 0.9902,
+                              "Y": 0.1563
+                            },
+                            "RightMargin": 5.0,
+                            "BottomMargin": 378.0,
+                            "Tag": 52,
+                            "ActionTag": 572365223,
+                            "Size": {
+                              "X": 505.0,
+                              "Y": 70.0
+                            },
+                            "Name": "left0",
+                            "ctype": "ListViewObjectData"
+                          },
+                          {
+                            "ItemMargin": 30,
+                            "ScrollDirectionType": 0,
+                            "ClipAble": true,
+                            "BackColorAlpha": 0,
+                            "ComboBoxIndex": 1,
+                            "SingleColor": {
+                              "R": 150,
+                              "G": 150
+                            },
+                            "FirstColor": {
+                              "R": 150,
+                              "G": 150
+                            },
+                            "EndColor": {},
+                            "ColorVector": {
+                              "ScaleY": 1.0
+                            },
+                            "Scale9Enable": true,
+                            "Scale9OriginX": -27,
+                            "Scale9OriginY": -28,
+                            "Scale9Width": 54,
+                            "Scale9Height": 56,
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 315.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.7031
+                            },
+                            "PreSize": {
+                              "X": 0.9902,
+                              "Y": 0.1406
+                            },
+                            "RightMargin": 5.0,
+                            "TopMargin": 70.0,
+                            "BottomMargin": 315.0,
+                            "Tag": 53,
+                            "ActionTag": 2113142872,
+                            "ZOrder": 1,
+                            "Size": {
+                              "X": 505.0,
+                              "Y": 63.0
+                            },
+                            "Name": "left1",
+                            "ctype": "ListViewObjectData"
+                          },
+                          {
+                            "ItemMargin": 30,
+                            "ScrollDirectionType": 0,
+                            "ClipAble": true,
+                            "BackColorAlpha": 0,
+                            "ComboBoxIndex": 1,
+                            "SingleColor": {
+                              "R": 150,
+                              "G": 150
+                            },
+                            "FirstColor": {
+                              "R": 150,
+                              "G": 150
+                            },
+                            "EndColor": {},
+                            "ColorVector": {
+                              "ScaleY": 1.0
+                            },
+                            "Scale9Enable": true,
+                            "Scale9OriginX": -27,
+                            "Scale9OriginY": -28,
+                            "Scale9Width": 54,
+                            "Scale9Height": 56,
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 252.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.5625
+                            },
+                            "PreSize": {
+                              "X": 0.9902,
+                              "Y": 0.1406
+                            },
+                            "RightMargin": 5.0,
+                            "TopMargin": 133.0,
+                            "BottomMargin": 252.0,
+                            "Tag": 1737,
+                            "ActionTag": -987935963,
+                            "ZOrder": 2,
+                            "Size": {
+                              "X": 505.0,
+                              "Y": 63.0
+                            },
+                            "Name": "left2",
+                            "ctype": "ListViewObjectData"
+                          },
+                          {
+                            "ItemMargin": 30,
+                            "ScrollDirectionType": 0,
+                            "ClipAble": true,
+                            "BackColorAlpha": 0,
+                            "ComboBoxIndex": 1,
+                            "SingleColor": {
+                              "R": 150,
+                              "G": 150
+                            },
+                            "FirstColor": {
+                              "R": 150,
+                              "G": 150
+                            },
+                            "EndColor": {},
+                            "ColorVector": {
+                              "ScaleY": 1.0
+                            },
+                            "Scale9Enable": true,
+                            "Scale9OriginX": -27,
+                            "Scale9OriginY": -28,
+                            "Scale9Width": 54,
+                            "Scale9Height": 56,
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 189.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.4219
+                            },
+                            "PreSize": {
+                              "X": 0.9902,
+                              "Y": 0.1406
+                            },
+                            "RightMargin": 5.0,
+                            "TopMargin": 196.0,
+                            "BottomMargin": 189.0,
+                            "Tag": 1738,
+                            "ActionTag": -576401245,
+                            "ZOrder": 3,
+                            "Size": {
+                              "X": 505.0,
+                              "Y": 63.0
+                            },
+                            "Name": "left3",
+                            "ctype": "ListViewObjectData"
+                          },
+                          {
+                            "ItemMargin": 30,
+                            "ScrollDirectionType": 0,
+                            "ClipAble": true,
+                            "BackColorAlpha": 0,
+                            "ComboBoxIndex": 1,
+                            "SingleColor": {
+                              "R": 150,
+                              "G": 150
+                            },
+                            "FirstColor": {
+                              "R": 150,
+                              "G": 150
+                            },
+                            "EndColor": {},
+                            "ColorVector": {
+                              "ScaleY": 1.0
+                            },
+                            "Scale9Enable": true,
+                            "Scale9OriginX": -27,
+                            "Scale9OriginY": -28,
+                            "Scale9Width": 54,
+                            "Scale9Height": 56,
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 126.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.2813
+                            },
+                            "PreSize": {
+                              "X": 0.9902,
+                              "Y": 0.1406
+                            },
+                            "RightMargin": 5.0,
+                            "TopMargin": 259.0,
+                            "BottomMargin": 126.0,
+                            "Tag": 1739,
+                            "ActionTag": 1040622694,
+                            "ZOrder": 4,
+                            "Size": {
+                              "X": 505.0,
+                              "Y": 63.0
+                            },
+                            "Name": "left4",
+                            "ctype": "ListViewObjectData"
+                          },
+                          {
+                            "ItemMargin": 30,
+                            "ScrollDirectionType": 0,
+                            "ClipAble": true,
+                            "BackColorAlpha": 0,
+                            "ComboBoxIndex": 1,
+                            "SingleColor": {
+                              "R": 150,
+                              "G": 150
+                            },
+                            "FirstColor": {
+                              "R": 150,
+                              "G": 150
+                            },
+                            "EndColor": {},
+                            "ColorVector": {
+                              "ScaleY": 1.0
+                            },
+                            "Scale9Enable": true,
+                            "Scale9OriginX": -27,
+                            "Scale9OriginY": -28,
+                            "Scale9Width": 54,
+                            "Scale9Height": 56,
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 63.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.1406
+                            },
+                            "PreSize": {
+                              "X": 0.9902,
+                              "Y": 0.1406
+                            },
+                            "RightMargin": 5.0,
+                            "TopMargin": 322.0,
+                            "BottomMargin": 63.0,
+                            "Tag": 2244,
+                            "ActionTag": 561921939,
+                            "ZOrder": 5,
+                            "Size": {
+                              "X": 505.0,
+                              "Y": 63.0
+                            },
+                            "Name": "left5",
+                            "ctype": "ListViewObjectData"
+                          },
+                          {
+                            "ItemMargin": 30,
+                            "ScrollDirectionType": 0,
+                            "ClipAble": true,
+                            "BackColorAlpha": 0,
+                            "ComboBoxIndex": 1,
+                            "SingleColor": {
+                              "R": 150,
+                              "G": 150
+                            },
+                            "FirstColor": {
+                              "R": 150,
+                              "G": 150
+                            },
+                            "EndColor": {},
+                            "ColorVector": {
+                              "ScaleY": 1.0
+                            },
+                            "Scale9Enable": true,
+                            "Scale9OriginX": -27,
+                            "Scale9OriginY": -28,
+                            "Scale9Width": 54,
+                            "Scale9Height": 56,
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.9902,
+                              "Y": 0.1406
+                            },
+                            "RightMargin": 5.0,
+                            "TopMargin": 385.0,
+                            "Tag": 2245,
+                            "ActionTag": 1343282798,
+                            "ZOrder": 6,
+                            "Size": {
+                              "X": 505.0,
+                              "Y": 63.0
+                            },
+                            "Name": "left6",
+                            "ctype": "ListViewObjectData"
+                          }
+                        ],
+                        "ActionTag": -69316167,
+                        "Size": {
+                          "X": 510.0,
+                          "Y": 390.0
+                        },
+                        "Name": "list0",
+                        "ctype": "ListViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -1752755301,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "emojinode",
+                    "ctype": "SingleNodeObjectData"
+                  }
+                ],
+                "ActionTag": 281631539,
+                "Size": {
+                  "X": 552.0,
+                  "Y": 478.0
+                },
+                "Name": "bg",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 2054951097,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common/chat/biaoqing.png",
+        "common/chat/changyongyu.png",
+        "FZHei-B01S.ttf",
+        "gxDdz/13-room1-4/bg_chat@2x.png",
+        "gxDdz/13-room1-4/chat_btn_normal@2x.png",
+        "gxDdz/13-room1-4/chat_btn_select@2x.png",
+        "gxDdz/13-room1-4/chat_btn_send@2x.png",
+        "gxDdz/13-room1-4/chat_input_bg@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

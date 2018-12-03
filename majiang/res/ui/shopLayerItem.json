@@ -1,0 +1,364 @@
+{
+  "ID": "427eaa46-a9e9-48c5-8e65-b08ab65b80fc",
+  "Version": "2.3.4",
+  "Name": "shopLayerItem",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 290,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "qhqp/15-recharge/qh_bg_buy@2x.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 67,
+            "Scale9OriginY": 91,
+            "Scale9Width": 72,
+            "Scale9Height": 95,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 291,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qhqp/16-draw/icon_daimond_4@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 99.999,
+                  "Y": 189.9994
+                },
+                "Scale": {
+                  "ScaleX": 1.5,
+                  "ScaleY": 1.5
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4854,
+                  "Y": 0.6859
+                },
+                "PreSize": {
+                  "X": 0.233,
+                  "Y": 0.3971
+                },
+                "LeftMargin": 75.999,
+                "RightMargin": 82.001,
+                "TopMargin": 32.0006,
+                "BottomMargin": 134.9994,
+                "Tag": 292,
+                "ActionTag": 672465297,
+                "Size": {
+                  "X": 54.0,
+                  "Y": 64.0
+                },
+                "Name": "icon",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "道具名称",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 101.9983,
+                  "Y": 109.9999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4951,
+                  "Y": 0.3971
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.083
+                },
+                "LeftMargin": -1.0017,
+                "RightMargin": 1.0017,
+                "TopMargin": 155.5001,
+                "BottomMargin": 98.4999,
+                "Tag": 293,
+                "ActionTag": 1540901736,
+                "Size": {
+                  "X": 206.0,
+                  "Y": 23.0
+                },
+                "Name": "nameTxt",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "ButtonText": "Button",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "TextColor": {
+                  "R": 72,
+                  "G": 6,
+                  "B": 6
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "qhqp/15-recharge/qh_btn_price@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 136,
+                "Scale9Height": 41,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 102.9998,
+                  "Y": 49.9998
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.1805
+                },
+                "PreSize": {
+                  "X": 0.8058,
+                  "Y": 0.2274
+                },
+                "LeftMargin": 19.9998,
+                "RightMargin": 20.0002,
+                "TopMargin": 195.5002,
+                "BottomMargin": 18.4998,
+                "Tag": 294,
+                "ActionTag": 910105394,
+                "Size": {
+                  "X": 166.0,
+                  "Y": 63.0
+                },
+                "VisibleForFrame": false,
+                "Name": "btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qhqp/15-recharge/qh_btn_price@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 54,
+                "Scale9OriginY": 20,
+                "Scale9Width": 58,
+                "Scale9Height": 23,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 102.2605,
+                  "Y": 50.4846
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4964,
+                  "Y": 0.1823
+                },
+                "PreSize": {
+                  "X": 0.8058,
+                  "Y": 0.2274
+                },
+                "LeftMargin": 19.2605,
+                "RightMargin": 20.7395,
+                "TopMargin": 195.0154,
+                "BottomMargin": 18.9846,
+                "Tag": 813,
+                "ActionTag": -1885424092,
+                "Size": {
+                  "X": 166.0,
+                  "Y": 63.0
+                },
+                "Name": "Image_5",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "Text Label",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 105.3203,
+                  "Y": 49.0533
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 72,
+                  "G": 6,
+                  "B": 6
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5113,
+                  "Y": 0.1771
+                },
+                "PreSize": {
+                  "X": 0.4417,
+                  "Y": 0.083
+                },
+                "LeftMargin": 59.8203,
+                "RightMargin": 55.1797,
+                "TopMargin": 216.4467,
+                "BottomMargin": 37.5533,
+                "Tag": 814,
+                "ActionTag": 566746189,
+                "Size": {
+                  "X": 91.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_8",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1733386734,
+            "Size": {
+              "X": 206.0,
+              "Y": 277.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 206.0,
+          "Y": 277.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Font/FZY4JW_0569.TTF",
+        "qhqp/15-recharge/qh_bg_buy@2x.png",
+        "qhqp/15-recharge/qh_btn_price@2x.png",
+        "qhqp/16-draw/icon_daimond_4@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

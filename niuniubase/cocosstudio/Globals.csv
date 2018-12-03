@@ -1,0 +1,6 @@
+Name,Value,注解
+string,string,int
+MaxHandCards,14,玩家手牌数量
+MaxTableCards,84,桌牌数量
+MaxOneCards,4,单牌最多数量
+TableNeedPlayer,3,桌子需要人数

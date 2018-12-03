@@ -1,0 +1,586 @@
+{
+  "ID": "d5f2c569-ce18-44f5-8d1b-2e948179c2b6",
+  "Version": "2.3.4",
+  "Name": "wolongRecordCell",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 674,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 675,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "zhanji/zy_bg_detail@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 347,
+                "Scale9OriginY": 26,
+                "Scale9Width": 333,
+                "Scale9Height": 36,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 513.5,
+                  "Y": 45.192
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5021
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.9778
+                },
+                "VerticalEdge": "TopEdge",
+                "TopMargin": 0.808,
+                "BottomMargin": 1.192,
+                "Tag": 707,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "第100局",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/FZY4JW_0569.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 11.0413,
+                      "Y": 41.0388
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 181,
+                      "G": 114,
+                      "B": 72
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0108,
+                      "Y": 0.4663
+                    },
+                    "PreSize": {
+                      "X": 0.1461,
+                      "Y": 0.2614
+                    },
+                    "LeftMargin": 11.0413,
+                    "RightMargin": 865.9587,
+                    "TopMargin": 35.4612,
+                    "BottomMargin": 29.5388,
+                    "Tag": 708,
+                    "ActionTag": 914842954,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 23.0
+                    },
+                    "Name": "jushuLabel",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 85.3824,
+                      "Y": 15.5262
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0831,
+                      "Y": 0.1764
+                    },
+                    "PreSize": {
+                      "X": 0.8569,
+                      "Y": 0.5682
+                    },
+                    "LeftMargin": 85.3824,
+                    "RightMargin": 61.6176,
+                    "TopMargin": 22.4738,
+                    "BottomMargin": 15.5262,
+                    "Tag": 709,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "第100局",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 132.2883,
+                          "Y": 27.4504
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1503,
+                          "Y": 0.549
+                        },
+                        "PreSize": {
+                          "X": 0.1364,
+                          "Y": 0.46
+                        },
+                        "LeftMargin": 72.2883,
+                        "RightMargin": 687.7117,
+                        "TopMargin": 11.0496,
+                        "BottomMargin": 15.9504,
+                        "Tag": 710,
+                        "ActionTag": -676359361,
+                        "Size": {
+                          "X": 120.0,
+                          "Y": 23.0
+                        },
+                        "Name": "fen",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "第100局",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 279.9406,
+                          "Y": 27.4504
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.3181,
+                          "Y": 0.549
+                        },
+                        "PreSize": {
+                          "X": 0.1364,
+                          "Y": 0.46
+                        },
+                        "LeftMargin": 219.9406,
+                        "RightMargin": 540.0594,
+                        "TopMargin": 11.0496,
+                        "BottomMargin": 15.9504,
+                        "Tag": 711,
+                        "ActionTag": 390596488,
+                        "Size": {
+                          "X": 120.0,
+                          "Y": 23.0
+                        },
+                        "Name": "fen",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "第100局",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 427.5928,
+                          "Y": 27.4504
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4859,
+                          "Y": 0.549
+                        },
+                        "PreSize": {
+                          "X": 0.1364,
+                          "Y": 0.46
+                        },
+                        "LeftMargin": 367.5928,
+                        "RightMargin": 392.4072,
+                        "TopMargin": 11.0496,
+                        "BottomMargin": 15.9504,
+                        "Tag": 712,
+                        "ActionTag": -1099214302,
+                        "Size": {
+                          "X": 120.0,
+                          "Y": 23.0
+                        },
+                        "Name": "fen",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "第100局",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 575.245,
+                          "Y": 27.4504
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.6537,
+                          "Y": 0.549
+                        },
+                        "PreSize": {
+                          "X": 0.1364,
+                          "Y": 0.46
+                        },
+                        "LeftMargin": 515.245,
+                        "RightMargin": 244.755,
+                        "TopMargin": 11.0496,
+                        "BottomMargin": 15.9504,
+                        "Tag": 713,
+                        "ActionTag": 863366992,
+                        "Size": {
+                          "X": 120.0,
+                          "Y": 23.0
+                        },
+                        "Name": "fen",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "第100局",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 722.8972,
+                          "Y": 27.4504
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.8215,
+                          "Y": 0.549
+                        },
+                        "PreSize": {
+                          "X": 0.1364,
+                          "Y": 0.46
+                        },
+                        "LeftMargin": 662.8972,
+                        "RightMargin": 97.1028,
+                        "TopMargin": 11.0496,
+                        "BottomMargin": 15.9504,
+                        "Tag": 947,
+                        "ActionTag": 1868604610,
+                        "Size": {
+                          "X": 120.0,
+                          "Y": 23.0
+                        },
+                        "Name": "fen",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1161384177,
+                    "Size": {
+                      "X": 880.0,
+                      "Y": 50.0
+                    },
+                    "Name": "fenShuLabel",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "zhanji/zy_btn_playBack@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 123,
+                    "Scale9Height": 49,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 943.4346,
+                      "Y": 42.8966
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9186,
+                      "Y": 0.4875
+                    },
+                    "PreSize": {
+                      "X": 0.149,
+                      "Y": 0.8068
+                    },
+                    "LeftMargin": 866.9346,
+                    "RightMargin": 7.0654,
+                    "TopMargin": 9.6034,
+                    "BottomMargin": 7.3966,
+                    "Tag": 716,
+                    "ActionTag": 498952091,
+                    "Size": {
+                      "X": 153.0,
+                      "Y": 71.0
+                    },
+                    "Name": "btn_lookDetail",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -406063463,
+                "ZOrder": 1,
+                "Size": {
+                  "X": 1027.0,
+                  "Y": 88.0
+                },
+                "Name": "img_panel",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -905760697,
+            "Size": {
+              "X": 1027.0,
+              "Y": 90.0
+            },
+            "Name": "item",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1027.0,
+          "Y": 90.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Font/FZY4JW_0569.TTF",
+        "zhanji/zy_bg_detail@2x.png",
+        "zhanji/zy_btn_playBack@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

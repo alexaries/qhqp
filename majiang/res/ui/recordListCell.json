@@ -1,0 +1,1141 @@
+{
+  "ID": "6103f632-54e2-4c28-a4a9-5fdada4e64e0",
+  "Version": "2.3.4",
+  "Name": "recordListCell",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 725,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 726,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qhqp/9-zhanji/qh_bg_zhanji@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 285,
+                "Scale9OriginY": 48,
+                "Scale9Width": 281,
+                "Scale9Height": 108,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 727,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "123456789",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 436.8728,
+                      "Y": 148.848
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5134,
+                      "Y": 0.7296
+                    },
+                    "PreSize": {
+                      "X": 0.1763,
+                      "Y": 0.1667
+                    },
+                    "LeftMargin": 436.8728,
+                    "RightMargin": 264.1272,
+                    "TopMargin": 21.152,
+                    "BottomMargin": 148.848,
+                    "Tag": 728,
+                    "ActionTag": -991376331,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 34.0
+                    },
+                    "Name": "roomId",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "2017-04-10 16:20",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 184.4641,
+                      "Y": 166.3269
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2168,
+                      "Y": 0.8153
+                    },
+                    "PreSize": {
+                      "X": 0.2703,
+                      "Y": 0.1667
+                    },
+                    "LeftMargin": 69.4641,
+                    "RightMargin": 551.5359,
+                    "TopMargin": 20.6731,
+                    "BottomMargin": 149.3269,
+                    "Tag": 729,
+                    "ActionTag": 2077548807,
+                    "Size": {
+                      "X": 230.0,
+                      "Y": 34.0
+                    },
+                    "Name": "time",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "我是一朵大太阳",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 117.0013,
+                      "Y": 110.0001
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1375,
+                      "Y": 0.5392
+                    },
+                    "PreSize": {
+                      "X": 0.1528,
+                      "Y": 0.1667
+                    },
+                    "LeftMargin": 52.0013,
+                    "RightMargin": 668.9987,
+                    "TopMargin": 76.9999,
+                    "BottomMargin": 93.0001,
+                    "Tag": 731,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 18,
+                        "LabelText": "+12\n",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "FZHei-B01S.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 68.64,
+                          "Y": -38.1718
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.528,
+                          "Y": -1.1227
+                        },
+                        "PreSize": {
+                          "X": 0.3846,
+                          "Y": 0.8824
+                        },
+                        "LeftMargin": 43.64,
+                        "RightMargin": 36.36,
+                        "TopMargin": 57.1718,
+                        "BottomMargin": -53.1718,
+                        "Tag": 738,
+                        "ActionTag": 1767577304,
+                        "Size": {
+                          "X": 50.0,
+                          "Y": 30.0
+                        },
+                        "Name": "score",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1687519243,
+                    "Size": {
+                      "X": 130.0,
+                      "Y": 34.0
+                    },
+                    "Name": "player0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "我是一朵大太阳",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 272.0031,
+                      "Y": 110.0006
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3196,
+                      "Y": 0.5392
+                    },
+                    "PreSize": {
+                      "X": 0.1528,
+                      "Y": 0.1667
+                    },
+                    "LeftMargin": 207.0031,
+                    "RightMargin": 513.9968,
+                    "TopMargin": 76.9994,
+                    "BottomMargin": 93.0006,
+                    "Tag": 1119,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 18,
+                        "LabelText": "+12\n",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "FZHei-B01S.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 78.637,
+                          "Y": -38.1718
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.6049,
+                          "Y": -1.1227
+                        },
+                        "PreSize": {
+                          "X": 0.3846,
+                          "Y": 0.8824
+                        },
+                        "LeftMargin": 53.637,
+                        "RightMargin": 26.363,
+                        "TopMargin": 57.1718,
+                        "BottomMargin": -53.1718,
+                        "Tag": 1120,
+                        "ActionTag": 218918472,
+                        "Size": {
+                          "X": 50.0,
+                          "Y": 30.0
+                        },
+                        "Name": "score",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 795422671,
+                    "Size": {
+                      "X": 130.0,
+                      "Y": 34.0
+                    },
+                    "Name": "player1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "我是一朵大太阳",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 430.0044,
+                      "Y": 110.0006
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5053,
+                      "Y": 0.5392
+                    },
+                    "PreSize": {
+                      "X": 0.1528,
+                      "Y": 0.1667
+                    },
+                    "LeftMargin": 365.0044,
+                    "RightMargin": 355.9956,
+                    "TopMargin": 76.9994,
+                    "BottomMargin": 93.0006,
+                    "Tag": 1121,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 18,
+                        "LabelText": "+12\n",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "FZHei-B01S.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 78.637,
+                          "Y": -38.1718
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.6049,
+                          "Y": -1.1227
+                        },
+                        "PreSize": {
+                          "X": 0.3846,
+                          "Y": 0.8824
+                        },
+                        "LeftMargin": 53.637,
+                        "RightMargin": 26.363,
+                        "TopMargin": 57.1718,
+                        "BottomMargin": -53.1718,
+                        "Tag": 1122,
+                        "ActionTag": -565067856,
+                        "Size": {
+                          "X": 50.0,
+                          "Y": 30.0
+                        },
+                        "Name": "score",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1038061442,
+                    "Size": {
+                      "X": 130.0,
+                      "Y": 34.0
+                    },
+                    "Name": "player2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "我是一朵大太阳",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 587.0144,
+                      "Y": 110.0006
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6898,
+                      "Y": 0.5392
+                    },
+                    "PreSize": {
+                      "X": 0.1528,
+                      "Y": 0.1667
+                    },
+                    "LeftMargin": 522.0144,
+                    "RightMargin": 198.9856,
+                    "TopMargin": 76.9994,
+                    "BottomMargin": 93.0006,
+                    "Tag": 1123,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 18,
+                        "LabelText": "+12\n",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "FZHei-B01S.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 68.64,
+                          "Y": -36.1726
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.528,
+                          "Y": -1.0639
+                        },
+                        "PreSize": {
+                          "X": 0.3846,
+                          "Y": 0.8824
+                        },
+                        "LeftMargin": 43.64,
+                        "RightMargin": 36.36,
+                        "TopMargin": 55.1726,
+                        "BottomMargin": -51.1726,
+                        "Tag": 1124,
+                        "ActionTag": -264317106,
+                        "Size": {
+                          "X": 50.0,
+                          "Y": 30.0
+                        },
+                        "Name": "score",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1344552429,
+                    "Size": {
+                      "X": 130.0,
+                      "Y": 34.0
+                    },
+                    "Name": "player3",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "我是一朵大太阳",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 747.5159,
+                      "Y": 110.0006
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8784,
+                      "Y": 0.5392
+                    },
+                    "PreSize": {
+                      "X": 0.1528,
+                      "Y": 0.1667
+                    },
+                    "LeftMargin": 682.5159,
+                    "RightMargin": 38.4841,
+                    "TopMargin": 76.9994,
+                    "BottomMargin": 93.0006,
+                    "Tag": 198,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 18,
+                        "LabelText": "+12\n",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "FZHei-B01S.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 68.6405,
+                          "Y": -36.1726
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.528,
+                          "Y": -1.0639
+                        },
+                        "PreSize": {
+                          "X": 0.3846,
+                          "Y": 0.8824
+                        },
+                        "LeftMargin": 43.6405,
+                        "RightMargin": 36.3595,
+                        "TopMargin": 55.1726,
+                        "BottomMargin": -51.1726,
+                        "Tag": 199,
+                        "ActionTag": 1904818785,
+                        "Size": {
+                          "X": 50.0,
+                          "Y": 30.0
+                        },
+                        "Name": "score",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -35283596,
+                    "Size": {
+                      "X": 130.0,
+                      "Y": 34.0
+                    },
+                    "Name": "player4",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "我是一朵大太阳",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1284.7622,
+                      "Y": 83.7223
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 139,
+                      "G": 105,
+                      "B": 20
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.5097,
+                      "Y": 0.4104
+                    },
+                    "PreSize": {
+                      "X": 0.1528,
+                      "Y": 0.1667
+                    },
+                    "LeftMargin": 1219.7622,
+                    "RightMargin": -498.7622,
+                    "TopMargin": 103.2777,
+                    "BottomMargin": 66.7223,
+                    "Tag": 200,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 18,
+                        "LabelText": "+12\n",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "FZHei-B01S.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 158.639,
+                          "Y": 11.8286
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 139,
+                          "G": 105,
+                          "B": 20
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 1.2203,
+                          "Y": 0.3479
+                        },
+                        "PreSize": {
+                          "X": 0.3846,
+                          "Y": 0.8824
+                        },
+                        "LeftMargin": 133.639,
+                        "RightMargin": -53.639,
+                        "TopMargin": 7.1714,
+                        "BottomMargin": -3.1714,
+                        "Tag": 201,
+                        "ActionTag": -1653561994,
+                        "Size": {
+                          "X": 50.0,
+                          "Y": 30.0
+                        },
+                        "Name": "score",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -969270471,
+                    "Size": {
+                      "X": 130.0,
+                      "Y": 34.0
+                    },
+                    "Name": "player5",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "gxDdz/8-zhanji/iconFail@2x.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 32.1752,
+                      "Y": 133.6229
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0378,
+                      "Y": 0.655
+                    },
+                    "PreSize": {
+                      "X": 0.0635,
+                      "Y": 0.2647
+                    },
+                    "LeftMargin": 5.1752,
+                    "RightMargin": 791.8248,
+                    "TopMargin": 43.3771,
+                    "BottomMargin": 106.6229,
+                    "Tag": 1127,
+                    "ActionTag": 323374351,
+                    "Size": {
+                      "X": 54.0,
+                      "Y": 54.0
+                    },
+                    "Name": "stateLost",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "gxDdz/8-zhanji/iconWin@2x.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 32.1752,
+                      "Y": 133.6229
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0378,
+                      "Y": 0.655
+                    },
+                    "PreSize": {
+                      "X": 0.0635,
+                      "Y": 0.2647
+                    },
+                    "LeftMargin": 5.1752,
+                    "RightMargin": 791.8248,
+                    "TopMargin": 43.3771,
+                    "BottomMargin": 106.6229,
+                    "Tag": 1126,
+                    "ActionTag": -1960143498,
+                    "Size": {
+                      "X": 54.0,
+                      "Y": 54.0
+                    },
+                    "Name": "stateWin",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/9-zhanji/record_btn_details@2x.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 41,
+                    "Scale9OriginY": 14,
+                    "Scale9Width": 44,
+                    "Scale9Height": 15,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 696.785,
+                      "Y": 146.1907
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8188,
+                      "Y": 0.7166
+                    },
+                    "PreSize": {
+                      "X": 0.1481,
+                      "Y": 0.2108
+                    },
+                    "LeftMargin": 696.785,
+                    "RightMargin": 28.215,
+                    "TopMargin": 14.8093,
+                    "BottomMargin": 146.1907,
+                    "Tag": 1118,
+                    "ActionTag": 1975879206,
+                    "Size": {
+                      "X": 126.0,
+                      "Y": 43.0
+                    },
+                    "Name": "btn_chakan",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "贵溪麻将",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 359.7133,
+                      "Y": 166.1805
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4227,
+                      "Y": 0.8146
+                    },
+                    "PreSize": {
+                      "X": 0.2703,
+                      "Y": 0.1667
+                    },
+                    "LeftMargin": 244.7133,
+                    "RightMargin": 376.2867,
+                    "TopMargin": 20.8195,
+                    "BottomMargin": 149.1805,
+                    "Tag": 1125,
+                    "ActionTag": 403684760,
+                    "Size": {
+                      "X": 230.0,
+                      "Y": 34.0
+                    },
+                    "Name": "name",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -313969002,
+                "Size": {
+                  "X": 851.0,
+                  "Y": 204.0
+                },
+                "Name": "listBg",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 912483318,
+            "Size": {
+              "X": 851.0,
+              "Y": 204.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 851.0,
+          "Y": 204.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "FZHei-B01S.ttf",
+        "gxDdz/8-zhanji/iconFail@2x.png",
+        "gxDdz/8-zhanji/iconWin@2x.png",
+        "qhqp/9-zhanji/qh_bg_zhanji@2x.png",
+        "qhqp/9-zhanji/record_btn_details@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

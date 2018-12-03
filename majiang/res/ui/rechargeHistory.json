@@ -1,0 +1,704 @@
+{
+  "ID": "d764f167-d232-478d-b9ad-d88e48bae68d",
+  "Version": "2.3.4",
+  "Name": "rechargeHistory",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 19,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 127,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": -374,
+            "Scale9OriginY": -211,
+            "Scale9Width": 748,
+            "Scale9Height": 422,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.832
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5013
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "TopMargin": -0.832,
+            "BottomMargin": 0.832,
+            "Tag": 53,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "Scale9OriginX": -11,
+                "Scale9OriginY": -11,
+                "Scale9Width": 22,
+                "Scale9Height": 22,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 320.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 58,
+                "ActionTag": -588150326,
+                "Size": {
+                  "X": 1136.0,
+                  "Y": 640.0
+                },
+                "Name": "backBtn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "gxDdz/19-cz/bg_cz@2x.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 259,
+                "Scale9OriginY": 200,
+                "Scale9Width": 268,
+                "Scale9Height": 207,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 167.5205,
+                  "Y": 19.0159
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1475,
+                  "Y": 0.0297
+                },
+                "PreSize": {
+                  "X": 0.6919,
+                  "Y": 0.9484
+                },
+                "LeftMargin": 167.5205,
+                "RightMargin": 182.4795,
+                "TopMargin": 13.9841,
+                "BottomMargin": 19.0159,
+                "Tag": 101,
+                "ActionTag": -118315895,
+                "Size": {
+                  "X": 786.0,
+                  "Y": 607.0
+                },
+                "Name": "bg",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 32,
+                "LabelText": "时间 ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 326.9091,
+                  "Y": 538.1055
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 165,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2878,
+                  "Y": 0.8408
+                },
+                "PreSize": {
+                  "X": 0.0572,
+                  "Y": 0.0594
+                },
+                "LeftMargin": 294.4091,
+                "RightMargin": 776.5909,
+                "TopMargin": 82.8945,
+                "BottomMargin": 519.1055,
+                "Tag": 265,
+                "ActionTag": 1222772430,
+                "Size": {
+                  "X": 65.0,
+                  "Y": 38.0
+                },
+                "Name": "Text_17",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 32,
+                "LabelText": "玩家ID",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 475.4984,
+                  "Y": 538.1055
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 165,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4186,
+                  "Y": 0.8408
+                },
+                "PreSize": {
+                  "X": 0.0845,
+                  "Y": 0.0594
+                },
+                "LeftMargin": 427.4984,
+                "RightMargin": 612.5016,
+                "TopMargin": 82.8945,
+                "BottomMargin": 519.1055,
+                "Tag": 266,
+                "ActionTag": -1021063821,
+                "Size": {
+                  "X": 96.0,
+                  "Y": 38.0
+                },
+                "Name": "Text_17_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 32,
+                "LabelText": "玩家名称 ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 622.0886,
+                  "Y": 538.1055
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 165,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5476,
+                  "Y": 0.8408
+                },
+                "PreSize": {
+                  "X": 0.1153,
+                  "Y": 0.0594
+                },
+                "LeftMargin": 556.5886,
+                "RightMargin": 448.4114,
+                "TopMargin": 82.8945,
+                "BottomMargin": 519.1055,
+                "Tag": 267,
+                "ActionTag": 288976450,
+                "Size": {
+                  "X": 131.0,
+                  "Y": 38.0
+                },
+                "Name": "Text_17_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 32,
+                "LabelText": "房卡数量 ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 768.1747,
+                  "Y": 538.1055
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 165,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6762,
+                  "Y": 0.8408
+                },
+                "PreSize": {
+                  "X": 0.1153,
+                  "Y": 0.0594
+                },
+                "LeftMargin": 702.6747,
+                "RightMargin": 302.3253,
+                "TopMargin": 82.8945,
+                "BottomMargin": 519.1055,
+                "Tag": 268,
+                "ActionTag": -689812656,
+                "Size": {
+                  "X": 131.0,
+                  "Y": 38.0
+                },
+                "Name": "Text_17_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 32,
+                "LabelText": "状态 ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 873.1736,
+                  "Y": 538.1055
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 165,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7686,
+                  "Y": 0.8408
+                },
+                "PreSize": {
+                  "X": 0.059,
+                  "Y": 0.0594
+                },
+                "LeftMargin": 839.6736,
+                "RightMargin": 229.3264,
+                "TopMargin": 82.8945,
+                "BottomMargin": 519.1055,
+                "Tag": 396,
+                "ActionTag": 390796000,
+                "Size": {
+                  "X": 67.0,
+                  "Y": 38.0
+                },
+                "Name": "Text_17_2_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "ScrollDirectionType": 0,
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 195.531,
+                  "Y": 59.9364
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1721,
+                  "Y": 0.0937
+                },
+                "PreSize": {
+                  "X": 0.6426,
+                  "Y": 0.7031
+                },
+                "LeftMargin": 195.531,
+                "RightMargin": 210.469,
+                "TopMargin": 130.0637,
+                "BottomMargin": 59.9364,
+                "Tag": 261,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 400.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.8889
+                    },
+                    "PreSize": {
+                      "X": 0.9589,
+                      "Y": 0.1111
+                    },
+                    "RightMargin": 30.0,
+                    "BottomMargin": 400.0,
+                    "Tag": 253,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "rechargeHistoryItem.json",
+                          "Plist": ""
+                        },
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 1.0429,
+                          "Y": 1.0
+                        },
+                        "RightMargin": -30.0,
+                        "Tag": 259,
+                        "ActionTag": 2115710406,
+                        "Size": {
+                          "X": 730.0,
+                          "Y": 50.0
+                        },
+                        "Name": "item",
+                        "ctype": "ProjectNodeObjectData"
+                      }
+                    ],
+                    "ActionTag": -831105957,
+                    "Size": {
+                      "X": 700.0,
+                      "Y": 50.0
+                    },
+                    "Name": "layout",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": -982928456,
+                "Size": {
+                  "X": 730.0,
+                  "Y": 450.0
+                },
+                "Name": "listView",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "gxDdz/5-setting/gx_btn_close@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 24,
+                "Scale9Height": 32,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 911.3386,
+                  "Y": 586.1783
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8022,
+                  "Y": 0.9159
+                },
+                "PreSize": {
+                  "X": 0.0475,
+                  "Y": 0.0844
+                },
+                "LeftMargin": 884.3386,
+                "RightMargin": 197.6614,
+                "TopMargin": 26.8217,
+                "BottomMargin": 559.1783,
+                "Tag": 448,
+                "ActionTag": -1242626263,
+                "Size": {
+                  "X": 54.0,
+                  "Y": 54.0
+                },
+                "Name": "closeBtn",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1032211798,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "Panel_1_0",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Font/FZY4JW_0569.TTF",
+        "gxDdz/19-cz/bg_cz@2x.png",
+        "gxDdz/5-setting/gx_btn_close@2x.png",
+        "rechargeHistoryItem.json"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,519 @@
+{
+  "ID": "a2ee0952-26b5-49ae-8bf9-4f1d6279b798",
+  "Version": "2.3.4",
+  "Name": "LoginMenu",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "qhqp/1-login/ah_bg_login@2x.png",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {},
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 374,
+            "Scale9OriginY": 211,
+            "Scale9Width": 388,
+            "Scale9Height": 218,
+            "TouchEnable": true,
+            "StretchWidthEnable": true,
+            "StretchHeightEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0001,
+              "Y": 318.7423
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.498
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 0.0001,
+            "RightMargin": -0.0001,
+            "TopMargin": 1.2577,
+            "BottomMargin": -1.2577,
+            "Tag": 19,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qhqp/1-login/qh_img_logo@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 573.9929,
+                  "Y": 407.1815
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5053,
+                  "Y": 0.6362
+                },
+                "PreSize": {
+                  "X": 0.4701,
+                  "Y": 0.4406
+                },
+                "LeftMargin": 306.9929,
+                "RightMargin": 295.0071,
+                "TopMargin": 91.8185,
+                "BottomMargin": 266.1815,
+                "Tag": 557,
+                "ActionTag": 149055908,
+                "Size": {
+                  "X": 534.0,
+                  "Y": 282.0
+                },
+                "Name": "Sprite_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 12,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "openid登陆",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1122.9135,
+                  "Y": 120.4321
+                },
+                "Scale": {
+                  "ScaleX": 2.0,
+                  "ScaleY": 2.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.9885,
+                  "Y": 0.1882
+                },
+                "PreSize": {
+                  "X": 0.1761,
+                  "Y": 0.0313
+                },
+                "LeftMargin": 1022.9135,
+                "RightMargin": -86.9135,
+                "TopMargin": 509.5679,
+                "BottomMargin": 110.4321,
+                "Tag": 141,
+                "ActionTag": 701229345,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 20.0
+                },
+                "Name": "codeinput",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "当前版本：1.0.2",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1106.6912,
+                  "Y": 78.3792
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.9742,
+                  "Y": 0.1225
+                },
+                "PreSize": {
+                  "X": 0.1673,
+                  "Y": 0.0391
+                },
+                "LeftMargin": 916.6912,
+                "RightMargin": 29.3088,
+                "TopMargin": 549.1208,
+                "BottomMargin": 65.8792,
+                "Tag": 10,
+                "ActionTag": -877301287,
+                "Size": {
+                  "X": 190.0,
+                  "Y": 25.0
+                },
+                "Name": "version",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1694043600,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "bg",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "qhqp/1-login/nyb_btn_wechat.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 242,
+            "Scale9Height": 88,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 567.7728,
+              "Y": 121.856
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.4998,
+              "Y": 0.1904
+            },
+            "PreSize": {
+              "X": 0.2394,
+              "Y": 0.1719
+            },
+            "LeftMargin": 431.7728,
+            "RightMargin": 432.2272,
+            "TopMargin": 463.144,
+            "BottomMargin": 66.856,
+            "Tag": 6,
+            "ActionTag": -444152455,
+            "Size": {
+              "X": 272.0,
+              "Y": 110.0
+            },
+            "Name": "wxBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "common/login/guest.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 328,
+            "Scale9Height": 96,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 586.2896,
+              "Y": 120.192
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5161,
+              "Y": 0.1878
+            },
+            "PreSize": {
+              "X": 0.3151,
+              "Y": 0.1844
+            },
+            "LeftMargin": 407.2896,
+            "RightMargin": 370.7104,
+            "TopMargin": 460.808,
+            "BottomMargin": 61.192,
+            "Tag": 164,
+            "ActionTag": -876271660,
+            "Size": {
+              "X": 358.0,
+              "Y": 118.0
+            },
+            "VisibleForFrame": false,
+            "Name": "guestBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "common/login/tishi@2x.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 374,
+            "Scale9OriginY": 10,
+            "Scale9Width": 388,
+            "Scale9Height": 12,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 15.2532
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.0238
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.05
+            },
+            "TopMargin": 608.7468,
+            "BottomMargin": -0.7468,
+            "Tag": 13,
+            "ActionTag": 1573035217,
+            "Size": {
+              "X": 1136.0,
+              "Y": 32.0
+            },
+            "Name": "Image_2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "CheckedState": true,
+            "NormalBackFileData": {
+              "Type": "Normal",
+              "Path": "qhqp/1-login/btn_disagree@2x.png",
+              "Plist": ""
+            },
+            "PressedBackFileData": {
+              "Type": "Normal",
+              "Path": "qhqp/1-login/btn_disagree@2x.png",
+              "Plist": ""
+            },
+            "NodeNormalFileData": {
+              "Type": "Normal",
+              "Path": "qhqp/1-login/btn_agree@2x.png",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 439.7996,
+              "Y": 209.9595
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3871,
+              "Y": 0.3281
+            },
+            "PreSize": {
+              "X": 0.0379,
+              "Y": 0.0672
+            },
+            "LeftMargin": 418.2996,
+            "RightMargin": 674.7004,
+            "TopMargin": 387.0405,
+            "BottomMargin": 209.9595,
+            "Tag": 244,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "common/login/agreement.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 93,
+                "Scale9OriginY": 10,
+                "Scale9Width": 97,
+                "Scale9Height": 12,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 198.5638,
+                  "Y": 22.9365
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 4.6178,
+                  "Y": 0.5334
+                },
+                "PreSize": {
+                  "X": 6.5814,
+                  "Y": 0.7442
+                },
+                "LeftMargin": 57.0638,
+                "RightMargin": -297.0638,
+                "TopMargin": 4.0635,
+                "BottomMargin": 6.9365,
+                "Tag": 148,
+                "ActionTag": -282035098,
+                "Size": {
+                  "X": 283.0,
+                  "Y": 32.0
+                },
+                "Name": "agreement",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 574067444,
+            "Size": {
+              "X": 43.0,
+              "Y": 43.0
+            },
+            "Name": "CheckType0",
+            "ctype": "CheckBoxObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "common/login/agreement.png",
+        "common/login/guest.png",
+        "common/login/tishi@2x.png",
+        "qhqp/1-login/ah_bg_login@2x.png",
+        "qhqp/1-login/btn_agree@2x.png",
+        "qhqp/1-login/btn_disagree@2x.png",
+        "qhqp/1-login/nyb_btn_wechat.png",
+        "qhqp/1-login/qh_img_logo@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

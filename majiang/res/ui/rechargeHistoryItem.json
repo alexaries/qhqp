@@ -1,0 +1,284 @@
+{
+  "ID": "296c7235-a03e-4762-8e22-be42974f0a2e",
+  "Version": "2.3.4",
+  "Name": "rechargeHistoryItem",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 241,
+        "Children": [
+          {
+            "FontSize": 24,
+            "LabelText": "2017-12-31 24:00:12 ",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 165,
+              "G": 42,
+              "B": 42
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.3288,
+              "Y": 0.48
+            },
+            "RightMargin": 490.0,
+            "TopMargin": 26.0,
+            "Tag": 243,
+            "ActionTag": -200763337,
+            "Size": {
+              "X": 240.0,
+              "Y": 24.0
+            },
+            "Name": "timeTxt",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "1234567",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 237.1091,
+              "Y": 0.0026
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 165,
+              "G": 42,
+              "B": 42
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3248,
+              "Y": 0.0001
+            },
+            "PreSize": {
+              "X": 0.1151,
+              "Y": 0.48
+            },
+            "LeftMargin": 237.1091,
+            "RightMargin": 408.8909,
+            "TopMargin": 25.9974,
+            "BottomMargin": 0.0026,
+            "Tag": 244,
+            "ActionTag": 261687589,
+            "Size": {
+              "X": 84.0,
+              "Y": 24.0
+            },
+            "Name": "idTxt",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "一二三四五六七八",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 330.3206,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 165,
+              "G": 42,
+              "B": 42
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4525,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.263,
+              "Y": 0.48
+            },
+            "LeftMargin": 330.3206,
+            "RightMargin": 207.6793,
+            "TopMargin": 26.0,
+            "BottomMargin": 0.0,
+            "Tag": 245,
+            "ActionTag": 210155349,
+            "Size": {
+              "X": 192.0,
+              "Y": 24.0
+            },
+            "Name": "nameTxt",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "12345",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 573.5333,
+              "Y": 0.0012
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 165,
+              "G": 42,
+              "B": 42
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7857,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0822,
+              "Y": 0.48
+            },
+            "LeftMargin": 543.5333,
+            "RightMargin": 126.4667,
+            "TopMargin": 25.9988,
+            "BottomMargin": 0.0012,
+            "Tag": 246,
+            "ActionTag": -491660874,
+            "Size": {
+              "X": 60.0,
+              "Y": 24.0
+            },
+            "Name": "cardNumTxt",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "未到账哦",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 630.3242,
+              "Y": 0.0024
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 165,
+              "G": 42,
+              "B": 42
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8635,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.1315,
+              "Y": 0.48
+            },
+            "LeftMargin": 630.3242,
+            "RightMargin": 3.6758,
+            "TopMargin": 25.9976,
+            "BottomMargin": 0.0024,
+            "Tag": 383,
+            "ActionTag": -630469413,
+            "Size": {
+              "X": 96.0,
+              "Y": 24.0
+            },
+            "Name": "stateTxt",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 730.0,
+          "Y": 50.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

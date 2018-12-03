@@ -1,0 +1,2482 @@
+{
+  "ID": "3feed8a4-d3d7-4dad-9747-5b55398d6566",
+  "Version": "2.3.4",
+  "Name": "hlgcReplayWindow",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 204,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "kwxResource/yypk_background.jpg",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 374,
+            "Scale9OriginY": 211,
+            "Scale9Width": 388,
+            "Scale9Height": 218,
+            "TouchEnable": true,
+            "StretchWidthEnable": true,
+            "StretchHeightEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1.4377,
+              "Y": 0.9208
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0013,
+              "Y": 0.0014
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 1.4377,
+            "RightMargin": -1.4377,
+            "TopMargin": -0.9208,
+            "BottomMargin": 0.9208,
+            "Tag": 208,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "common/zhanji/btn_fanhui@2x1.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 42,
+                "Scale9Height": 50,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 57.0003,
+                  "Y": 584.9993
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0502,
+                  "Y": 0.9141
+                },
+                "PreSize": {
+                  "X": 0.0634,
+                  "Y": 0.1125
+                },
+                "LeftMargin": 21.0003,
+                "RightMargin": 1042.9998,
+                "TopMargin": 19.0007,
+                "BottomMargin": 548.9993,
+                "Tag": 124,
+                "ActionTag": 1362755679,
+                "Size": {
+                  "X": 72.0,
+                  "Y": 72.0
+                },
+                "Name": "close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "common/zhanji/bg_huifang@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 191,
+                "Scale9OriginY": 36,
+                "Scale9Width": 198,
+                "Scale9Height": 39,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 300.992
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4703
+                },
+                "PreSize": {
+                  "X": 0.5106,
+                  "Y": 0.1734
+                },
+                "LeftMargin": 278.0,
+                "RightMargin": 278.0,
+                "TopMargin": 283.508,
+                "BottomMargin": 245.492,
+                "Tag": 272,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "common/zhanji/btn_huifang_xiayiju.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 30,
+                    "Scale9Height": 22,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 479.9931,
+                      "Y": 56.8434
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8276,
+                      "Y": 0.5121
+                    },
+                    "PreSize": {
+                      "X": 0.1034,
+                      "Y": 0.3964
+                    },
+                    "LeftMargin": 449.9931,
+                    "RightMargin": 70.0069,
+                    "TopMargin": 32.1566,
+                    "BottomMargin": 34.8434,
+                    "Tag": 273,
+                    "ActionTag": -1231927220,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 44.0
+                    },
+                    "Name": "btn_xiaJu",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "common/zhanji/btn_shangyiju@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 30,
+                    "Scale9Height": 22,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 89.7879,
+                      "Y": 56.8434
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1548,
+                      "Y": 0.5121
+                    },
+                    "PreSize": {
+                      "X": 0.1034,
+                      "Y": 0.3964
+                    },
+                    "LeftMargin": 59.7879,
+                    "RightMargin": 460.2121,
+                    "TopMargin": 32.1566,
+                    "BottomMargin": 34.8434,
+                    "Tag": 274,
+                    "ActionTag": 1882055042,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 44.0
+                    },
+                    "Name": "btn_shangJu",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "common/zhanji/btn_kuaijin@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 26,
+                    "Scale9Height": 22,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 377.6354,
+                      "Y": 56.8434
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6511,
+                      "Y": 0.5121
+                    },
+                    "PreSize": {
+                      "X": 0.0966,
+                      "Y": 0.3964
+                    },
+                    "LeftMargin": 349.6354,
+                    "RightMargin": 174.3646,
+                    "TopMargin": 32.1566,
+                    "BottomMargin": 34.8434,
+                    "Tag": 275,
+                    "ActionTag": 165018594,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 44.0
+                    },
+                    "Name": "btn_qianJin",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "common/zhanji/btn_houtui@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 26,
+                    "Scale9Height": 22,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 192.099,
+                      "Y": 56.8434
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3312,
+                      "Y": 0.5121
+                    },
+                    "PreSize": {
+                      "X": 0.0966,
+                      "Y": 0.3964
+                    },
+                    "LeftMargin": 164.099,
+                    "RightMargin": 359.901,
+                    "TopMargin": 32.1566,
+                    "BottomMargin": 34.8434,
+                    "Tag": 276,
+                    "ActionTag": -1173449684,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 44.0
+                    },
+                    "Name": "btn_houTui",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "common/zhanji/btn_bofang@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 13,
+                    "Scale9Height": 35,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 290.0,
+                      "Y": 55.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0741,
+                      "Y": 0.5135
+                    },
+                    "LeftMargin": 268.5,
+                    "RightMargin": 268.5,
+                    "TopMargin": 27.0,
+                    "BottomMargin": 27.0,
+                    "Tag": 15,
+                    "ActionTag": -1847043469,
+                    "Size": {
+                      "X": 43.0,
+                      "Y": 57.0
+                    },
+                    "Name": "playbtn",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 36,
+                    "LabelText": "x1",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 106.9171,
+                      "Y": 35.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1843,
+                      "Y": 0.3153
+                    },
+                    "PreSize": {
+                      "X": 0.0621,
+                      "Y": 0.3243
+                    },
+                    "LeftMargin": 88.9171,
+                    "RightMargin": 455.0829,
+                    "TopMargin": 58.0,
+                    "BottomMargin": 17.0,
+                    "Tag": 16,
+                    "ActionTag": 919129983,
+                    "Size": {
+                      "X": 36.0,
+                      "Y": 36.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "speed",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 514201358,
+                "Size": {
+                  "X": 580.0,
+                  "Y": 111.0
+                },
+                "Name": "Image_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": -15,
+                "Scale9OriginY": -8,
+                "Scale9Width": 30,
+                "Scale9Height": 16,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 320.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0414,
+                  "Y": 0.0891
+                },
+                "LeftMargin": 544.5,
+                "RightMargin": 544.5,
+                "TopMargin": 291.5,
+                "BottomMargin": 291.5,
+                "Tag": 17,
+                "ActionTag": 905985433,
+                "Size": {
+                  "X": 47.0,
+                  "Y": 57.0
+                },
+                "VisibleForFrame": false,
+                "Name": "speedbtn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "common/zhanji/zjhf.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 21,
+                "Scale9Width": 209,
+                "Scale9Height": 24,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 599.9987
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.9375
+                },
+                "PreSize": {
+                  "X": 0.2104,
+                  "Y": 0.1031
+                },
+                "LeftMargin": 448.5,
+                "RightMargin": 448.5,
+                "TopMargin": 7.0013,
+                "BottomMargin": 566.9987,
+                "Tag": 317,
+                "ActionTag": 286900288,
+                "Size": {
+                  "X": 239.0,
+                  "Y": 66.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "战绩回放码:1937120233000000000",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 929.0308,
+                  "Y": 586.0986
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 216,
+                  "G": 206,
+                  "B": 154
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8178,
+                  "Y": 0.9158
+                },
+                "PreSize": {
+                  "X": 0.3389,
+                  "Y": 0.0391
+                },
+                "LeftMargin": 736.5308,
+                "RightMargin": 14.4692,
+                "TopMargin": 41.4014,
+                "BottomMargin": 573.5986,
+                "Tag": 318,
+                "ActionTag": 1953211147,
+                "Size": {
+                  "X": 385.0,
+                  "Y": 25.0
+                },
+                "Name": "record_id",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 204.3261,
+                  "Y": 597.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 216,
+                  "G": 206,
+                  "B": 154
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1799,
+                  "Y": 0.9328
+                },
+                "PreSize": {
+                  "X": 0.1761,
+                  "Y": 0.0437
+                },
+                "LeftMargin": 104.3261,
+                "RightMargin": 831.6739,
+                "TopMargin": 29.0,
+                "BottomMargin": 583.0,
+                "Tag": 322,
+                "ActionTag": 981915714,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 28.0
+                },
+                "Name": "jushu",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "bg_p0_hand_f.png",
+                  "Plist": "newMah/mah_Bg.plist"
+                },
+                "Scale9OriginX": 23,
+                "Scale9OriginY": 34,
+                "Scale9Width": 25,
+                "Scale9Height": 36,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 432.326,
+                  "Y": 602.2574
+                },
+                "Scale": {
+                  "ScaleX": 0.5985,
+                  "ScaleY": 0.5985
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3806,
+                  "Y": 0.941
+                },
+                "PreSize": {
+                  "X": 0.0625,
+                  "Y": 0.1625
+                },
+                "LeftMargin": 396.826,
+                "RightMargin": 668.174,
+                "TopMargin": -14.2574,
+                "BottomMargin": 550.2574,
+                "Tag": 59,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "card_1.png",
+                      "Plist": "newMah/mah_Text.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 35.9689,
+                      "Y": 48.5267
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5066,
+                      "Y": 0.4666
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.8654
+                    },
+                    "LeftMargin": 0.4689,
+                    "RightMargin": -0.4689,
+                    "TopMargin": 10.4733,
+                    "BottomMargin": 3.5267,
+                    "Tag": 60,
+                    "ActionTag": 1022342461,
+                    "Size": {
+                      "X": 71.0,
+                      "Y": 90.0
+                    },
+                    "Name": "caishen",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 629513970,
+                "Size": {
+                  "X": 71.0,
+                  "Y": 104.0
+                },
+                "VisibleForFrame": false,
+                "Name": "Image_3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 404.088,
+                  "Y": 649.5668
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3557,
+                  "Y": 1.0149
+                },
+                "PreSize": {
+                  "X": 0.2641,
+                  "Y": 0.1563
+                },
+                "LeftMargin": 254.088,
+                "RightMargin": 581.912,
+                "TopMargin": -59.5668,
+                "BottomMargin": 599.5668,
+                "Tag": 1866,
+                "ActionTag": -219764043,
+                "Size": {
+                  "X": 300.0,
+                  "Y": 100.0
+                },
+                "Name": "cardCommonNode",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -1166250558,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "BG",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "common/hall/head2@2x.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 65.0,
+              "Y": 60.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0572,
+              "Y": 0.0938
+            },
+            "PreSize": {
+              "X": 0.0616,
+              "Y": 0.1094
+            },
+            "LeftMargin": 30.0,
+            "RightMargin": 1036.0,
+            "TopMargin": 545.0,
+            "BottomMargin": 25.0,
+            "Tag": 115,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 22,
+                "LabelText": "绿葡萄（收王沟圈）",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -8.0794,
+                  "Y": 107.7754
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.1154,
+                  "Y": 1.5396
+                },
+                "PreSize": {
+                  "X": 1.5714,
+                  "Y": 0.8571
+                },
+                "LeftMargin": -8.0794,
+                "RightMargin": -31.9206,
+                "TopMargin": -67.7754,
+                "BottomMargin": 77.7754,
+                "Tag": 120,
+                "ActionTag": 1412231330,
+                "Size": {
+                  "X": 110.0,
+                  "Y": 60.0
+                },
+                "Name": "username",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "1000",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 82.6877,
+                  "Y": 43.2477
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.1813,
+                  "Y": 0.6178
+                },
+                "PreSize": {
+                  "X": 1.4286,
+                  "Y": 0.4571
+                },
+                "LeftMargin": 82.6877,
+                "RightMargin": -112.6877,
+                "TopMargin": 10.7523,
+                "BottomMargin": 27.2477,
+                "Tag": 121,
+                "ActionTag": 1508534888,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 32.0
+                },
+                "Name": "userscore",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "跑 x2",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 102.3371,
+                  "Y": 16.1832
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.462,
+                  "Y": 0.2312
+                },
+                "PreSize": {
+                  "X": 0.7857,
+                  "Y": 0.3143
+                },
+                "LeftMargin": 74.8371,
+                "RightMargin": -59.8371,
+                "TopMargin": 42.8168,
+                "BottomMargin": 5.1832,
+                "Tag": 65,
+                "ActionTag": 405037198,
+                "Size": {
+                  "X": 55.0,
+                  "Y": 22.0
+                },
+                "Name": "Text_pao",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 2116451992,
+            "Size": {
+              "X": 70.0,
+              "Y": 70.0
+            },
+            "Name": "userhead0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "common/hall/head2@2x.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1073.4929,
+              "Y": 141.2277
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.945,
+              "Y": 0.2207
+            },
+            "PreSize": {
+              "X": 0.0616,
+              "Y": 0.1094
+            },
+            "LeftMargin": 1038.4929,
+            "RightMargin": 27.5071,
+            "TopMargin": 463.7723,
+            "BottomMargin": 106.2277,
+            "Tag": 116,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 22,
+                "LabelText": "绿葡萄（收王沟圈）",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -16.5038,
+                  "Y": -23.9153
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.2358,
+                  "Y": -0.3416
+                },
+                "PreSize": {
+                  "X": 1.5714,
+                  "Y": 0.8571
+                },
+                "LeftMargin": -16.5038,
+                "RightMargin": -23.4962,
+                "TopMargin": 63.9153,
+                "BottomMargin": -53.9153,
+                "Tag": 122,
+                "ActionTag": -1284794595,
+                "Size": {
+                  "X": 110.0,
+                  "Y": 60.0
+                },
+                "Name": "username",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "1000",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1.8609,
+                  "Y": -54.3054
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0266,
+                  "Y": -0.7758
+                },
+                "PreSize": {
+                  "X": 1.4286,
+                  "Y": 0.4571
+                },
+                "LeftMargin": 1.8609,
+                "RightMargin": -31.8609,
+                "TopMargin": 108.3054,
+                "BottomMargin": -70.3054,
+                "Tag": 123,
+                "ActionTag": 2068251341,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 32.0
+                },
+                "Name": "userscore",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "跑 x2",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 27.9265,
+                  "Y": -80.1601
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3989,
+                  "Y": -1.1451
+                },
+                "PreSize": {
+                  "X": 0.7857,
+                  "Y": 0.3143
+                },
+                "LeftMargin": 0.4265,
+                "RightMargin": 14.5735,
+                "TopMargin": 139.1601,
+                "BottomMargin": -91.1601,
+                "Tag": 64,
+                "ActionTag": -547244774,
+                "Size": {
+                  "X": 55.0,
+                  "Y": 22.0
+                },
+                "Name": "Text_pao",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 122395158,
+            "Size": {
+              "X": 70.0,
+              "Y": 70.0
+            },
+            "Name": "userhead1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "common/hall/head2@2x.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1067.8304,
+              "Y": 521.8608
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.94,
+              "Y": 0.8154
+            },
+            "PreSize": {
+              "X": 0.0616,
+              "Y": 0.1094
+            },
+            "LeftMargin": 1032.8304,
+            "RightMargin": 33.1696,
+            "TopMargin": 83.1392,
+            "BottomMargin": 486.8608,
+            "Tag": 114,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 22,
+                "LabelText": "绿葡萄（收王沟圈）",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -13.2098,
+                  "Y": -31.6302
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.1887,
+                  "Y": -0.4519
+                },
+                "PreSize": {
+                  "X": 1.5714,
+                  "Y": 0.8571
+                },
+                "LeftMargin": -13.2098,
+                "RightMargin": -26.7902,
+                "TopMargin": 71.6302,
+                "BottomMargin": -61.6302,
+                "Tag": 118,
+                "ActionTag": 1081966728,
+                "Size": {
+                  "X": 110.0,
+                  "Y": 60.0
+                },
+                "Name": "username",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "1000",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 4.3228,
+                  "Y": -70.6605
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0618,
+                  "Y": -1.0094
+                },
+                "PreSize": {
+                  "X": 1.4286,
+                  "Y": 0.4571
+                },
+                "LeftMargin": 4.3228,
+                "RightMargin": -34.3228,
+                "TopMargin": 124.6605,
+                "BottomMargin": -86.6605,
+                "Tag": 119,
+                "ActionTag": 854561898,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 32.0
+                },
+                "Name": "userscore",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "跑 x2",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 27.9753,
+                  "Y": -96.7823
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3996,
+                  "Y": -1.3826
+                },
+                "PreSize": {
+                  "X": 0.7857,
+                  "Y": 0.3143
+                },
+                "LeftMargin": 0.4753,
+                "RightMargin": 14.5247,
+                "TopMargin": 155.7823,
+                "BottomMargin": -107.7823,
+                "Tag": 63,
+                "ActionTag": 2109158426,
+                "Size": {
+                  "X": 55.0,
+                  "Y": 22.0
+                },
+                "Name": "Text_pao",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1036012189,
+            "Size": {
+              "X": 70.0,
+              "Y": 70.0
+            },
+            "Name": "userhead2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "common/hall/head2@2x.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 69.4872,
+              "Y": 494.4353
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0612,
+              "Y": 0.7726
+            },
+            "PreSize": {
+              "X": 0.0616,
+              "Y": 0.1094
+            },
+            "LeftMargin": 34.4872,
+            "RightMargin": 1031.5128,
+            "TopMargin": 110.5647,
+            "BottomMargin": 459.4353,
+            "Tag": 806,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 22,
+                "LabelText": "绿葡萄（收王沟圈）",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -17.0403,
+                  "Y": -30.9952
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.2434,
+                  "Y": -0.4428
+                },
+                "PreSize": {
+                  "X": 1.5714,
+                  "Y": 0.8571
+                },
+                "LeftMargin": -17.0403,
+                "RightMargin": -22.9597,
+                "TopMargin": 70.9952,
+                "BottomMargin": -60.9952,
+                "Tag": 807,
+                "ActionTag": 840770944,
+                "Size": {
+                  "X": 110.0,
+                  "Y": 60.0
+                },
+                "Name": "username",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "跑 x2",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 29.0035,
+                  "Y": -88.3005
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4143,
+                  "Y": -1.2614
+                },
+                "PreSize": {
+                  "X": 0.7857,
+                  "Y": 0.3143
+                },
+                "LeftMargin": 1.5035,
+                "RightMargin": 13.4965,
+                "TopMargin": 147.3005,
+                "BottomMargin": -99.3005,
+                "Tag": 62,
+                "ActionTag": -2093596483,
+                "Size": {
+                  "X": 55.0,
+                  "Y": 22.0
+                },
+                "Name": "Text_pao",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "1000",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 7.041,
+                  "Y": -62.18
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1006,
+                  "Y": -0.8883
+                },
+                "PreSize": {
+                  "X": 1.4286,
+                  "Y": 0.4571
+                },
+                "LeftMargin": 7.041,
+                "RightMargin": -37.041,
+                "TopMargin": 116.18,
+                "BottomMargin": -78.18,
+                "Tag": 808,
+                "ActionTag": -1983542289,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 32.0
+                },
+                "Name": "userscore",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1356360818,
+            "Size": {
+              "X": 70.0,
+              "Y": 70.0
+            },
+            "Name": "userhead3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "common/hall/head1@2x.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 65.7995,
+              "Y": 59.9627
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0579,
+              "Y": 0.0937
+            },
+            "PreSize": {
+              "X": 0.0634,
+              "Y": 0.1156
+            },
+            "LeftMargin": 29.7995,
+            "RightMargin": 1034.2004,
+            "TopMargin": 543.0373,
+            "BottomMargin": 22.9627,
+            "Tag": 259,
+            "ActionTag": -1739250238,
+            "Size": {
+              "X": 72.0,
+              "Y": 74.0
+            },
+            "Name": "head0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hlgc/img_tong@2x.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 98.244,
+              "Y": 93.5825
+            },
+            "Scale": {
+              "ScaleX": 0.2,
+              "ScaleY": 0.2
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0865,
+              "Y": 0.1462
+            },
+            "PreSize": {
+              "X": 0.1224,
+              "Y": 0.2141
+            },
+            "LeftMargin": 28.744,
+            "RightMargin": 968.256,
+            "TopMargin": 477.9175,
+            "BottomMargin": 25.0825,
+            "Tag": 267,
+            "ActionTag": 162641600,
+            "Size": {
+              "X": 139.0,
+              "Y": 137.0
+            },
+            "Name": "queLogo0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "common/hall/head1@2x.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1073.4125,
+              "Y": 142.2178
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9449,
+              "Y": 0.2222
+            },
+            "PreSize": {
+              "X": 0.0634,
+              "Y": 0.1156
+            },
+            "LeftMargin": 1037.4125,
+            "RightMargin": 26.5875,
+            "TopMargin": 460.7822,
+            "BottomMargin": 105.2178,
+            "Tag": 260,
+            "ActionTag": 1209588882,
+            "Size": {
+              "X": 72.0,
+              "Y": 74.0
+            },
+            "Name": "head1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hlgc/img_tong@2x.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1102.9911,
+              "Y": 171.7053
+            },
+            "Scale": {
+              "ScaleX": 0.2,
+              "ScaleY": 0.2
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9709,
+              "Y": 0.2683
+            },
+            "PreSize": {
+              "X": 0.1224,
+              "Y": 0.2141
+            },
+            "LeftMargin": 1033.4911,
+            "RightMargin": -36.4911,
+            "TopMargin": 399.7947,
+            "BottomMargin": 103.2053,
+            "Tag": 268,
+            "ActionTag": 959270431,
+            "Size": {
+              "X": 139.0,
+              "Y": 137.0
+            },
+            "Name": "queLogo1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "common/hall/head1@2x.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1067.9301,
+              "Y": 522.1898
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9401,
+              "Y": 0.8159
+            },
+            "PreSize": {
+              "X": 0.0634,
+              "Y": 0.1156
+            },
+            "LeftMargin": 1031.9301,
+            "RightMargin": 32.0699,
+            "TopMargin": 80.8102,
+            "BottomMargin": 485.1898,
+            "Tag": 261,
+            "ActionTag": -70069346,
+            "Size": {
+              "X": 72.0,
+              "Y": 74.0
+            },
+            "Name": "head2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hlgc/img_tong@2x.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1099.0485,
+              "Y": 554.9171
+            },
+            "Scale": {
+              "ScaleX": 0.2,
+              "ScaleY": 0.2
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9675,
+              "Y": 0.8671
+            },
+            "PreSize": {
+              "X": 0.1224,
+              "Y": 0.2141
+            },
+            "LeftMargin": 1029.5485,
+            "RightMargin": -32.5485,
+            "TopMargin": 16.5829,
+            "BottomMargin": 486.4171,
+            "Tag": 269,
+            "ActionTag": -165677736,
+            "Size": {
+              "X": 139.0,
+              "Y": 137.0
+            },
+            "Name": "queLogo2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "common/hall/head1@2x.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 69.0234,
+              "Y": 495.405
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0608,
+              "Y": 0.7741
+            },
+            "PreSize": {
+              "X": 0.0634,
+              "Y": 0.1156
+            },
+            "LeftMargin": 33.0234,
+            "RightMargin": 1030.9766,
+            "TopMargin": 107.595,
+            "BottomMargin": 458.405,
+            "Tag": 262,
+            "ActionTag": 711372778,
+            "Size": {
+              "X": 72.0,
+              "Y": 74.0
+            },
+            "Name": "head3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hlgc/img_tong@2x.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 99.5324,
+              "Y": 527.5241
+            },
+            "Scale": {
+              "ScaleX": 0.2,
+              "ScaleY": 0.2
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0876,
+              "Y": 0.8243
+            },
+            "PreSize": {
+              "X": 0.1224,
+              "Y": 0.2141
+            },
+            "LeftMargin": 30.0324,
+            "RightMargin": 966.9676,
+            "TopMargin": 43.9759,
+            "BottomMargin": 459.0241,
+            "Tag": 270,
+            "ActionTag": -641861153,
+            "Size": {
+              "X": 139.0,
+              "Y": 137.0
+            },
+            "Name": "queLogo3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hlgc/Z_gang.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 179.8172,
+              "Y": 123.083
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1583,
+              "Y": 0.1923
+            },
+            "PreSize": {
+              "X": 0.0739,
+              "Y": 0.1266
+            },
+            "LeftMargin": 137.8172,
+            "RightMargin": 914.1828,
+            "TopMargin": 476.417,
+            "BottomMargin": 82.583,
+            "Tag": 263,
+            "ActionTag": 1427224212,
+            "Size": {
+              "X": 84.0,
+              "Y": 81.0
+            },
+            "VisibleForFrame": false,
+            "Name": "operateSp0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hlgc/Z_gang.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 969.6373,
+              "Y": 172.8451
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8536,
+              "Y": 0.2701
+            },
+            "PreSize": {
+              "X": 0.0739,
+              "Y": 0.1266
+            },
+            "LeftMargin": 927.6373,
+            "RightMargin": 124.3627,
+            "TopMargin": 426.6549,
+            "BottomMargin": 132.3451,
+            "Tag": 264,
+            "ActionTag": -1251640319,
+            "Size": {
+              "X": 84.0,
+              "Y": 81.0
+            },
+            "VisibleForFrame": false,
+            "Name": "operateSp1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hlgc/Z_gang.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 959.2333,
+              "Y": 505.3873
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8444,
+              "Y": 0.7897
+            },
+            "PreSize": {
+              "X": 0.0739,
+              "Y": 0.1266
+            },
+            "LeftMargin": 917.2333,
+            "RightMargin": 134.7667,
+            "TopMargin": 94.1127,
+            "BottomMargin": 464.8873,
+            "Tag": 265,
+            "ActionTag": 485711439,
+            "Size": {
+              "X": 84.0,
+              "Y": 81.0
+            },
+            "VisibleForFrame": false,
+            "Name": "operateSp2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hlgc/Z_gang.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 179.2063,
+              "Y": 523.0587
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1578,
+              "Y": 0.8173
+            },
+            "PreSize": {
+              "X": 0.0739,
+              "Y": 0.1266
+            },
+            "LeftMargin": 137.2063,
+            "RightMargin": 914.7937,
+            "TopMargin": 76.4413,
+            "BottomMargin": 482.5587,
+            "Tag": 266,
+            "ActionTag": 850388228,
+            "Size": {
+              "X": 84.0,
+              "Y": 81.0
+            },
+            "VisibleForFrame": false,
+            "Name": "operateSp3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hlgc/Z_hu.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 150.0
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.2344
+            },
+            "PreSize": {
+              "X": 0.0748,
+              "Y": 0.1328
+            },
+            "LeftMargin": 525.5,
+            "RightMargin": 525.5,
+            "TopMargin": 447.5,
+            "BottomMargin": 107.5,
+            "Tag": 434,
+            "ActionTag": 903139710,
+            "Size": {
+              "X": 85.0,
+              "Y": 85.0
+            },
+            "Name": "hulogo0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hlgc/Z_hu.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 920.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8099,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0748,
+              "Y": 0.1328
+            },
+            "LeftMargin": 877.5,
+            "RightMargin": 173.5,
+            "TopMargin": 277.5,
+            "BottomMargin": 277.5,
+            "Tag": 433,
+            "ActionTag": 1607300448,
+            "Size": {
+              "X": 85.0,
+              "Y": 85.0
+            },
+            "Name": "hulogo1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hlgc/Z_hu.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 510.0
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.7969
+            },
+            "PreSize": {
+              "X": 0.0748,
+              "Y": 0.1328
+            },
+            "LeftMargin": 525.5,
+            "RightMargin": 525.5,
+            "TopMargin": 87.5,
+            "BottomMargin": 467.5,
+            "Tag": 432,
+            "ActionTag": -1218682989,
+            "Size": {
+              "X": 85.0,
+              "Y": 85.0
+            },
+            "Name": "hulogo2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hlgc/Z_hu.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 180.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1585,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0748,
+              "Y": 0.1328
+            },
+            "LeftMargin": 137.5,
+            "RightMargin": 913.5,
+            "TopMargin": 277.5,
+            "BottomMargin": 277.5,
+            "Tag": 431,
+            "ActionTag": 1402407778,
+            "Size": {
+              "X": 85.0,
+              "Y": 85.0
+            },
+            "Name": "hulogo3",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common/hall/head1@2x.png",
+        "common/hall/head2@2x.png",
+        "common/zhanji/bg_huifang@2x.png",
+        "common/zhanji/btn_bofang@2x.png",
+        "common/zhanji/btn_fanhui@2x1.png",
+        "common/zhanji/btn_houtui@2x.png",
+        "common/zhanji/btn_huifang_xiayiju.png",
+        "common/zhanji/btn_kuaijin@2x.png",
+        "common/zhanji/btn_shangyiju@2x.png",
+        "common/zhanji/zjhf.png",
+        "hlgc/img_tong@2x.png",
+        "hlgc/Z_gang.png",
+        "hlgc/Z_hu.png",
+        "kwxResource/yypk_background.jpg",
+        "newMah/mah_Bg.plist",
+        "newMah/mah_Bg.png",
+        "newMah/mah_Text.plist",
+        "newMah/mah_Text.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<script>
+    var arr = [6,7,8,9,9,22,22,22,23,24,26,26,26,21];//保存
+    //var arr = [2,2,4,4];
+    var mySaveArr = arr.slice(0);
+    var PAI = [];
+
+    var changeData = function(_arr){
+        var p = [];
+        PAI = [];
+        for(var i = 0;i < _arr.length;i++){
+            if(!PAI[_arr[i]]){
+                PAI[_arr[i]] = 0;
+            }
+            PAI[_arr[i]]++;
+        }
+        //console.log(PAI);
+    }
+
+    var Jiang = 0;
+    var checkIsHu = function(){
+        if(!Remain(PAI)) return 1;
+        //----七对------
+        for(var i = 1;i < 30;i++){
+
+        }
+
+
+        //3张组合(大对)----一般的牌型
+        for(var i = 1; i < 30;i++){
+            if(PAI[i] && PAI[i] != 0){
+                if(PAI[i] >= 3){
+                    PAI[i] -= 3;
+                    if(checkIsHu()){
+                        return 1;
+                    }
+                    PAI[i] += 3;
+                }
+
+                if(!Jiang && PAI[i] >= 2){
+                    Jiang = 1;
+                    PAI[i] -= 2;
+                    if(checkIsHu()){
+                        return 1;
+                    }
+                    PAI[i] += 2;
+                    Jiang = 0;
+                }
+
+                //顺牌组合
+                if(i %10 != 8 && i%10 != 9 && PAI[i+1] && PAI[i+2]){
+                    PAI[i]--;
+                    PAI[i+1]--;
+                    PAI[i+2]--;
+                    //   各牌数减1
+                    if(checkIsHu()){//   如果剩余的牌组合成功，和牌
+                        return 1;
+                    }
+                    PAI[i]++;
+                    PAI[i+1]++;
+                    PAI[i+2]++;                                     //   恢复各牌数
+                }
+            }
+        }
+        return 0;
+    }
+
+    var Remain = function(PAI){
+        var sum = 0;
+        for(var i = 1;i < 30;i++){
+            if(PAI[i]){
+                sum += PAI[i];
+            }
+        }
+        return sum;
+    }
+
+    var makeSureNum = function(){
+        var tmpArr = [];
+        for(var i = 0;i < arr.length;i++){
+            tmpArr.push(arr[i]);
+            tmpArr.push(arr[i]-1);
+            tmpArr.push(arr[i]+1);
+        }
+
+        var resultArr = [];
+        for(var i in tmpArr){
+            if(resultArr.indexOf(tmpArr[i]) == -1){
+                if(tmpArr[i] > 0 && tmpArr[i] < 30 && tmpArr[i] % 10 != 0){
+                    resultArr.push(tmpArr[i]);
+                }
+            }
+        }
+        resultArr.sort(function(a,b){
+            return a-b;
+        })
+        console.log(resultArr);
+        return resultArr;
+    }
+
+    //makeSureNum();
+    //自摸的时候听牌....保存listenObj = {index:"位置","card":"将要胡什么牌","cardNum":"将要胡的牌的剩余张数"}
+    var checkListen = function(){
+        var replaceArr = makeSureNum();
+        for(var i = 0;i < arr.length;i++){
+            for(var j = 0;j < replaceArr.length;j++ ){
+                //var newArr = arr.splice(i,1,replaceArr[j]);
+                var newArr = mySaveArr.slice(0);
+                newArr[i] = replaceArr[j];
+                changeData(newArr);
+                Jiang = 0;
+                if(checkIsHu()){
+                    console.log("可以胡:"+i,"胡的牌:"+replaceArr[j]);
+                }
+            }
+        }
+    }
+
+    checkListen();
+
+
+</script>
+<body>
+
+</body>
+</html>

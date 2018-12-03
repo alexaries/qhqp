@@ -1,0 +1,257 @@
+{
+  "ID": "7b2fea13-c589-4040-9f38-73c49d189e6e",
+  "Version": "2.3.4",
+  "Name": "IOSPayWindow",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 39,
+        "Children": [
+          {
+            "ClipAble": true,
+            "BackColorAlpha": 101,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 40,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "gxDdz/4-buyCards/bg_guyCards.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 26,
+                "Scale9OriginY": 25,
+                "Scale9Width": 445,
+                "Scale9Height": 222,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 320.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.4375,
+                  "Y": 0.425
+                },
+                "LeftMargin": 319.5,
+                "RightMargin": 319.5,
+                "TopMargin": 184.0,
+                "BottomMargin": 184.0,
+                "Tag": 185,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "购买房卡请加微信：",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 151.6844,
+                      "Y": 139.5744
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.3052,
+                      "Y": 0.5131
+                    },
+                    "PreSize": {
+                      "X": 1.167,
+                      "Y": 0.1507
+                    },
+                    "LeftMargin": -138.3156,
+                    "RightMargin": 55.3156,
+                    "TopMargin": 111.9256,
+                    "BottomMargin": 119.0744,
+                    "Tag": 232,
+                    "ActionTag": -422838562,
+                    "Size": {
+                      "X": 580.0,
+                      "Y": 41.0
+                    },
+                    "Name": "wchat",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "Gxddz001",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 270.368,
+                      "Y": 138.0315
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.544,
+                      "Y": 0.5075
+                    },
+                    "PreSize": {
+                      "X": 0.8451,
+                      "Y": 0.1507
+                    },
+                    "LeftMargin": 270.368,
+                    "RightMargin": -193.368,
+                    "TopMargin": 113.4685,
+                    "BottomMargin": 117.5315,
+                    "Tag": 37,
+                    "ActionTag": 999638635,
+                    "Size": {
+                      "X": 420.0,
+                      "Y": 41.0
+                    },
+                    "Name": "phone",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 670000754,
+                "Size": {
+                  "X": 497.0,
+                  "Y": 272.0
+                },
+                "Name": "bg",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1089115051,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "FZHei-B01S.ttf",
+        "gxDdz/4-buyCards/bg_guyCards.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

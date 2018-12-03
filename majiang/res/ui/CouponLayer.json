@@ -1,0 +1,595 @@
+{
+  "ID": "950590d8-0b4a-400f-a6f2-b4acb8f0946a",
+  "Version": "2.3.4",
+  "Name": "CouponLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 960,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 127,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 565.559,
+              "Y": 318.2131
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4979,
+              "Y": 0.4972
+            },
+            "PreSize": {
+              "X": 0.1761,
+              "Y": 0.3125
+            },
+            "LeftMargin": 465.559,
+            "RightMargin": 470.441,
+            "TopMargin": 221.7869,
+            "BottomMargin": 218.2131,
+            "Tag": 961,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qhqp/4-create/qh_bg_create@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 284,
+                "Scale9OriginY": 181,
+                "Scale9Width": 295,
+                "Scale9Height": 189,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 105.2592,
+                  "Y": 96.8396
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5263,
+                  "Y": 0.4842
+                },
+                "PreSize": {
+                  "X": 4.315,
+                  "Y": 2.755
+                },
+                "LeftMargin": -326.2408,
+                "RightMargin": -336.7592,
+                "TopMargin": -172.3396,
+                "BottomMargin": -178.6604,
+                "Tag": 962,
+                "ActionTag": 1575939992,
+                "Size": {
+                  "X": 863.0,
+                  "Y": 551.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "coupon/qh_title_yh@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 11,
+                "Scale9Width": 238,
+                "Scale9Height": 44,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 96.8751,
+                  "Y": 344.7261
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4844,
+                  "Y": 1.7236
+                },
+                "PreSize": {
+                  "X": 1.52,
+                  "Y": 0.33
+                },
+                "LeftMargin": -55.1249,
+                "RightMargin": -48.8751,
+                "TopMargin": -177.7261,
+                "BottomMargin": 311.7261,
+                "Tag": 964,
+                "ActionTag": -679229943,
+                "Size": {
+                  "X": 304.0,
+                  "Y": 66.0
+                },
+                "Name": "Image_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "qhqp/4-create/qh_btn_close@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 46,
+                "Scale9Height": 60,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 522.3036,
+                  "Y": 325.8748
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.6115,
+                  "Y": 1.6294
+                },
+                "PreSize": {
+                  "X": 0.38,
+                  "Y": 0.41
+                },
+                "LeftMargin": 484.3036,
+                "RightMargin": -360.3036,
+                "TopMargin": -166.8748,
+                "BottomMargin": 284.8748,
+                "Tag": 963,
+                "ActionTag": 2084743705,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 82.0
+                },
+                "Name": "backBtn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "填写优惠码，即可获得4个钻石。\n商城充值还可享受会员优惠！",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 84.0625,
+                  "Y": 222.5025
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4203,
+                  "Y": 1.1125
+                },
+                "PreSize": {
+                  "X": 2.175,
+                  "Y": 0.3
+                },
+                "LeftMargin": -133.4375,
+                "RightMargin": -101.5625,
+                "TopMargin": -52.5025,
+                "BottomMargin": 192.5025,
+                "Tag": 965,
+                "ActionTag": 109451162,
+                "Size": {
+                  "X": 435.0,
+                  "Y": 60.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 28,
+                "LabelText": "（优惠码请咨询游戏推广员）",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 278.5998,
+                  "Y": 52.2907
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.393,
+                  "Y": 0.2615
+                },
+                "PreSize": {
+                  "X": 1.82,
+                  "Y": 0.14
+                },
+                "LeftMargin": 96.5998,
+                "RightMargin": -260.5998,
+                "TopMargin": 133.7093,
+                "BottomMargin": 38.2907,
+                "Tag": 968,
+                "ActionTag": 1132672408,
+                "Size": {
+                  "X": 364.0,
+                  "Y": 28.0
+                },
+                "Name": "Text_3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "coupon/img_input@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 93,
+                "Scale9OriginY": 19,
+                "Scale9Width": 98,
+                "Scale9Height": 22,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 122.591,
+                  "Y": 115.6099
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.613,
+                  "Y": 0.578
+                },
+                "PreSize": {
+                  "X": 1.42,
+                  "Y": 0.3
+                },
+                "LeftMargin": -19.409,
+                "RightMargin": -64.591,
+                "TopMargin": 54.3901,
+                "BottomMargin": 85.6099,
+                "Tag": 967,
+                "ActionTag": 113771848,
+                "Size": {
+                  "X": 284.0,
+                  "Y": 60.0
+                },
+                "Name": "Image_3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "优惠码：",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -79.086,
+                  "Y": 110.6147
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.3954,
+                  "Y": 0.5531
+                },
+                "PreSize": {
+                  "X": 0.6,
+                  "Y": 0.15
+                },
+                "LeftMargin": -139.086,
+                "RightMargin": 219.086,
+                "TopMargin": 74.3853,
+                "BottomMargin": 95.6147,
+                "Tag": 966,
+                "ActionTag": -499192694,
+                "Size": {
+                  "X": 120.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 142.9064,
+                  "Y": 106.9108
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7145,
+                  "Y": 0.5346
+                },
+                "PreSize": {
+                  "X": 1.5,
+                  "Y": 0.25
+                },
+                "LeftMargin": -7.0936,
+                "RightMargin": -92.9064,
+                "TopMargin": 68.0892,
+                "BottomMargin": 81.9108,
+                "Tag": 969,
+                "ActionTag": 795338553,
+                "Size": {
+                  "X": 300.0,
+                  "Y": 50.0
+                },
+                "Name": "TextField_1",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "common/btnAndText/btn_smallgreen@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 209,
+                "Scale9Height": 74,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 111.3945,
+                  "Y": -92.1033
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.557,
+                  "Y": -0.4605
+                },
+                "PreSize": {
+                  "X": 1.195,
+                  "Y": 0.48
+                },
+                "LeftMargin": -8.1055,
+                "RightMargin": -30.8945,
+                "TopMargin": 244.1033,
+                "BottomMargin": -140.1033,
+                "Tag": 850,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "common/btnAndText/gold_ok@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 25,
+                    "Scale9OriginY": 12,
+                    "Scale9Width": 28,
+                    "Scale9Height": 14,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 116.2637,
+                      "Y": 49.4732
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4865,
+                      "Y": 0.5153
+                    },
+                    "PreSize": {
+                      "X": 0.3264,
+                      "Y": 0.3958
+                    },
+                    "LeftMargin": 77.2637,
+                    "RightMargin": 83.7363,
+                    "TopMargin": 27.5268,
+                    "BottomMargin": 30.4732,
+                    "Tag": 419,
+                    "ActionTag": -1829230293,
+                    "Size": {
+                      "X": 78.0,
+                      "Y": 38.0
+                    },
+                    "Name": "Image_4",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 463846858,
+                "Size": {
+                  "X": 239.0,
+                  "Y": 96.0
+                },
+                "Name": "Button_ok",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 404186209,
+            "Size": {
+              "X": 200.0,
+              "Y": 200.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common/btnAndText/btn_smallgreen@2x.png",
+        "common/btnAndText/gold_ok@2x.png",
+        "coupon/img_input@2x.png",
+        "coupon/qh_title_yh@2x.png",
+        "qhqp/4-create/qh_bg_create@2x.png",
+        "qhqp/4-create/qh_btn_close@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

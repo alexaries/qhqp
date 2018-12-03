@@ -1,0 +1,773 @@
+{
+  "ID": "f4e92257-d113-452e-952a-0b037c89fecc",
+  "Version": "2.3.4",
+  "Name": "SettingWindow",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 141,
+        "Children": [
+          {
+            "ClipAble": true,
+            "BackColorAlpha": 101,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 361.224
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5017
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "TopMargin": -1.224,
+            "BottomMargin": 1.224,
+            "Tag": 171,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qhqp/7-share/qh_bg_share@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 26,
+                "Scale9OriginY": 25,
+                "Scale9Width": 557,
+                "Scale9Height": 348,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 679.6801,
+                  "Y": 354.744
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.531,
+                  "Y": 0.4927
+                },
+                "PreSize": {
+                  "X": 0.4758,
+                  "Y": 0.5528
+                },
+                "LeftMargin": 375.1801,
+                "RightMargin": 295.8199,
+                "TopMargin": 166.256,
+                "BottomMargin": 155.744,
+                "Tag": 172,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/4-create/qh_btn_close@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 46,
+                    "Scale9Height": 60,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 595.9085,
+                      "Y": 359.1665
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9785,
+                      "Y": 0.9024
+                    },
+                    "PreSize": {
+                      "X": 0.1248,
+                      "Y": 0.206
+                    },
+                    "LeftMargin": 557.9085,
+                    "RightMargin": -24.9085,
+                    "TopMargin": -2.1665,
+                    "BottomMargin": 318.1665,
+                    "Tag": 358,
+                    "ActionTag": -727048564,
+                    "Size": {
+                      "X": 76.0,
+                      "Y": 82.0
+                    },
+                    "Name": "exitLogin",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "BackGroundData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/8-set/bg_progressbar@2x.png",
+                      "Plist": ""
+                    },
+                    "ProgressBarData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/8-set/img_progressbar@2x.png",
+                      "Plist": ""
+                    },
+                    "BallNormalData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/8-set/settingSwitch01@2x.png",
+                      "Plist": ""
+                    },
+                    "BallPressedData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/8-set/settingSwitch01@2x.png",
+                      "Plist": ""
+                    },
+                    "BallDisabledData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/8-set/settingSwitch01@2x.png",
+                      "Plist": ""
+                    },
+                    "PercentInfo": 50,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 337.9976,
+                      "Y": 213.7549
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.555,
+                      "Y": 0.5371
+                    },
+                    "PreSize": {
+                      "X": 0.4105,
+                      "Y": 0.1206
+                    },
+                    "LeftMargin": 212.9976,
+                    "RightMargin": 146.0024,
+                    "TopMargin": 160.2451,
+                    "BottomMargin": 189.7549,
+                    "Tag": 369,
+                    "ActionTag": -114002811,
+                    "Size": {
+                      "X": 250.0,
+                      "Y": 48.0
+                    },
+                    "Name": "musicSlider",
+                    "ctype": "SliderObjectData"
+                  },
+                  {
+                    "BackGroundData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/8-set/bg_progressbar@2x.png",
+                      "Plist": ""
+                    },
+                    "ProgressBarData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/8-set/img_progressbar@2x.png",
+                      "Plist": ""
+                    },
+                    "BallNormalData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/8-set/settingSwitch01@2x.png",
+                      "Plist": ""
+                    },
+                    "BallPressedData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/8-set/settingSwitch01@2x.png",
+                      "Plist": ""
+                    },
+                    "BallDisabledData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/8-set/settingSwitch01@2x.png",
+                      "Plist": ""
+                    },
+                    "PercentInfo": 50,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 337.9976,
+                      "Y": 294.3023
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.555,
+                      "Y": 0.7395
+                    },
+                    "PreSize": {
+                      "X": 0.4105,
+                      "Y": 0.1206
+                    },
+                    "LeftMargin": 212.9976,
+                    "RightMargin": 146.0024,
+                    "TopMargin": 79.6977,
+                    "BottomMargin": 270.3023,
+                    "Tag": 370,
+                    "ActionTag": 1189454156,
+                    "Size": {
+                      "X": 250.0,
+                      "Y": 48.0
+                    },
+                    "Name": "effectSlider",
+                    "ctype": "SliderObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/8-set/qh_title_set@2x.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 305.6415,
+                      "Y": 368.7258
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5019,
+                      "Y": 0.9264
+                    },
+                    "PreSize": {
+                      "X": 0.1412,
+                      "Y": 0.0854
+                    },
+                    "LeftMargin": 262.6415,
+                    "RightMargin": 260.3585,
+                    "TopMargin": 12.2742,
+                    "BottomMargin": 351.7258,
+                    "Tag": 371,
+                    "ActionTag": 480933554,
+                    "Size": {
+                      "X": 86.0,
+                      "Y": 34.0
+                    },
+                    "Name": "Sprite_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/8-set/img_yinxiao@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 23,
+                    "Scale9OriginY": 10,
+                    "Scale9Width": 23,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 130.7375,
+                      "Y": 293.916
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2147,
+                      "Y": 0.7385
+                    },
+                    "PreSize": {
+                      "X": 0.1133,
+                      "Y": 0.0729
+                    },
+                    "LeftMargin": 96.2375,
+                    "RightMargin": 443.7625,
+                    "TopMargin": 89.584,
+                    "BottomMargin": 279.416,
+                    "Tag": 479,
+                    "ActionTag": 1810108093,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/8-set/img_yinyue@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 23,
+                    "Scale9OriginY": 10,
+                    "Scale9Width": 23,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 132.2862,
+                      "Y": 216.9913
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2172,
+                      "Y": 0.5452
+                    },
+                    "PreSize": {
+                      "X": 0.1133,
+                      "Y": 0.0729
+                    },
+                    "LeftMargin": 97.7862,
+                    "RightMargin": 442.2138,
+                    "TopMargin": 166.5087,
+                    "BottomMargin": 202.4913,
+                    "Tag": 480,
+                    "ActionTag": 1510791477,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Image_2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 36,
+                    "ButtonText": "",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "TextColor": {},
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/8-set/qh_btn_quit@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 4,
+                    "Scale9Width": 163,
+                    "Scale9Height": 63,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 310.4073,
+                      "Y": 63.7198
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5097,
+                      "Y": 0.1601
+                    },
+                    "PreSize": {
+                      "X": 0.3103,
+                      "Y": 0.1784
+                    },
+                    "LeftMargin": 215.9073,
+                    "RightMargin": 204.0927,
+                    "TopMargin": 298.7802,
+                    "BottomMargin": 28.2198,
+                    "Tag": 176,
+                    "ActionTag": -17992567,
+                    "Size": {
+                      "X": 189.0,
+                      "Y": 71.0
+                    },
+                    "Name": "change",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 25,
+                    "LabelText": "滑动",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 425.2543,
+                      "Y": 141.69
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6983,
+                      "Y": 0.356
+                    },
+                    "PreSize": {
+                      "X": 0.0821,
+                      "Y": 0.0628
+                    },
+                    "LeftMargin": 400.2543,
+                    "RightMargin": 158.7457,
+                    "TopMargin": 243.81,
+                    "BottomMargin": 129.19,
+                    "Tag": 324,
+                    "ActionTag": 727503900,
+                    "Size": {
+                      "X": 50.0,
+                      "Y": 25.0
+                    },
+                    "Name": "Text_30",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 25,
+                    "LabelText": "单机",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 291.6774,
+                      "Y": 141.69
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4789,
+                      "Y": 0.356
+                    },
+                    "PreSize": {
+                      "X": 0.0821,
+                      "Y": 0.0628
+                    },
+                    "LeftMargin": 266.6774,
+                    "RightMargin": 292.3226,
+                    "TopMargin": 243.81,
+                    "BottomMargin": 129.19,
+                    "Tag": 323,
+                    "ActionTag": -479560503,
+                    "Size": {
+                      "X": 50.0,
+                      "Y": 25.0
+                    },
+                    "Name": "Text_29",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/4-create/jxnn_btn_cb2@2x.png",
+                      "Plist": ""
+                    },
+                    "PressedBackFileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/4-create/jxnn_btn_cb2@2x.png",
+                      "Plist": ""
+                    },
+                    "DisableBackFileData": {
+                      "Type": "Default",
+                      "Path": "Default/CheckBox_Disable.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/4-create/jxnn_btn_cb1@2x.png",
+                      "Plist": ""
+                    },
+                    "NodeDisableFileData": {
+                      "Type": "Default",
+                      "Path": "Default/CheckBoxNode_Disable.png",
+                      "Plist": ""
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 373.4961,
+                      "Y": 142.72
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6133,
+                      "Y": 0.3586
+                    },
+                    "PreSize": {
+                      "X": 0.0558,
+                      "Y": 0.0854
+                    },
+                    "LeftMargin": 356.4961,
+                    "RightMargin": 218.5039,
+                    "TopMargin": 238.28,
+                    "BottomMargin": 125.72,
+                    "Tag": 322,
+                    "ActionTag": 2067406846,
+                    "Size": {
+                      "X": 34.0,
+                      "Y": 34.0
+                    },
+                    "Name": "CheckBox_21",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/4-create/jxnn_btn_cb2@2x.png",
+                      "Plist": ""
+                    },
+                    "PressedBackFileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/4-create/jxnn_btn_cb2@2x.png",
+                      "Plist": ""
+                    },
+                    "DisableBackFileData": {
+                      "Type": "Default",
+                      "Path": "Default/CheckBox_Disable.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Normal",
+                      "Path": "qhqp/4-create/jxnn_btn_cb1@2x.png",
+                      "Plist": ""
+                    },
+                    "NodeDisableFileData": {
+                      "Type": "Default",
+                      "Path": "Default/CheckBoxNode_Disable.png",
+                      "Plist": ""
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 238.5227,
+                      "Y": 142.72
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3917,
+                      "Y": 0.3586
+                    },
+                    "PreSize": {
+                      "X": 0.0558,
+                      "Y": 0.0854
+                    },
+                    "LeftMargin": 221.5227,
+                    "RightMargin": 353.4773,
+                    "TopMargin": 238.28,
+                    "BottomMargin": 125.72,
+                    "Tag": 321,
+                    "ActionTag": -1622664496,
+                    "Size": {
+                      "X": 34.0,
+                      "Y": 34.0
+                    },
+                    "Name": "CheckBox_20",
+                    "ctype": "CheckBoxObjectData"
+                  }
+                ],
+                "ActionTag": 975825058,
+                "Size": {
+                  "X": 609.0,
+                  "Y": 398.0
+                },
+                "Name": "bg",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 275182096,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/CheckBox_Disable.png",
+        "Default/CheckBoxNode_Disable.png",
+        "FZHei-B01S.ttf",
+        "qhqp/4-create/jxnn_btn_cb1@2x.png",
+        "qhqp/4-create/jxnn_btn_cb2@2x.png",
+        "qhqp/4-create/qh_btn_close@2x.png",
+        "qhqp/7-share/qh_bg_share@2x.png",
+        "qhqp/8-set/bg_progressbar@2x.png",
+        "qhqp/8-set/img_progressbar@2x.png",
+        "qhqp/8-set/img_yinxiao@2x.png",
+        "qhqp/8-set/img_yinyue@2x.png",
+        "qhqp/8-set/qh_btn_quit@2x.png",
+        "qhqp/8-set/qh_title_set@2x.png",
+        "qhqp/8-set/settingSwitch01@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

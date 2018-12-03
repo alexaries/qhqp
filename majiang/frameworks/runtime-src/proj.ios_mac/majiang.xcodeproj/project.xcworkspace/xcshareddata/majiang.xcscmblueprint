@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "c80123e6-f518-4dd6-b604-40daeb990196++9229",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "c80123e6-f518-4dd6-b604-40daeb990196++9229" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "c80123e6-f518-4dd6-b604-40daeb990196++9229" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A01D0FD6-F8CC-4F1E-ABDE-1F73115E2567",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "c80123e6-f518-4dd6-b604-40daeb990196++9229" : "majiang\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "majiang",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "frameworks\/runtime-src\/proj.ios_mac\/majiang.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/118.178.225.244",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "c80123e6-f518-4dd6-b604-40daeb990196++9229"
+    }
+  ]
+}

@@ -1,0 +1,2360 @@
+{
+  "ID": "ec48b229-152d-4083-be90-e31931a48e8c",
+  "Version": "2.3.4",
+  "Name": "DdzEndWindow",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 199,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 127,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ddz/bg_ddzjs.png",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 318,
+            "Scale9OriginY": 198,
+            "Scale9Width": 500,
+            "Scale9Height": 244,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 148,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "gxDdz/15-qjjs/gx_title_qjjs@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 17,
+                "Scale9Width": 163,
+                "Scale9Height": 21,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 570.1937,
+                  "Y": 600.4681
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5019,
+                  "Y": 0.9382
+                },
+                "PreSize": {
+                  "X": 0.1699,
+                  "Y": 0.0859
+                },
+                "LeftMargin": 473.6937,
+                "RightMargin": 469.3063,
+                "TopMargin": 12.0319,
+                "BottomMargin": 572.9681,
+                "Tag": 439,
+                "ActionTag": 1101188367,
+                "Size": {
+                  "X": 193.0,
+                  "Y": 55.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "当前时间 10/11 10:00    ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 981.3906,
+                  "Y": 69.7364
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.8639,
+                  "Y": 0.109
+                },
+                "PreSize": {
+                  "X": 0.206,
+                  "Y": 0.0359
+                },
+                "LeftMargin": 864.3906,
+                "RightMargin": 37.6094,
+                "TopMargin": 558.7636,
+                "BottomMargin": 58.2364,
+                "Tag": 392,
+                "ActionTag": -822702529,
+                "Size": {
+                  "X": 234.0,
+                  "Y": 23.0
+                },
+                "Name": "curtime",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "房间号:235678  ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 20.208,
+                  "Y": 32.7364
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0178,
+                  "Y": 0.0512
+                },
+                "PreSize": {
+                  "X": 0.1761,
+                  "Y": 0.0359
+                },
+                "LeftMargin": 20.208,
+                "RightMargin": 915.792,
+                "TopMargin": 595.7636,
+                "BottomMargin": 21.2364,
+                "Tag": 493,
+                "ActionTag": 1903863724,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 23.0
+                },
+                "Name": "roomnum",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "房间号:235678  ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 22.07,
+                  "Y": 68.0774
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0194,
+                  "Y": 0.1064
+                },
+                "PreSize": {
+                  "X": 0.1761,
+                  "Y": 0.0359
+                },
+                "LeftMargin": 22.07,
+                "RightMargin": 913.9301,
+                "TopMargin": 560.4226,
+                "BottomMargin": 56.5774,
+                "Tag": 572,
+                "ActionTag": -468612424,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 23.0
+                },
+                "Name": "roomId",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "局数: 20/12  ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/FZY4JW_0569.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 985.7958,
+                  "Y": 27.7364
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.8678,
+                  "Y": 0.0433
+                },
+                "PreSize": {
+                  "X": 0.132,
+                  "Y": 0.0359
+                },
+                "LeftMargin": 910.7958,
+                "RightMargin": 75.2041,
+                "TopMargin": 600.7636,
+                "BottomMargin": 16.2364,
+                "Tag": 393,
+                "ActionTag": 99885385,
+                "Size": {
+                  "X": 150.0,
+                  "Y": 23.0
+                },
+                "Name": "round",
+                "ctype": "TextObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": -346,
+                "Scale9OriginY": -167,
+                "Scale9Width": 692,
+                "Scale9Height": 334,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 49.8395,
+                  "Y": 49.1006
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0439,
+                  "Y": 0.0767
+                },
+                "PreSize": {
+                  "X": 0.9243,
+                  "Y": 0.7937
+                },
+                "LeftMargin": 49.8395,
+                "RightMargin": 36.1605,
+                "TopMargin": 82.8994,
+                "BottomMargin": 49.1006,
+                "Tag": 463,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 98.6913,
+                      "Y": 254.5861
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.094,
+                      "Y": 0.5012
+                    },
+                    "PreSize": {
+                      "X": 0.1905,
+                      "Y": 0.3937
+                    },
+                    "LeftMargin": 98.6913,
+                    "RightMargin": 751.3087,
+                    "TopMargin": 53.4139,
+                    "BottomMargin": 254.5861,
+                    "Tag": 549,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/inRoomSamePic/zjh_touxiang.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 31,
+                        "Scale9OriginY": 31,
+                        "Scale9Width": 18,
+                        "Scale9Height": 18,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 46.0,
+                          "Y": 176.3
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.23,
+                          "Y": 0.8815
+                        },
+                        "PreSize": {
+                          "X": 0.4,
+                          "Y": 0.4
+                        },
+                        "LeftMargin": 6.0,
+                        "RightMargin": 114.0,
+                        "TopMargin": -16.3,
+                        "BottomMargin": 136.3,
+                        "CallBackType": "Click",
+                        "Tag": 234,
+                        "ActionTag": 476049701,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 80.0
+                        },
+                        "Name": "icon",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 18,
+                        "LabelText": "玩家名字玩家  ",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 90.58,
+                          "Y": 196.5204
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4529,
+                          "Y": 0.9826
+                        },
+                        "PreSize": {
+                          "X": 0.565,
+                          "Y": 0.105
+                        },
+                        "LeftMargin": 90.58,
+                        "RightMargin": -3.58,
+                        "TopMargin": -7.0204,
+                        "BottomMargin": 186.0204,
+                        "Tag": 225,
+                        "ActionTag": -705498251,
+                        "Size": {
+                          "X": 113.0,
+                          "Y": 21.0
+                        },
+                        "Name": "name",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 18,
+                        "LabelText": "ID:15356594  ",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 96.58,
+                          "Y": 160.2006
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4829,
+                          "Y": 0.801
+                        },
+                        "PreSize": {
+                          "X": 0.515,
+                          "Y": 0.105
+                        },
+                        "LeftMargin": 96.58,
+                        "RightMargin": 0.42,
+                        "TopMargin": 29.2994,
+                        "BottomMargin": 149.7006,
+                        "Tag": 226,
+                        "ActionTag": -1333238600,
+                        "Size": {
+                          "X": 103.0,
+                          "Y": 21.0
+                        },
+                        "Name": "id",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 24,
+                        "LabelText": "单局最高：123  ",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 126,
+                          "G": 139,
+                          "B": 213
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5014,
+                          "ScaleY": 0.1335
+                        },
+                        "Position": {
+                          "X": 110.26,
+                          "Y": 97.7805
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5513,
+                          "Y": 0.4889
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 0.115
+                        },
+                        "LeftMargin": 9.98,
+                        "RightMargin": -9.98,
+                        "TopMargin": 82.29,
+                        "BottomMargin": 94.71,
+                        "Tag": 227,
+                        "ActionTag": -1954611806,
+                        "Size": {
+                          "X": 200.0,
+                          "Y": 23.0
+                        },
+                        "Name": "high",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 24,
+                        "LabelText": "炸弹次数：20  ",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 126,
+                          "G": 139,
+                          "B": 213
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 109.98,
+                          "Y": 62.8071
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5499,
+                          "Y": 0.314
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 0.115
+                        },
+                        "LeftMargin": 9.98,
+                        "RightMargin": -9.98,
+                        "TopMargin": 125.6929,
+                        "BottomMargin": 51.3071,
+                        "Tag": 228,
+                        "ActionTag": -312256984,
+                        "Size": {
+                          "X": 200.0,
+                          "Y": 23.0
+                        },
+                        "Name": "boom",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 24,
+                        "LabelText": "胜利局数：20  ",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 126,
+                          "G": 139,
+                          "B": 213
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 109.98,
+                          "Y": 19.4043
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5499,
+                          "Y": 0.097
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 0.115
+                        },
+                        "LeftMargin": 9.98,
+                        "RightMargin": -9.98,
+                        "TopMargin": 169.0957,
+                        "BottomMargin": 7.9043,
+                        "Tag": 229,
+                        "ActionTag": -2013715598,
+                        "Size": {
+                          "X": 200.0,
+                          "Y": 23.0
+                        },
+                        "Name": "win",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 24,
+                        "LabelText": "地主次数：10  ",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 126,
+                          "G": 139,
+                          "B": 213
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 109.98,
+                          "Y": -23.9986
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5499,
+                          "Y": -0.12
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 0.115
+                        },
+                        "LeftMargin": 9.98,
+                        "RightMargin": -9.98,
+                        "TopMargin": 212.4986,
+                        "BottomMargin": -35.4986,
+                        "Tag": 230,
+                        "ActionTag": 612880898,
+                        "Size": {
+                          "X": 200.0,
+                          "Y": 23.0
+                        },
+                        "Name": "deal",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 40,
+                        "LabelText": "+999999",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 165,
+                          "G": 42,
+                          "B": 42
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 100.0,
+                          "Y": -124.1851
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 254,
+                          "G": 238,
+                          "B": 90
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": -0.6209
+                        },
+                        "PreSize": {
+                          "X": 0.825,
+                          "Y": 0.245
+                        },
+                        "LeftMargin": 17.5,
+                        "RightMargin": 17.5,
+                        "TopMargin": 299.6851,
+                        "BottomMargin": -148.6851,
+                        "Tag": 417,
+                        "ActionTag": 547888929,
+                        "Size": {
+                          "X": 165.0,
+                          "Y": 49.0
+                        },
+                        "Name": "score",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/simpleEndPic/huangguan.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 21,
+                        "Scale9OriginY": 18,
+                        "Scale9Width": 58,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 153.9325,
+                          "Y": -81.1017
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.7697,
+                          "Y": -0.4055
+                        },
+                        "PreSize": {
+                          "X": 0.5,
+                          "Y": 0.185
+                        },
+                        "LeftMargin": 103.9325,
+                        "RightMargin": -3.9325,
+                        "TopMargin": 262.6017,
+                        "BottomMargin": -99.6017,
+                        "Tag": 301,
+                        "ActionTag": 1788842859,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 37.0
+                        },
+                        "Name": "wintag",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 1454699629,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 200.0
+                    },
+                    "Name": "player0",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 419.1032,
+                      "Y": 254.5861
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3991,
+                      "Y": 0.5012
+                    },
+                    "PreSize": {
+                      "X": 0.1905,
+                      "Y": 0.3937
+                    },
+                    "LeftMargin": 419.1032,
+                    "RightMargin": 430.8969,
+                    "TopMargin": 53.4139,
+                    "BottomMargin": 254.5861,
+                    "Tag": 552,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/inRoomSamePic/zjh_touxiang.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 31,
+                        "Scale9OriginY": 31,
+                        "Scale9Width": 18,
+                        "Scale9Height": 18,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 46.0,
+                          "Y": 176.3
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.23,
+                          "Y": 0.8815
+                        },
+                        "PreSize": {
+                          "X": 0.4,
+                          "Y": 0.4
+                        },
+                        "LeftMargin": 6.0,
+                        "RightMargin": 114.0,
+                        "TopMargin": -16.3,
+                        "BottomMargin": 136.3,
+                        "CallBackType": "Click",
+                        "Tag": 553,
+                        "ActionTag": -1663591431,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 80.0
+                        },
+                        "Name": "icon",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 18,
+                        "LabelText": "玩家名字玩家  ",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 90.58,
+                          "Y": 196.5204
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4529,
+                          "Y": 0.9826
+                        },
+                        "PreSize": {
+                          "X": 0.565,
+                          "Y": 0.105
+                        },
+                        "LeftMargin": 90.58,
+                        "RightMargin": -3.58,
+                        "TopMargin": -7.0204,
+                        "BottomMargin": 186.0204,
+                        "Tag": 554,
+                        "ActionTag": -1999001184,
+                        "Size": {
+                          "X": 113.0,
+                          "Y": 21.0
+                        },
+                        "Name": "name",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 18,
+                        "LabelText": "ID:15356594  ",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 96.58,
+                          "Y": 160.2006
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4829,
+                          "Y": 0.801
+                        },
+                        "PreSize": {
+                          "X": 0.515,
+                          "Y": 0.105
+                        },
+                        "LeftMargin": 96.58,
+                        "RightMargin": 0.42,
+                        "TopMargin": 29.2994,
+                        "BottomMargin": 149.7006,
+                        "Tag": 555,
+                        "ActionTag": -612940684,
+                        "Size": {
+                          "X": 103.0,
+                          "Y": 21.0
+                        },
+                        "Name": "id",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 24,
+                        "LabelText": "单局最高：123  ",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 126,
+                          "G": 139,
+                          "B": 213
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5014,
+                          "ScaleY": 0.1335
+                        },
+                        "Position": {
+                          "X": 110.26,
+                          "Y": 97.7805
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5513,
+                          "Y": 0.4889
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 0.115
+                        },
+                        "LeftMargin": 9.98,
+                        "RightMargin": -9.98,
+                        "TopMargin": 82.29,
+                        "BottomMargin": 94.71,
+                        "Tag": 556,
+                        "ActionTag": -2119914601,
+                        "Size": {
+                          "X": 200.0,
+                          "Y": 23.0
+                        },
+                        "Name": "high",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 24,
+                        "LabelText": "炸弹次数：20  ",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 126,
+                          "G": 139,
+                          "B": 213
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 109.98,
+                          "Y": 62.8071
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5499,
+                          "Y": 0.314
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 0.115
+                        },
+                        "LeftMargin": 9.98,
+                        "RightMargin": -9.98,
+                        "TopMargin": 125.6929,
+                        "BottomMargin": 51.3071,
+                        "Tag": 557,
+                        "ActionTag": 248373377,
+                        "Size": {
+                          "X": 200.0,
+                          "Y": 23.0
+                        },
+                        "Name": "boom",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 24,
+                        "LabelText": "胜利局数：20  ",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 126,
+                          "G": 139,
+                          "B": 213
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 109.98,
+                          "Y": 19.4043
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5499,
+                          "Y": 0.097
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 0.115
+                        },
+                        "LeftMargin": 9.98,
+                        "RightMargin": -9.98,
+                        "TopMargin": 169.0957,
+                        "BottomMargin": 7.9043,
+                        "Tag": 558,
+                        "ActionTag": -300847691,
+                        "Size": {
+                          "X": 200.0,
+                          "Y": 23.0
+                        },
+                        "Name": "win",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 24,
+                        "LabelText": "地主次数：10  ",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 126,
+                          "G": 139,
+                          "B": 213
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 109.98,
+                          "Y": -23.9986
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5499,
+                          "Y": -0.12
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 0.115
+                        },
+                        "LeftMargin": 9.98,
+                        "RightMargin": -9.98,
+                        "TopMargin": 212.4986,
+                        "BottomMargin": -35.4986,
+                        "Tag": 559,
+                        "ActionTag": 1335658972,
+                        "Size": {
+                          "X": 200.0,
+                          "Y": 23.0
+                        },
+                        "Name": "deal",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 40,
+                        "LabelText": "+999999",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 165,
+                          "G": 42,
+                          "B": 42
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 100.0,
+                          "Y": -124.1851
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 254,
+                          "G": 238,
+                          "B": 90
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": -0.6209
+                        },
+                        "PreSize": {
+                          "X": 0.825,
+                          "Y": 0.245
+                        },
+                        "LeftMargin": 17.5,
+                        "RightMargin": 17.5,
+                        "TopMargin": 299.6851,
+                        "BottomMargin": -148.6851,
+                        "Tag": 560,
+                        "ActionTag": 872357510,
+                        "Size": {
+                          "X": 165.0,
+                          "Y": 49.0
+                        },
+                        "Name": "score",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/simpleEndPic/huangguan.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 21,
+                        "Scale9OriginY": 18,
+                        "Scale9Width": 58,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 153.9325,
+                          "Y": -81.1017
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.7697,
+                          "Y": -0.4055
+                        },
+                        "PreSize": {
+                          "X": 0.5,
+                          "Y": 0.185
+                        },
+                        "LeftMargin": 103.9325,
+                        "RightMargin": -3.9325,
+                        "TopMargin": 262.6017,
+                        "BottomMargin": -99.6017,
+                        "Tag": 561,
+                        "ActionTag": 18257754,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 37.0
+                        },
+                        "Name": "wintag",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -736494919,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 200.0
+                    },
+                    "Name": "player1",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 724.4014,
+                      "Y": 254.5861
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6899,
+                      "Y": 0.5012
+                    },
+                    "PreSize": {
+                      "X": 0.1905,
+                      "Y": 0.3937
+                    },
+                    "LeftMargin": 724.4014,
+                    "RightMargin": 125.5986,
+                    "TopMargin": 53.4139,
+                    "BottomMargin": 254.5861,
+                    "Tag": 562,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/inRoomSamePic/zjh_touxiang.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 31,
+                        "Scale9OriginY": 31,
+                        "Scale9Width": 18,
+                        "Scale9Height": 18,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 46.0,
+                          "Y": 176.3
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.23,
+                          "Y": 0.8815
+                        },
+                        "PreSize": {
+                          "X": 0.4,
+                          "Y": 0.4
+                        },
+                        "LeftMargin": 6.0,
+                        "RightMargin": 114.0,
+                        "TopMargin": -16.3,
+                        "BottomMargin": 136.3,
+                        "CallBackType": "Click",
+                        "Tag": 563,
+                        "ActionTag": -1238005608,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 80.0
+                        },
+                        "Name": "icon",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 18,
+                        "LabelText": "玩家名字玩家  ",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 90.58,
+                          "Y": 196.5204
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4529,
+                          "Y": 0.9826
+                        },
+                        "PreSize": {
+                          "X": 0.565,
+                          "Y": 0.105
+                        },
+                        "LeftMargin": 90.58,
+                        "RightMargin": -3.58,
+                        "TopMargin": -7.0204,
+                        "BottomMargin": 186.0204,
+                        "Tag": 564,
+                        "ActionTag": 2027642468,
+                        "Size": {
+                          "X": 113.0,
+                          "Y": 21.0
+                        },
+                        "Name": "name",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 18,
+                        "LabelText": "ID:15356594  ",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 96.58,
+                          "Y": 160.2006
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4829,
+                          "Y": 0.801
+                        },
+                        "PreSize": {
+                          "X": 0.515,
+                          "Y": 0.105
+                        },
+                        "LeftMargin": 96.58,
+                        "RightMargin": 0.42,
+                        "TopMargin": 29.2994,
+                        "BottomMargin": 149.7006,
+                        "Tag": 565,
+                        "ActionTag": -573592014,
+                        "Size": {
+                          "X": 103.0,
+                          "Y": 21.0
+                        },
+                        "Name": "id",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 24,
+                        "LabelText": "单局最高：123  ",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 126,
+                          "G": 139,
+                          "B": 213
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5014,
+                          "ScaleY": 0.1335
+                        },
+                        "Position": {
+                          "X": 110.26,
+                          "Y": 97.7805
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5513,
+                          "Y": 0.4889
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 0.115
+                        },
+                        "LeftMargin": 9.98,
+                        "RightMargin": -9.98,
+                        "TopMargin": 82.29,
+                        "BottomMargin": 94.71,
+                        "Tag": 566,
+                        "ActionTag": -647603365,
+                        "Size": {
+                          "X": 200.0,
+                          "Y": 23.0
+                        },
+                        "Name": "high",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 24,
+                        "LabelText": "炸弹次数：20  ",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 126,
+                          "G": 139,
+                          "B": 213
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 109.98,
+                          "Y": 62.8071
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5499,
+                          "Y": 0.314
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 0.115
+                        },
+                        "LeftMargin": 9.98,
+                        "RightMargin": -9.98,
+                        "TopMargin": 125.6929,
+                        "BottomMargin": 51.3071,
+                        "Tag": 567,
+                        "ActionTag": -1680085102,
+                        "Size": {
+                          "X": 200.0,
+                          "Y": 23.0
+                        },
+                        "Name": "boom",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 24,
+                        "LabelText": "胜利局数：20  ",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 126,
+                          "G": 139,
+                          "B": 213
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 109.98,
+                          "Y": 19.4043
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5499,
+                          "Y": 0.097
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 0.115
+                        },
+                        "LeftMargin": 9.98,
+                        "RightMargin": -9.98,
+                        "TopMargin": 169.0957,
+                        "BottomMargin": 7.9043,
+                        "Tag": 568,
+                        "ActionTag": -441575472,
+                        "Size": {
+                          "X": 200.0,
+                          "Y": 23.0
+                        },
+                        "Name": "win",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 24,
+                        "LabelText": "地主次数：10  ",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 126,
+                          "G": 139,
+                          "B": 213
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 109.98,
+                          "Y": -23.9986
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5499,
+                          "Y": -0.12
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 0.115
+                        },
+                        "LeftMargin": 9.98,
+                        "RightMargin": -9.98,
+                        "TopMargin": 212.4986,
+                        "BottomMargin": -35.4986,
+                        "Tag": 569,
+                        "ActionTag": 1694026214,
+                        "Size": {
+                          "X": 200.0,
+                          "Y": 23.0
+                        },
+                        "Name": "deal",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 40,
+                        "LabelText": "+999999",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/FZY4JW_0569.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "OutlineEnabled": true,
+                        "ShadowColor": {
+                          "R": 165,
+                          "G": 42,
+                          "B": 42
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 100.0,
+                          "Y": -124.1851
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 254,
+                          "G": 238,
+                          "B": 90
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": -0.6209
+                        },
+                        "PreSize": {
+                          "X": 0.825,
+                          "Y": 0.245
+                        },
+                        "LeftMargin": 17.5,
+                        "RightMargin": 17.5,
+                        "TopMargin": 299.6851,
+                        "BottomMargin": -148.6851,
+                        "Tag": 570,
+                        "ActionTag": 1055722592,
+                        "Size": {
+                          "X": 165.0,
+                          "Y": 49.0
+                        },
+                        "Name": "score",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "commonCells/commonPic/simpleEndPic/huangguan.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 21,
+                        "Scale9OriginY": 18,
+                        "Scale9Width": 58,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 153.9325,
+                          "Y": -81.1017
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.7697,
+                          "Y": -0.4055
+                        },
+                        "PreSize": {
+                          "X": 0.5,
+                          "Y": 0.185
+                        },
+                        "LeftMargin": 103.9325,
+                        "RightMargin": -3.9325,
+                        "TopMargin": 262.6017,
+                        "BottomMargin": -99.6017,
+                        "Tag": 571,
+                        "ActionTag": -906578623,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 37.0
+                        },
+                        "Name": "wintag",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -422541547,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 200.0
+                    },
+                    "Name": "player2",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": -1123806506,
+                "Size": {
+                  "X": 1050.0,
+                  "Y": 508.0
+                },
+                "Name": "playerPanel",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "gxDdz/6-quit/Button_Public@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 138,
+                "Scale9Height": 42,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 420.32,
+                  "Y": 45.8
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.37,
+                  "Y": 0.0716
+                },
+                "PreSize": {
+                  "X": 0.1479,
+                  "Y": 0.1
+                },
+                "LeftMargin": 336.32,
+                "RightMargin": 631.6799,
+                "TopMargin": 562.2,
+                "BottomMargin": 13.8,
+                "Tag": 852,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/simpleEndPic/yypk_img_close@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 30,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 12,
+                    "Scale9Height": 14,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 84.0,
+                      "Y": 33.28
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.52
+                    },
+                    "PreSize": {
+                      "X": 0.4286,
+                      "Y": 0.5625
+                    },
+                    "LeftMargin": 48.0,
+                    "RightMargin": 48.0,
+                    "TopMargin": 12.72,
+                    "BottomMargin": 15.28,
+                    "Tag": 853,
+                    "ActionTag": 1458282407,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 36.0
+                    },
+                    "Name": "Image_14",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -669666615,
+                "Size": {
+                  "X": 168.0,
+                  "Y": 64.0
+                },
+                "Name": "cancelbtn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "gxDdz/15-qjjs/Button_Back@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 48,
+                "Scale9Height": 34,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 49.5704,
+                  "Y": 597.6183
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0436,
+                  "Y": 0.9338
+                },
+                "PreSize": {
+                  "X": 0.0687,
+                  "Y": 0.0875
+                },
+                "LeftMargin": 10.5704,
+                "RightMargin": 1047.4296,
+                "TopMargin": 14.3817,
+                "BottomMargin": 569.6183,
+                "Tag": 548,
+                "ActionTag": 2070371195,
+                "Size": {
+                  "X": 78.0,
+                  "Y": 56.0
+                },
+                "Name": "backBtn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "gxDdz/6-quit/Button_Public@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 138,
+                "Scale9Height": 42,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 715.6799,
+                  "Y": 47.0355
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.63,
+                  "Y": 0.0735
+                },
+                "PreSize": {
+                  "X": 0.1479,
+                  "Y": 0.1
+                },
+                "LeftMargin": 631.6799,
+                "RightMargin": 336.3201,
+                "TopMargin": 560.9645,
+                "BottomMargin": 15.0355,
+                "Tag": 855,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "commonCells/commonPic/simpleEndPic/yypk_img_share@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 30,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 13,
+                    "Scale9Height": 14,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 84.0,
+                      "Y": 33.28
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.52
+                    },
+                    "PreSize": {
+                      "X": 0.4345,
+                      "Y": 0.5625
+                    },
+                    "LeftMargin": 47.5,
+                    "RightMargin": 47.5,
+                    "TopMargin": 12.72,
+                    "BottomMargin": 15.28,
+                    "Tag": 856,
+                    "ActionTag": -1454090457,
+                    "Size": {
+                      "X": 73.0,
+                      "Y": 36.0
+                    },
+                    "Name": "Image_13",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1218380191,
+                "Size": {
+                  "X": 168.0,
+                  "Y": 64.0
+                },
+                "Name": "okbtn",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -118126555,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "commonCells/commonPic/inRoomSamePic/zjh_touxiang.png",
+        "commonCells/commonPic/simpleEndPic/huangguan.png",
+        "commonCells/commonPic/simpleEndPic/yypk_img_close@2x.png",
+        "commonCells/commonPic/simpleEndPic/yypk_img_share@2x.png",
+        "ddz/bg_ddzjs.png",
+        "Font/FZY4JW_0569.TTF",
+        "gxDdz/15-qjjs/Button_Back@2x.png",
+        "gxDdz/15-qjjs/gx_title_qjjs@2x.png",
+        "gxDdz/6-quit/Button_Public@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

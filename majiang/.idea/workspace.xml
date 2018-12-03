@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2aaf586a-0a84-438b-9550-f81db54a6ceb" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="majiang" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="loginui.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/game/ui/loginui.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mod_base.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/game/mod/mod_base.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6998">
+              <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mywebsocket.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/game/net/mywebsocket.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3003">
+              <caret line="143" column="32" lean-forward="true" selection-start-line="143" selection-start-column="32" selection-end-line="143" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="http.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/game/net/http.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1449">
+              <caret line="69" column="19" lean-forward="true" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mod_ddzhu.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/game/mod/mod_ddzhu.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="couponLayer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/game/ui/couponLayer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="777">
+              <caret line="39" column="33" lean-forward="false" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hlgc.player.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/game/ui/hlgc.player.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10542">
+              <caret line="502" column="15" lean-forward="false" selection-start-line="502" selection-start-column="4" selection-end-line="502" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hlgc.table.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/game/ui/hlgc.table.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38136">
+              <caret line="1832" column="38" lean-forward="false" selection-start-line="1832" selection-start-column="28" selection-end-line="1832" selection-end-column="38" />
+              <folding>
+                <element signature="e#30432#30782#0" expanded="false" />
+                <element signature="e#30665#30756#0" expanded="false" />
+                <element signature="e#30850#31145#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1974">
+              <caret line="94" column="47" lean-forward="false" selection-start-line="94" selection-start-column="39" selection-end-line="94" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mod_hlgc.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/game/mod/mod_hlgc.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="348" column="22" lean-forward="true" selection-start-line="348" selection-start-column="22" selection-end-line="348" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>东带庄</find>
+      <find>openRoomJson</find>
+      <find>roomOpenWindow</find>
+      <find>openRoomItemJson</find>
+      <find>东</find>
+      <find>东带</find>
+      <find>room</find>
+      <find>clientver</find>
+      <find>_gettmepparent</find>
+      <find>StaticData.WIND_GANG</find>
+      <find>房间错误</find>
+      <find>checkBoxClick</find>
+      <find>this._setObj</find>
+      <find>tab</find>
+      <find>btn_replay</find>
+      <find>updateInfoView</find>
+      <find>checkSafe</find>
+      <find>gameclass.msgboxui</find>
+      <find>changeTab</find>
+      <find>ROOM_SET_STORAGE_KEY</find>
+      <find>parma2</find>
+      <find>房号</find>
+      <find>roominfo</find>
+      <find>this.betLayer</find>
+      <find>.begin =</find>
+      <find>typeArr</find>
+      <find>.piao</find>
+      <find>betCheck</find>
+      <find>step</find>
+      <find>roominfo.step</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>parent</replace>
+      <replace>gameclass.phpAddressPrev + gameclass.agentPostAdd</replace>
+      <replace>sprite</replace>
+      <replace>personList</replace>
+      <replace>43.227.181.34</replace>
+      <replace>g_chatstrNew</replace>
+      <replace>乐淘</replace>
+      <replace>qp2.77309477.gaofangh.com</replace>
+      <replace>this.ddzenddata</replace>
+      <replace>g_chatstrDdz</replace>
+      <replace>Woman</replace>
+      <replace>game_gxddz</replace>
+      <replace>roomOpenWindow</replace>
+      <replace>existBtn</replace>
+      <replace>historyBtn</replace>
+      <replace>_dataArr</replace>
+      <replace>sender.data</replace>
+      <replace>personArr</replace>
+      <replace>scoreInfoArr</replace>
+      <replace>value</replace>
+      <replace>QHMJ</replace>
+      <replace>card</replace>
+      <replace>_arr</replace>
+      <replace>cards</replace>
+      <replace>safeBtncallFunc</replace>
+      <replace>backCurCards</replace>
+      <replace>tabClickHandle</replace>
+      <replace>_itemW</replace>
+      <replace>_itemH</replace>
+      <replace>circleNum</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/code/game/ui/zhuanpanList.js" />
+        <option value="$PROJECT_DIR$/code/game/ui/shopView.js" />
+        <option value="$PROJECT_DIR$/code/game/ui/FightSetView.js" />
+        <option value="$PROJECT_DIR$/code/game/mod/mod_center.js" />
+        <option value="$PROJECT_DIR$/code/game/mod/mod_platform.js" />
+        <option value="$PROJECT_DIR$/code/game/mod/StaticData.js" />
+        <option value="$PROJECT_DIR$/code/game/ui/btn_setLayer.js" />
+        <option value="$PROJECT_DIR$/code/game/ui/Newcreaterroom.js" />
+        <option value="$PROJECT_DIR$/code/game/ui/pintianjiu/ptjallresultui.js" />
+        <option value="$PROJECT_DIR$/code/game/ui/resultoneui.js" />
+        <option value="$PROJECT_DIR$/code/game/ui/couponLayer.js" />
+        <option value="$PROJECT_DIR$/code/game/mod/mod_record.js" />
+        <option value="$PROJECT_DIR$/code/game/ui/recordBureau.js" />
+        <option value="$PROJECT_DIR$/game.js" />
+        <option value="$PROJECT_DIR$/game.min.js" />
+        <option value="$PROJECT_DIR$/code/game/ui/chatuinew.js" />
+        <option value="$PROJECT_DIR$/code/game/mod/mod_niuniu.js" />
+        <option value="$PROJECT_DIR$/code/game/mod/mod_jxnn.js" />
+        <option value="$PROJECT_DIR$/code/game/mod/mod_pintianjiu.js" />
+        <option value="$PROJECT_DIR$/code/game/ui/jxnn/jxnntable.js" />
+        <option value="$PROJECT_DIR$/code/game/ui/niuniu/niuniutable.js" />
+        <option value="$PROJECT_DIR$/code/game/net/mywebsocket.js" />
+        <option value="$PROJECT_DIR$/code/game/ui/hlgc.outPokerManager.js" />
+        <option value="$PROJECT_DIR$/code/game/ui/gdgdfgdgdg/hfghgf.html" />
+        <option value="$PROJECT_DIR$/js/loadzip.js" />
+        <option value="$PROJECT_DIR$/ting.html" />
+        <option value="$PROJECT_DIR$/code/game/tool/MJtool.js" />
+        <option value="$PROJECT_DIR$/code/game/ui/hallui.js" />
+        <option value="$PROJECT_DIR$/indextest.html" />
+        <option value="$PROJECT_DIR$/js/hjonglib.js" />
+        <option value="$PROJECT_DIR$/project.json" />
+        <option value="$PROJECT_DIR$/projectall.txt" />
+        <option value="$PROJECT_DIR$/code/game/js/loadzip.js" />
+        <option value="$PROJECT_DIR$/code/game/ui/hlgc.resultOne.js" />
+        <option value="$PROJECT_DIR$/code/game/tool/tool_cardType.js" />
+        <option value="$PROJECT_DIR$/code/game/ui/hlgc.player.js" />
+        <option value="$PROJECT_DIR$/index111.html" />
+        <option value="$PROJECT_DIR$/indexqinhuang.html" />
+        <option value="$PROJECT_DIR$/indexqinghuang.html" />
+        <option value="$PROJECT_DIR$/code/game/js/hjonglib.js" />
+        <option value="$PROJECT_DIR$/frameworks/runtime-src/proj.android/src/org/cocos2dx/javascript/AppActivity.java" />
+        <option value="$PROJECT_DIR$/code/game/mod/mod_login.js" />
+        <option value="$PROJECT_DIR$/code/game/ui/hlgc.resultAll.js" />
+        <option value="$PROJECT_DIR$/code/game/mod/mod_sound.js" />
+        <option value="$PROJECT_DIR$/code/game/ui/hlgc.table.js" />
+        <option value="$PROJECT_DIR$/code/game/ui/loginui.js" />
+        <option value="$PROJECT_DIR$/code/resource.js" />
+        <option value="$PROJECT_DIR$/code/game/ui/pintianjiu/pintianjiutable.js" />
+        <option value="$PROJECT_DIR$/code/app.js" />
+        <option value="$PROJECT_DIR$/code/game/mod/mod_base.js" />
+        <option value="$PROJECT_DIR$/code/game/mod/mod_hlgc.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="majiang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="majiang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="majiang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="majiang" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="majiang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="majiang" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="majiang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="majiang" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="majiang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="majiang" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+              <item name="mod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="majiang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="majiang" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="majiang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="majiang" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.9.1" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\client\qinghuangqipai_2018702\majiang\code\game\js" />
+      <recent name="E:\client\qinghuangqipai_2018702\majiang\code" />
+      <recent name="E:\client\qinghuangqipai_2018702\majiang\res" />
+      <recent name="E:\client\qinghuangqipai_2018702\majiang\code\game" />
+      <recent name="E:\client\qinghuangqipai_2018702\majiang\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\client\qinghuangqipai_2018702\majiang\code\game\tool" />
+      <recent name="E:\client\qinghuangqipai_2018702\majiang\code\game\ui" />
+      <recent name="E:\cocosWorkspace\guiXiDDZ\majiang\code\game\ui" />
+      <recent name="E:\cocosWorkspace\guiXiDDZ\majiang\code\game\mod" />
+      <recent name="E:\client\guiXiDDZ\majiang\code" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter />
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:8031/majiang/index.html" />
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/majiang/index.html" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2aaf586a-0a84-438b-9550-f81db54a6ceb" name="Default" comment="" />
+      <created>1513330051610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513330051610</updated>
+      <workItem from="1513330053104" duration="8000" />
+      <workItem from="1513330072203" duration="271000" />
+      <workItem from="1513331496839" duration="1448000" />
+      <workItem from="1513388473433" duration="6281000" />
+      <workItem from="1513561383698" duration="562000" />
+      <workItem from="1513569277384" duration="15003000" />
+      <workItem from="1513648107892" duration="28680000" />
+      <workItem from="1513734310802" duration="16978000" />
+      <workItem from="1513819965362" duration="13179000" />
+      <workItem from="1513840421078" duration="8466000" />
+      <workItem from="1513906447892" duration="26929000" />
+      <workItem from="1513993173778" duration="660000" />
+      <workItem from="1513999189763" duration="3499000" />
+      <workItem from="1514008588703" duration="4722000" />
+      <workItem from="1514166614241" duration="4167000" />
+      <workItem from="1514170849182" duration="3382000" />
+      <workItem from="1514174313543" duration="7820000" />
+      <workItem from="1514187152943" duration="651000" />
+      <workItem from="1514187831391" duration="445000" />
+      <workItem from="1514188700031" duration="642000" />
+      <workItem from="1514189506243" duration="13423000" />
+      <workItem from="1514252924221" duration="16795000" />
+      <workItem from="1514280065389" duration="6765000" />
+      <workItem from="1514337847271" duration="13834000" />
+      <workItem from="1514358779883" duration="12906000" />
+      <workItem from="1514426366055" duration="25535000" />
+      <workItem from="1514511098341" duration="4070000" />
+      <workItem from="1514515350214" duration="16946000" />
+      <workItem from="1514857409918" duration="5939000" />
+      <workItem from="1514864784146" duration="7398000" />
+      <workItem from="1514950768457" duration="3247000" />
+      <workItem from="1515030876153" duration="22320000" />
+      <workItem from="1515060348512" duration="2174000" />
+      <workItem from="1515115940084" duration="7855000" />
+      <workItem from="1515124908995" duration="9583000" />
+      <workItem from="1515203261889" duration="5384000" />
+      <workItem from="1515223404794" duration="455000" />
+      <workItem from="1515475873610" duration="683000" />
+      <workItem from="1515476566019" duration="53000" />
+      <workItem from="1515477709993" duration="12260000" />
+      <workItem from="1515549502397" duration="6046000" />
+      <workItem from="1515577647981" duration="482000" />
+      <workItem from="1515635397904" duration="4227000" />
+      <workItem from="1515649332071" duration="587000" />
+      <workItem from="1515650225110" duration="83000" />
+      <workItem from="1515659214370" duration="3273000" />
+      <workItem from="1515828075578" duration="1286000" />
+      <workItem from="1515833798041" duration="5742000" />
+      <workItem from="1515983177883" duration="8110000" />
+      <workItem from="1515997779450" duration="6571000" />
+      <workItem from="1516153805012" duration="138000" />
+      <workItem from="1516156497471" duration="8598000" />
+      <workItem from="1516171947254" duration="301000" />
+      <workItem from="1516172463159" duration="2928000" />
+      <workItem from="1516177840871" duration="15000" />
+      <workItem from="1516177902802" duration="2013000" />
+      <workItem from="1516182584295" duration="41000" />
+      <workItem from="1516183661990" duration="2243000" />
+      <workItem from="1516238792337" duration="32000" />
+      <workItem from="1516257132216" duration="1513000" />
+      <workItem from="1516260779888" duration="7246000" />
+      <workItem from="1516269101249" duration="2369000" />
+      <workItem from="1516325945666" duration="373000" />
+      <workItem from="1516347924956" duration="7503000" />
+      <workItem from="1516585212470" duration="9110000" />
+      <workItem from="1516600797444" duration="3233000" />
+      <workItem from="1516610457461" duration="341000" />
+      <workItem from="1516691375480" duration="822000" />
+      <workItem from="1516692634684" duration="2022000" />
+      <workItem from="1516779558642" duration="4674000" />
+      <workItem from="1516843465360" duration="26000" />
+      <workItem from="1516851700173" duration="9103000" />
+      <workItem from="1516931580010" duration="661000" />
+      <workItem from="1517023200934" duration="9073000" />
+      <workItem from="1517275984997" duration="8517000" />
+      <workItem from="1517297930791" duration="329000" />
+      <workItem from="1517299070163" duration="4270000" />
+      <workItem from="1517305359603" duration="2067000" />
+      <workItem from="1517362152285" duration="44000" />
+      <workItem from="1517366949543" duration="18940000" />
+      <workItem from="1517448399607" duration="654000" />
+      <workItem from="1517454269956" duration="3474000" />
+      <workItem from="1517471581872" duration="1422000" />
+      <workItem from="1517477508520" duration="1750000" />
+      <workItem from="1517535066327" duration="1455000" />
+      <workItem from="1517539768866" duration="640000" />
+      <workItem from="1517550611789" duration="2908000" />
+      <workItem from="1517567758399" duration="1251000" />
+      <workItem from="1517569217657" duration="3991000" />
+      <workItem from="1517802727722" duration="3000" />
+      <workItem from="1517802947677" duration="19000" />
+      <workItem from="1517813171512" duration="1271000" />
+      <workItem from="1517815017953" duration="1231000" />
+      <workItem from="1517816872901" duration="691000" />
+      <workItem from="1517818325793" duration="6356000" />
+      <workItem from="1517883134420" duration="761000" />
+      <workItem from="1517899700974" duration="2170000" />
+      <workItem from="1517906426606" duration="517000" />
+      <workItem from="1517907260775" duration="35000" />
+      <workItem from="1517908236870" duration="463000" />
+      <workItem from="1517967539233" duration="2735000" />
+      <workItem from="1517996185412" duration="795000" />
+      <workItem from="1518148881233" duration="15460000" />
+      <workItem from="1518317222288" duration="2746000" />
+      <workItem from="1519458956398" duration="225000" />
+      <workItem from="1519461876655" duration="995000" />
+      <workItem from="1519623274972" duration="2233000" />
+      <workItem from="1519697898380" duration="4965000" />
+      <workItem from="1519703035986" duration="9817000" />
+      <workItem from="1519781764231" duration="1026000" />
+      <workItem from="1519796429478" duration="52000" />
+      <workItem from="1519811477496" duration="2318000" />
+      <workItem from="1519867773940" duration="527000" />
+      <workItem from="1519968843843" duration="627000" />
+      <workItem from="1520221035515" duration="10095000" />
+      <workItem from="1520244598409" duration="54000" />
+      <workItem from="1520302490136" duration="89000" />
+      <workItem from="1520303280267" duration="1776000" />
+      <workItem from="1520314536391" duration="2023000" />
+      <workItem from="1520325631700" duration="598000" />
+      <workItem from="1520407434469" duration="867000" />
+      <workItem from="1520409832145" duration="406000" />
+      <workItem from="1520493764631" duration="116000" />
+      <workItem from="1520821040120" duration="114000" />
+      <workItem from="1520905669795" duration="732000" />
+      <workItem from="1520934571562" duration="177000" />
+      <workItem from="1520934766215" duration="82000" />
+      <workItem from="1521105237444" duration="679000" />
+      <workItem from="1521107798651" duration="1514000" />
+      <workItem from="1521163518038" duration="9547000" />
+      <workItem from="1521180947471" duration="370000" />
+      <workItem from="1521181440060" duration="4129000" />
+      <workItem from="1521186279325" duration="7542000" />
+      <workItem from="1521194430496" duration="1698000" />
+      <workItem from="1521196289439" duration="275000" />
+      <workItem from="1521422832925" duration="1770000" />
+      <workItem from="1521424637725" duration="6333000" />
+      <workItem from="1521432980264" duration="1078000" />
+      <workItem from="1521438324993" duration="649000" />
+      <workItem from="1521439084823" duration="1115000" />
+      <workItem from="1521440289995" duration="8735000" />
+      <workItem from="1521449838729" duration="64000" />
+      <workItem from="1521450612914" duration="4992000" />
+      <workItem from="1521510403012" duration="367000" />
+      <workItem from="1521514235302" duration="3099000" />
+      <workItem from="1521525104679" duration="4475000" />
+      <workItem from="1521595445314" duration="18161000" />
+      <workItem from="1521623480081" duration="679000" />
+      <workItem from="1521626149225" duration="2157000" />
+      <workItem from="1521682076882" duration="8446000" />
+      <workItem from="1521694146999" duration="15000" />
+      <workItem from="1521700499214" duration="2461000" />
+      <workItem from="1521707301972" duration="3424000" />
+      <workItem from="1521768992107" duration="7956000" />
+      <workItem from="1521788874083" duration="809000" />
+      <workItem from="1521790099672" duration="4177000" />
+      <workItem from="1522031796224" duration="1461000" />
+      <workItem from="1522034064495" duration="60000" />
+      <workItem from="1522054192386" duration="1527000" />
+      <workItem from="1522057758662" duration="2826000" />
+      <workItem from="1522115169057" duration="2831000" />
+      <workItem from="1522201282790" duration="13769000" />
+      <workItem from="1522222074427" duration="14000" />
+      <workItem from="1522227873959" duration="15000" />
+      <workItem from="1522719099704" duration="1076000" />
+      <workItem from="1522720627653" duration="1689000" />
+      <workItem from="1522807331806" duration="6133000" />
+      <workItem from="1522824901857" duration="8068000" />
+      <workItem from="1523151825523" duration="5329000" />
+      <workItem from="1523165814582" duration="9328000" />
+      <workItem from="1523180095118" duration="3218000" />
+      <workItem from="1523237935376" duration="9072000" />
+      <workItem from="1523256526014" duration="29000" />
+      <workItem from="1543482862559" duration="525000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="742768000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-modules-shown value="true" />
+      <flatten-packages value="true" />
+      <is-autoscroll-to-source value="true" />
+      <is-preview-enabled value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16649105" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.49312896" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.50687104" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24907847" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.49530515" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29989213" sideWeight="0.4976526" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27027026" sideWeight="0.6641988" order="4" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.49312896" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.50687104" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.49530515" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19196193" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26958525" sideWeight="0.4976526" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24932736" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39978677" sideWeight="0.6641988" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/game.js</url>
+          <line>23536</line>
+          <option name="timeStamp" value="1019" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/code/game/ui/ddzhutable.js</url>
+          <line>472</line>
+          <option name="timeStamp" value="1436" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/code/game/ui/hlgc.player.js</url>
+          <line>2371</line>
+          <option name="timeStamp" value="1519" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/code/game/mod/mod_ddzhu.js</url>
+          <line>393</line>
+          <option name="timeStamp" value="1705" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/code/game/mod/mod_ddzhu.js</url>
+          <line>211</line>
+          <option name="timeStamp" value="1706" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/code/game/ui/ddzhutable.js</url>
+          <line>864</line>
+          <option name="timeStamp" value="1708" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/code/game/ui/ddzhutable.js</url>
+          <line>874</line>
+          <option name="timeStamp" value="1710" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/code/game/ui/ddzhutable.js</url>
+          <line>895</line>
+          <option name="timeStamp" value="1711" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/code/game/ui/recordPlayList.js</url>
+          <line>103</line>
+          <option name="timeStamp" value="1715" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/code/game/ui/recordPlayList.js</url>
+          <line>107</line>
+          <option name="timeStamp" value="1716" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/code/game/ui/recordPlayList.js</url>
+          <line>97</line>
+          <option name="timeStamp" value="1717" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/code/game/ui/recordPlayList.js</url>
+          <line>88</line>
+          <option name="timeStamp" value="1718" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/code/game/ui/hlgcReplay.js</url>
+          <line>640</line>
+          <option name="timeStamp" value="2016" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/code/game/ui/hlgcReplay.js</url>
+          <line>716</line>
+          <option name="timeStamp" value="2017" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/code/game/ui/hlgcReplay.js</url>
+          <line>726</line>
+          <option name="timeStamp" value="2018" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/code/game/mod/mod_login.js</url>
+          <line>106</line>
+          <option name="timeStamp" value="2020" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/code/game/ui/mail.js</url>
+          <line>13</line>
+          <option name="timeStamp" value="2027" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/code/game/mod/mod_hlgc.js</url>
+          <line>488</line>
+          <option name="timeStamp" value="2229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/code/game/mod/mod_login.js</url>
+          <line>110</line>
+          <option name="timeStamp" value="2298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/code/game/ui/hlgc.table.js</url>
+          <line>809</line>
+          <option name="timeStamp" value="2314" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/code/game/ui/hlgc.table.js</url>
+          <line>403</line>
+          <option name="timeStamp" value="2342" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="2346" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="majiang" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="majiang" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/code/game/uimgr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="183" column="34" lean-forward="false" selection-start-line="183" selection-start-column="34" selection-end-line="183" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="36" column="23" lean-forward="false" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/tool/clipping.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="316" column="17" lean-forward="false" selection-start-line="316" selection-start-column="17" selection-end-line="316" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/ui/hlgc.outPokerManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="27" column="6" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/mod/StaticData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="200" column="23" lean-forward="false" selection-start-line="200" selection-start-column="23" selection-end-line="200" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/AJAX.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="86" column="55" lean-forward="false" selection-start-line="86" selection-start-column="55" selection-end-line="86" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MakeGamemin.exe">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indextest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="63" column="31" lean-forward="false" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/pako_inflate.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="1223" lean-forward="false" selection-start-line="1" selection-start-column="1223" selection-end-line="1" selection-end-column="1223" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/pako.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="2" column="14957" lean-forward="false" selection-start-line="2" selection-start-column="14957" selection-end-line="2" selection-end-column="14957" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="89826" lean-forward="false" selection-start-line="0" selection-start-column="89825" selection-end-line="0" selection-end-column="89826" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/platform/CCLoaders.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="172" column="7" lean-forward="false" selection-start-line="172" selection-start-column="7" selection-end-line="172" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/HTML5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1779" column="9" lean-forward="false" selection-start-line="1779" selection-start-column="9" selection-end-line="1779" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/tool/staticFunction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="251" column="0" lean-forward="false" selection-start-line="251" selection-start-column="0" selection-end-line="251" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/tool/rangeControl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/tool/tool_wildcardType.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1366" column="0" lean-forward="false" selection-start-line="1366" selection-start-column="0" selection-end-line="1366" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="2247" column="13" lean-forward="false" selection-start-line="2247" selection-start-column="13" selection-end-line="2247" selection-end-column="13" />
+          <folding>
+            <marker date="1537327671625" expanded="true" signature="4912864:4913057" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/tool/tool_cardType.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/mod/mod_center.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="58" column="48" lean-forward="false" selection-start-line="58" selection-start-column="48" selection-end-line="58" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/ui/ddzhutable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1134" column="54" lean-forward="false" selection-start-line="1134" selection-start-column="44" selection-end-line="1134" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/ui/niuniu/niuniutable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="993" column="54" lean-forward="false" selection-start-line="993" selection-start-column="44" selection-end-line="993" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/ui/hlgc.resultOne.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="115" column="10" lean-forward="false" selection-start-line="85" selection-start-column="8" selection-end-line="115" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/ui/hlgc.resultAll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="152" column="20" lean-forward="false" selection-start-line="152" selection-start-column="20" selection-end-line="152" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/js/jszip.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="21180" lean-forward="false" selection-start-line="1" selection-start-column="21180" selection-end-line="1" selection-end-column="21180" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="39" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projectall.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/js/hjonglib.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3188" column="0" lean-forward="false" selection-start-line="3188" selection-start-column="0" selection-end-line="3188" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/js/loadzip.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="51" column="92" lean-forward="false" selection-start-line="51" selection-start-column="77" selection-end-line="51" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/js/jszip.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/mod/mod_platform.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="164" column="0" lean-forward="false" selection-start-line="164" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/runtime-src/proj.android/src/org/cocos2dx/javascript/AppActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="133" column="14" lean-forward="false" selection-start-line="133" selection-start-column="8" selection-end-line="133" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/mod/mod_sound.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="30" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/ui/hallui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="23" column="32" lean-forward="false" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="119" column="36" lean-forward="false" selection-start-line="123" selection-start-column="28" selection-end-line="123" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-x/cocos/ui/UIDeprecated.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="45" column="53" lean-forward="false" selection-start-line="45" selection-start-column="53" selection-end-line="45" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/resource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="263" column="17" lean-forward="false" selection-start-line="263" selection-start-column="4" selection-end-line="263" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/ui/pintianjiu/pintianjiutable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="806" column="40" lean-forward="false" selection-start-line="806" selection-start-column="40" selection-end-line="806" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assetsmanager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/mod/mod_login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="279" column="17" lean-forward="false" selection-start-line="279" selection-start-column="9" selection-end-line="279" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/ui/couponLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="39" column="33" lean-forward="false" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1974">
+          <caret line="94" column="47" lean-forward="false" selection-start-line="94" selection-start-column="39" selection-end-line="94" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/ui/loginui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/mod/mod_ddzhu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/ui/hlgc.player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10542">
+          <caret line="502" column="15" lean-forward="false" selection-start-line="502" selection-start-column="4" selection-end-line="502" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/ui/hlgc.table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38136">
+          <caret line="1832" column="38" lean-forward="false" selection-start-line="1832" selection-start-column="28" selection-end-line="1832" selection-end-column="38" />
+          <folding>
+            <element signature="e#30432#30782#0" expanded="false" />
+            <element signature="e#30665#30756#0" expanded="false" />
+            <element signature="e#30850#31145#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/mod/mod_hlgc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="348" column="22" lean-forward="true" selection-start-line="348" selection-start-column="22" selection-end-line="348" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/net/mywebsocket.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3003">
+          <caret line="143" column="32" lean-forward="true" selection-start-line="143" selection-start-column="32" selection-end-line="143" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/net/http.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1449">
+          <caret line="69" column="19" lean-forward="true" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/game/mod/mod_base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6998">
+          <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

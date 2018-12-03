@@ -1,0 +1,241 @@
+{
+  "ID": "655faa75-90b0-4764-a3ee-c0e0318f5b26",
+  "Version": "2.3.4",
+  "Name": "SaoLeiResult",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 716,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 127,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": -205,
+            "Scale9OriginY": -292,
+            "Scale9Width": 410,
+            "Scale9Height": 584,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 717,
+            "Children": [
+              {
+                "ClipAble": true,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": -205,
+                "Scale9OriginY": -293,
+                "Scale9Width": 410,
+                "Scale9Height": 586,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 8.5,
+                  "Y": 124.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0133,
+                  "Y": 0.1092
+                },
+                "PreSize": {
+                  "X": 0.9734,
+                  "Y": 0.7782
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 8.5,
+                "RightMargin": 8.5,
+                "TopMargin": 128.0,
+                "BottomMargin": 124.0,
+                "Tag": 718,
+                "ActionTag": 1739472632,
+                "Size": {
+                  "X": 623.0,
+                  "Y": 884.0
+                },
+                "Name": "panel_content",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "MineSweepingNew/sl_bg_js@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 205,
+                "Scale9OriginY": 293,
+                "Scale9Width": 213,
+                "Scale9Height": 298,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 319.9999,
+                  "Y": 568.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.9734,
+                  "Y": 0.7782
+                },
+                "LeftMargin": 8.4999,
+                "RightMargin": 8.5001,
+                "TopMargin": 126.0,
+                "BottomMargin": 126.0,
+                "Tag": 723,
+                "ActionTag": 1678463914,
+                "Size": {
+                  "X": 623.0,
+                  "Y": 884.0
+                },
+                "Name": "iv_border",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "全局结算",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 322.5014,
+                  "Y": 990.8405
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 70,
+                  "G": 220,
+                  "B": 253
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5039,
+                  "Y": 0.8722
+                },
+                "PreSize": {
+                  "X": 0.1875,
+                  "Y": 0.0264
+                },
+                "LeftMargin": 262.5014,
+                "RightMargin": 257.4986,
+                "TopMargin": 130.1595,
+                "BottomMargin": 975.8405,
+                "Tag": 719,
+                "ActionTag": 636629915,
+                "Size": {
+                  "X": 120.0,
+                  "Y": 30.0
+                },
+                "Name": "tv_title",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -742654764,
+            "Size": {
+              "X": 640.0,
+              "Y": 1136.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "MineSweepingNew/sl_bg_js@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

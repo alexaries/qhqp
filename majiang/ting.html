@@ -1,0 +1,336 @@
+<script type="text/javascript">
+    var arr= [12,5,11,13,8,5,5,13,5,36,37,1,13];
+    /*
+    获取癞子的个数
+     */
+    function countRazz(arr,num){
+        var total=0;
+        for (var i = arr.length - 1; i >= 0; i--) {
+            arr[i] === num ? total++ : ''
+        }
+        return total;
+    }
+    /*
+    移除手牌的癞子
+     */
+    function removeRazz(arr,razz) {
+        var a = new Array();
+        for (var i = 0; i < arr.length; i++) {
+            if (arr[i] == razz) {
+               continue
+            }
+            a.push(arr[i]);
+        }
+        return a;
+    }
+    /*
+    深度拷贝二维数组
+     */
+    function deepcopy(obj) {
+        var out = [],i = 0,len = obj.length;
+        for (; i < len; i++) {
+            if (obj[i] instanceof Array){
+                out[i] = deepcopy(obj[i]);
+            }
+            else out[i] = obj[i];
+        }
+        return out;
+    }
+   /*
+   移除手牌中的顺子或者刻子
+    */
+    function Remove3NCards(cards){
+        var num = 0
+
+        //! 去掉风牌的刻子
+        for (var i = 1; i <= 7; i++) {
+            if (cards[3][i] <= 0) {
+                continue
+
+            }else if (cards[3][i] >= 3) {
+                cards[3][i] -= 3
+                cards[3][0] -= 3
+                num++
+            }
+        }
+            if (cards[3][5] > 0 ){ //中发白顺子
+                var tmpCount = cards[3][5]
+                for (var k = 0; k < tmpCount; k++) {
+                    if (cards[3][6] > 0 && cards[3][7] > 0) {
+                        cards[3][0] -= 3
+                        cards[3][5]--
+                        cards[3][6]--
+                        cards[3][7]--
+                    }
+                }
+            }
+        for  (var i = 0; i < 3; i++) {
+            for (var j = 1; j <= 7; j++){
+                if (cards[i][j] <= 0) {
+                    continue
+                }
+
+                //! 去掉刻子
+                if (cards[i][j] >= 3) {
+                    cards[i][j] -= 3
+                    cards[i][0] -= 3
+                    num++
+                }
+                    // 先去掉顺子
+                    var tmpCount = cards[i][j]
+                    for  (var k = 0; k < tmpCount; k++){
+                        if (j >= 3 && j <= 6 && cards[i][j+1] > 0 && cards[i][j+2] > 0 && cards[i][j-2] == 1 && cards[i][j+3] == 1){
+                            continue
+                        }
+                            if (cards[i][j+1] > 0 && cards[i][j+2] > 0) {
+                                cards[i][0] -= 3
+                                cards[i][j]--
+                                cards[i][j+1]--
+                                cards[i][j+2]--
+                            } else {
+                                break
+                            }
+                        }
+                    }
+        }
+
+        //! 去掉8~9的刻子
+        for  (var i = 0; i < 3; i++) {
+            for (var j = 8; j <= 9; j++) {
+                if (cards[i][j] <= 0) {
+                    continue
+                }
+                if (cards[i][j] == 3) {
+                    cards[i][0] -= 3
+                    cards[i][j] -= 3
+                    num++
+                }
+            }
+        }
+        return cards
+    }
+
+    /*
+    移除癞子后的牌需要癞子的个数
+     */
+    function getRazzNumber(tmp,flag){
+        if (tmp[0] == 0) {
+            return 0
+        }
+        var relust = 0
+        for (var i = 1; i < 10; i++) {
+            if (tmp[i] == 0) {
+                continue
+            }
+            if (flag == 3 && (i == 1 || i == 2 || i == 3 || i == 4)) {
+                if (tmp[i] == 1) {
+                    relust += 2
+                    continue
+                }
+                if (tmp[i] == 2) {
+                    relust += 1
+                    continue
+                }
+            }
+            if (i != 9 && tmp[i] == 1 && tmp[i+1] == 1) {
+                relust += 1
+                i++
+                continue
+            }
+            if (i < 8 && tmp[i] == 1 && tmp[i+2] >= 1) {
+                relust += 1
+                tmp[i+2] -= 1
+                continue
+            }
+            if (tmp[i] == 2) {
+                relust += 1
+                continue
+            }
+            if (i != 9 && tmp[i] == 1 && tmp[i+1] == 2) {
+                relust += 1
+                tmp[i+1] -= 1
+                continue
+            }
+            relust += 2
+        }
+        return relust
+    }
+
+    /*
+    用两个相同的做一对牌需要癞子的个数
+     */
+    function getResultTwo(handCards)  {
+        var  jiangVec = new Array();
+        for (var i1 = 0; i1 < 4; i1++) {
+            for (var j1= 1; j1 < 10; j1++) {
+                if (handCards[i1][j1] >= 2) {
+                    jiangVec.push(i1*10+j1);
+                }
+            }
+        }
+        var needNum = 14
+        for (var i2=0;i2<jiangVec.length;i2++) {
+            tmpCards = deepcopy(handCards)
+            tmpCards[parseInt(jiangVec[i2]/10)][jiangVec[i2]%10] -= 2
+            tmpCards[parseInt(jiangVec[i2]/10)][0] -= 2
+            tmp= Remove3NCards(tmpCards)
+            if (tmp[0][0]+tmp[1][0]+tmp[2][0]+tmp[3][0] == 0) {
+
+                return 0
+            }
+            var relust = 0
+            for (var j2= 0; j2< 4; j2++) {
+                relust += getRazzNumber(tmp[j2],j2)
+            }
+            if (relust < needNum) {
+
+                needNum = relust
+            }
+        }
+        return needNum
+    }
+    /*
+    用一个牌做一对牌需要癞子的个数
+     */
+    function getResultOne(handCards)  {
+        var  jiangVec = new Array();
+        for (var i1 = 0; i1 < 4; i1++) {
+            for (var j1= 1; j1 < 10; j1++) {
+                if (handCards[i1][j1] >= 1) {
+                    jiangVec.push(i1*10+j1);
+                }
+            }
+        }
+        var needNum = 14
+        for (var i2=0;i2<jiangVec.length;i2++) {
+            tmpCards = deepcopy(handCards)
+            tmpCards[parseInt(jiangVec[i2]/10)][jiangVec[i2]%10] -= 1
+            tmpCards[parseInt(jiangVec[i2]/10)][0] -= 1
+            tmp= Remove3NCards(tmpCards)
+            if (tmp[0][0]+tmp[1][0]+tmp[2][0]+tmp[3][0] == 0) {
+
+                return 0
+            }
+            var relust = 0
+            for (var j2= 0; j2< 4; j2++) {
+                relust += getRazzNumber(tmp[j2],j2)
+            }
+            if (relust < needNum) {
+
+                needNum = relust+1
+            }
+        }
+        return needNum
+    }
+    function  CheckHu(card,razz) {
+        var newCard=removeRazz(card,razz)
+        if (newCard.length==0){
+            return true
+        }
+        var razzNumber=countRazz(card,razz)
+        var handCards=new Array()
+        for (var i=0;i<4;i++){
+             handCards[i]=new Array()
+            for (var j=0;j<10;j++){
+                handCards[i][j]=0
+            }
+        }
+        for (var i = 0; i <newCard.length; i++) {
+            handCards[parseInt(newCard[i]/10)][newCard[i]%10]++
+            handCards[parseInt(newCard[i]/10)][0]++
+        }
+        var relustOne = getResultOne(handCards)
+
+		
+       var relustTwo = getResultTwo(handCards)
+        
+        if (relustOne > relustTwo) {
+            return relustTwo<=razzNumber
+        }
+        return relustOne<=razzNumber
+		
+    }
+   /*
+   判断手中的牌打出那张牌胡哪些牌
+    */
+    function Ting(lst,razz ){
+        var cards = new Array(1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 32, 33, 34, 35, 36, 37)
+       var comCard = sliceRemovseDuplicates(lst)
+        var tingCard=new Array()
+        var index =0
+        //console.log(comCard)
+        for (var i=0;i<comCard.length;i++){
+            tingCard[index]=new Array()
+           var handcard = removeIndex(lst,comCard[i])
+            for (var j=0;j<cards.length;j++) {
+                handcard.push(cards[j])
+				console.log(handcard)
+                var ishu= CheckHu(handcard, razz)
+				console.log(ishu)
+				
+                if (ishu){
+                    tingCard[index].push(cards[j])
+                }
+				
+                handcard = handcard.slice(0,handcard.length-1)
+            }
+			console.log(tingCard[index])
+			console.log(comCard[i])
+            tingCard[index].push(comCard[i])
+			
+            index++
+        }
+        return tingCard
+    }
+
+
+    /*
+        去除手牌中重复的牌
+    */
+
+    function sliceRemovseDuplicates(arr)  {
+         var slice=deepcopy(arr)
+         slice.sort()
+         var arr=new Array()
+         for(var i = 0; i < slice.length; i++){
+            if(arr.indexOf(slice[i]) == -1){
+                arr.push(slice[i]);
+            }
+         }
+        return arr;
+
+    }
+
+    function removeIndex(arr,index) {
+
+        var a = new Array();
+        var lable =false
+        for (var i = 0; i < arr.length; i++) {
+            if (!lable){
+                if (arr[i] == index) {
+                    lable = true
+                    continue
+                }
+            }
+            a.push(arr[i]);
+        }
+        return a;
+    }
+    var b=sliceRemovseDuplicates(arr)
+    var timestamp1=new Date().getTime()
+    console.log(timestamp1)
+    var cards = new Array(1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 32, 33, 34, 35, 36, 37)
+
+    for (var i3 = 0; i3< cards.length; i3++) {
+        arr.push(cards[i3]);
+        var ishu=CheckHu(arr,5)
+        if(ishu){
+            console.log(i3+"++++"+cards[i3]);
+        }
+        arr.pop();
+    }
+   //b=Ting(arr,5)
+    var timestamp2=new Date().getTime()
+    console.log(timestamp2-timestamp1)
+    console.log(b)
+</script>

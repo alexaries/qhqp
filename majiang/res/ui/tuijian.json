@@ -1,0 +1,1338 @@
+{
+  "ID": "855ed348-2a86-415a-a3f1-08522bde8b8f",
+  "Version": "2.3.4",
+  "Name": "tuijian",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 829,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 179,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "common/setting/setting_bg@2x.png",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 224,
+            "Scale9OriginY": 150,
+            "Scale9Width": 231,
+            "Scale9Height": 155,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 885,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Normal.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 62,
+                "Scale9Height": 70,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 898.0807,
+                  "Y": 502.4844
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7906,
+                  "Y": 0.7851
+                },
+                "PreSize": {
+                  "X": 0.081,
+                  "Y": 0.1437
+                },
+                "LeftMargin": 852.0807,
+                "RightMargin": 191.9193,
+                "TopMargin": 91.5156,
+                "BottomMargin": 456.4844,
+                "Tag": 833,
+                "ActionTag": -1023415207,
+                "Size": {
+                  "X": 92.0,
+                  "Y": 92.0
+                },
+                "Name": "btn_close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 320.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1761,
+                  "Y": 0.3125
+                },
+                "LeftMargin": 468.0,
+                "RightMargin": 468.0,
+                "TopMargin": 220.0,
+                "BottomMargin": 220.0,
+                "Tag": 875,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "common/hall/title_tuijian@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 52,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 55,
+                    "Scale9Height": 15,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 97.14,
+                      "Y": 298.437
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.4857,
+                      "Y": 1.4922
+                    },
+                    "PreSize": {
+                      "X": 0.795,
+                      "Y": 0.205
+                    },
+                    "LeftMargin": 17.64,
+                    "RightMargin": 23.36,
+                    "TopMargin": -118.937,
+                    "BottomMargin": 277.937,
+                    "Tag": 832,
+                    "ActionTag": 1883791753,
+                    "Size": {
+                      "X": 159.0,
+                      "Y": 41.0
+                    },
+                    "Name": "Image_2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "common/hall/img_input1@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 132,
+                    "Scale9OriginY": 20,
+                    "Scale9Width": 138,
+                    "Scale9Height": 22,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 5.226,
+                      "Y": 192.0842
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0261,
+                      "Y": 0.9604
+                    },
+                    "PreSize": {
+                      "X": 2.01,
+                      "Y": 0.31
+                    },
+                    "LeftMargin": -195.774,
+                    "RightMargin": -6.226,
+                    "TopMargin": -23.0842,
+                    "BottomMargin": 161.0842,
+                    "Tag": 862,
+                    "Children": [
+                      {
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "FZHei-B01S.ttf",
+                          "Plist": ""
+                        },
+                        "FontSize": 25,
+                        "IsCustomSize": true,
+                        "LabelText": "",
+                        "PlaceHolderText": "请填写好友给你的邀请码",
+                        "MaxLengthText": 10,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 201.8724,
+                          "Y": 31.1715
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5022,
+                          "Y": 0.5028
+                        },
+                        "PreSize": {
+                          "X": 0.9701,
+                          "Y": 0.4839
+                        },
+                        "LeftMargin": 6.8724,
+                        "RightMargin": 5.1276,
+                        "TopMargin": 15.8285,
+                        "BottomMargin": 16.1715,
+                        "Tag": 834,
+                        "ActionTag": 970505115,
+                        "Size": {
+                          "X": 390.0,
+                          "Y": 30.0
+                        },
+                        "Name": "inputBox",
+                        "ctype": "TextFieldObjectData"
+                      }
+                    ],
+                    "ActionTag": 1718944985,
+                    "Size": {
+                      "X": 402.0,
+                      "Y": 62.0
+                    },
+                    "Name": "inputBg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Normal.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 137,
+                    "Scale9Height": 51,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 298.0433,
+                      "Y": 191.9765
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.4902,
+                      "Y": 0.9599
+                    },
+                    "PreSize": {
+                      "X": 0.835,
+                      "Y": 0.365
+                    },
+                    "LeftMargin": 214.5433,
+                    "RightMargin": -181.5433,
+                    "TopMargin": -28.4765,
+                    "BottomMargin": 155.4765,
+                    "Tag": 865,
+                    "ActionTag": 77271579,
+                    "Size": {
+                      "X": 167.0,
+                      "Y": 73.0
+                    },
+                    "Name": "btn_ok",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "common/hall/erweima.jpg",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 92,
+                    "Scale9OriginY": 92,
+                    "Scale9Width": 96,
+                    "Scale9Height": 96,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -81.451,
+                      "Y": 55.0032
+                    },
+                    "Scale": {
+                      "ScaleX": 0.6,
+                      "ScaleY": 0.6
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.4073,
+                      "Y": 0.275
+                    },
+                    "PreSize": {
+                      "X": 1.4,
+                      "Y": 1.4
+                    },
+                    "LeftMargin": -221.451,
+                    "RightMargin": 141.451,
+                    "TopMargin": 4.9968,
+                    "BottomMargin": -84.9968,
+                    "Tag": 867,
+                    "ActionTag": 1339610557,
+                    "Size": {
+                      "X": 280.0,
+                      "Y": 280.0
+                    },
+                    "Name": "erweima",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 22,
+                    "LabelText": "面对面扫码下载",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -81.0648,
+                      "Y": -55.0383
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 73,
+                      "G": 85,
+                      "B": 96
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.4053,
+                      "Y": -0.2752
+                    },
+                    "PreSize": {
+                      "X": 0.78,
+                      "Y": 0.125
+                    },
+                    "LeftMargin": -159.0648,
+                    "RightMargin": 203.0648,
+                    "TopMargin": 242.5383,
+                    "BottomMargin": -67.5383,
+                    "Tag": 868,
+                    "ActionTag": 1583470365,
+                    "Size": {
+                      "X": 156.0,
+                      "Y": 25.0
+                    },
+                    "Name": "Text_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 22,
+                    "LabelText": "每邀请一位玩家输入该玩家的邀请码，\n邀请者和被邀请者即可获得",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 207.14,
+                      "Y": 101.9611
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 73,
+                      "G": 85,
+                      "B": 96
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.0357,
+                      "Y": 0.5098
+                    },
+                    "PreSize": {
+                      "X": 1.815,
+                      "Y": 0.25
+                    },
+                    "HorizontalEdge": "LeftEdge",
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": 25.64,
+                    "RightMargin": -188.64,
+                    "TopMargin": 73.0389,
+                    "BottomMargin": 76.9611,
+                    "Tag": 869,
+                    "ActionTag": 274093877,
+                    "Size": {
+                      "X": 363.0,
+                      "Y": 50.0
+                    },
+                    "Name": "Text_2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 24,
+                    "LabelText": "5张房卡。",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 342.559,
+                      "Y": 88.8331
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.7128,
+                      "Y": 0.4442
+                    },
+                    "PreSize": {
+                      "X": 0.49,
+                      "Y": 0.135
+                    },
+                    "HorizontalEdge": "LeftEdge",
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": 293.559,
+                    "RightMargin": -191.559,
+                    "TopMargin": 97.6669,
+                    "BottomMargin": 75.3331,
+                    "Tag": 870,
+                    "ActionTag": 584028857,
+                    "Size": {
+                      "X": 98.0,
+                      "Y": 27.0
+                    },
+                    "Name": "Text_3",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 22,
+                    "LabelText": "您的邀请码：",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 84.2911,
+                      "Y": 20.3402
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 73,
+                      "G": 85,
+                      "B": 96
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4215,
+                      "Y": 0.1017
+                    },
+                    "PreSize": {
+                      "X": 0.6,
+                      "Y": 0.125
+                    },
+                    "LeftMargin": 24.2911,
+                    "RightMargin": 55.7089,
+                    "TopMargin": 167.1598,
+                    "BottomMargin": 7.8402,
+                    "Tag": 872,
+                    "ActionTag": 1379970317,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 25.0
+                    },
+                    "Name": "Text_4",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "123456",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Bottom",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 198.706,
+                      "Y": 21.5292
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9935,
+                      "Y": 0.1076
+                    },
+                    "PreSize": {
+                      "X": 0.52,
+                      "Y": 0.17
+                    },
+                    "LeftMargin": 146.706,
+                    "RightMargin": -50.706,
+                    "TopMargin": 161.4708,
+                    "BottomMargin": 4.5292,
+                    "Tag": 873,
+                    "ActionTag": -1722645245,
+                    "Size": {
+                      "X": 104.0,
+                      "Y": 34.0
+                    },
+                    "Name": "Text_5",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "common/hall/btn_yqjl@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 137,
+                    "Scale9Height": 51,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 315.908,
+                      "Y": -43.3655
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.5795,
+                      "Y": -0.2168
+                    },
+                    "PreSize": {
+                      "X": 0.835,
+                      "Y": 0.365
+                    },
+                    "LeftMargin": 232.408,
+                    "RightMargin": -199.408,
+                    "TopMargin": 206.8655,
+                    "BottomMargin": -79.8655,
+                    "Tag": 874,
+                    "ActionTag": -1740473715,
+                    "Size": {
+                      "X": 167.0,
+                      "Y": 73.0
+                    },
+                    "Name": "btn_record",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 25,
+                    "ButtonText": "复制",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "TextColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 4,
+                    "Scale9Width": 12,
+                    "Scale9Height": 6,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 279.7101,
+                      "Y": 21.5199
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.3986,
+                      "Y": 0.1076
+                    },
+                    "PreSize": {
+                      "X": 0.21,
+                      "Y": 0.125
+                    },
+                    "LeftMargin": 258.7101,
+                    "RightMargin": -100.7101,
+                    "TopMargin": 165.9801,
+                    "BottomMargin": 9.0199,
+                    "Tag": 51,
+                    "ActionTag": 669932896,
+                    "Size": {
+                      "X": 42.0,
+                      "Y": 25.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "btn_copy",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 597479201,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 200.0
+                },
+                "Name": "Panel_1",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 320.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1761,
+                  "Y": 0.3125
+                },
+                "LeftMargin": 468.0,
+                "RightMargin": 468.0,
+                "TopMargin": 220.0,
+                "BottomMargin": 220.0,
+                "Tag": 876,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "common/hall/title_jilu@2x.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 52,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 55,
+                    "Scale9Height": 15,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 97.9408,
+                      "Y": 299.6638
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4897,
+                      "Y": 1.4983
+                    },
+                    "PreSize": {
+                      "X": 0.795,
+                      "Y": 0.205
+                    },
+                    "LeftMargin": 18.4408,
+                    "RightMargin": 22.5592,
+                    "TopMargin": -120.1638,
+                    "BottomMargin": 279.1638,
+                    "Tag": 881,
+                    "ActionTag": -881871758,
+                    "Size": {
+                      "X": 159.0,
+                      "Y": 41.0
+                    },
+                    "Name": "Image_7",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 25,
+                    "LabelText": "累计邀请好友:",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -93.397,
+                      "Y": 214.408
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 73,
+                      "G": 85,
+                      "B": 96
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.467,
+                      "Y": 1.072
+                    },
+                    "PreSize": {
+                      "X": 0.79,
+                      "Y": 0.14
+                    },
+                    "LeftMargin": -172.397,
+                    "RightMargin": 214.397,
+                    "TopMargin": -28.408,
+                    "BottomMargin": 200.408,
+                    "Tag": 877,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 25,
+                        "LabelText": "100\n",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "FZHei-B01S.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 188.2661,
+                          "Y": 14.5857
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 1.1916,
+                          "Y": 0.5209
+                        },
+                        "PreSize": {
+                          "X": 0.3165,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 163.2661,
+                        "RightMargin": -55.2661,
+                        "TopMargin": -0.5857,
+                        "BottomMargin": 0.5857,
+                        "Tag": 878,
+                        "ActionTag": -1674827899,
+                        "Size": {
+                          "X": 50.0,
+                          "Y": 28.0
+                        },
+                        "Name": "friendNum",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 48687959,
+                    "Size": {
+                      "X": 158.0,
+                      "Y": 28.0
+                    },
+                    "Name": "Text_6",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 25,
+                    "LabelText": "累计获得房卡张数:",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 211.983,
+                      "Y": 214.408
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 73,
+                      "G": 85,
+                      "B": 96
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.0599,
+                      "Y": 1.072
+                    },
+                    "PreSize": {
+                      "X": 1.04,
+                      "Y": 0.14
+                    },
+                    "LeftMargin": 107.983,
+                    "RightMargin": -115.983,
+                    "TopMargin": -28.408,
+                    "BottomMargin": 200.408,
+                    "Tag": 879,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 25,
+                        "LabelText": "100\n",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "FZHei-B01S.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 236.8885,
+                          "Y": 13.8065
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 1.1389,
+                          "Y": 0.4931
+                        },
+                        "PreSize": {
+                          "X": 0.2404,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 211.8885,
+                        "RightMargin": -53.8885,
+                        "TopMargin": 0.1935,
+                        "BottomMargin": -0.1935,
+                        "Tag": 880,
+                        "ActionTag": -557448222,
+                        "Size": {
+                          "X": 50.0,
+                          "Y": 28.0
+                        },
+                        "Name": "fangkaNum",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -203837331,
+                    "Size": {
+                      "X": 208.0,
+                      "Y": 28.0
+                    },
+                    "Name": "Text_7",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "common/hall/fenlanxian@2x.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 100.0,
+                      "Y": 183.2643
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.9163
+                    },
+                    "PreSize": {
+                      "X": 2.62,
+                      "Y": 0.01
+                    },
+                    "LeftMargin": -162.0,
+                    "RightMargin": -162.0,
+                    "TopMargin": 15.7357,
+                    "BottomMargin": 182.2643,
+                    "Tag": 883,
+                    "ActionTag": -330755474,
+                    "Size": {
+                      "X": 524.0,
+                      "Y": 2.0
+                    },
+                    "Name": "Sprite_13",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "ItemMargin": 10,
+                    "DirectionType": "Vertical",
+                    "IsBounceEnabled": true,
+                    "ScrollDirectionType": 0,
+                    "ClipAble": true,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -200.0,
+                      "Y": -75.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": -1.0,
+                      "Y": -0.375
+                    },
+                    "PreSize": {
+                      "X": 3.0,
+                      "Y": 1.25
+                    },
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": -200.0,
+                    "RightMargin": -200.0,
+                    "TopMargin": 25.0,
+                    "BottomMargin": -75.0,
+                    "Tag": 884,
+                    "ActionTag": 230972192,
+                    "Size": {
+                      "X": 600.0,
+                      "Y": 250.0
+                    },
+                    "Name": "listView",
+                    "ctype": "ListViewObjectData"
+                  }
+                ],
+                "ActionTag": -1279116312,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 200.0
+                },
+                "VisibleForFrame": false,
+                "Name": "Panel_2",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 167798075,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "bg",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common/hall/btn_yqjl@2x.png",
+        "common/hall/erweima.jpg",
+        "common/hall/fenlanxian@2x.png",
+        "common/hall/img_input1@2x.png",
+        "common/hall/title_jilu@2x.png",
+        "common/hall/title_tuijian@2x.png",
+        "common/setting/setting_bg@2x.png",
+        "Default/Button_Normal.png",
+        "FZHei-B01S.ttf"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

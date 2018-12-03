@@ -1,0 +1,766 @@
+{
+  "ID": "13e523ee-31b6-4e9e-a1af-33e1607a06e3",
+  "Version": "2.3.4",
+  "Name": "recordCell",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 743,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.6385
+            },
+            "TopMargin": 47.0,
+            "Tag": 150,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "qhqp/9-zhanji/bg_cjjl@2x.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 260,
+                "Scale9OriginY": 25,
+                "Scale9Width": 270,
+                "Scale9Height": 28,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.5663
+                },
+                "TopMargin": -47.0,
+                "Tag": 1702,
+                "ActionTag": -2080529528,
+                "Size": {
+                  "X": 1054.0,
+                  "Y": 130.0
+                },
+                "Name": "Image_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "序号",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "FZHei-B01S.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.4958,
+                  "ScaleY": 0.3453
+                },
+                "Position": {
+                  "X": 62.0921,
+                  "Y": 95.5993
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0589,
+                  "Y": 1.1518
+                },
+                "PreSize": {
+                  "X": 0.0569,
+                  "Y": 0.4096
+                },
+                "LeftMargin": 32.3441,
+                "RightMargin": 961.6559,
+                "TopMargin": -34.8591,
+                "BottomMargin": 83.8591,
+                "Tag": 1180,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "99\n",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 15.0,
+                      "Y": -46.5052
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.25,
+                      "Y": -1.3678
+                    },
+                    "PreSize": {
+                      "X": 1.3333,
+                      "Y": 1.1765
+                    },
+                    "LeftMargin": -25.0,
+                    "RightMargin": 5.0,
+                    "TopMargin": 60.5052,
+                    "BottomMargin": -66.5052,
+                    "Tag": 1181,
+                    "ActionTag": 451756709,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 40.0
+                    },
+                    "Name": "rankTxt",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1653668732,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 34.0
+                },
+                "Name": "rank",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "一二三四五六七八九    ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "FZHei-B01S.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.4958,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 171.6521,
+                  "Y": 101.1574
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1629,
+                  "Y": 1.2188
+                },
+                "PreSize": {
+                  "X": 0.1879,
+                  "Y": 0.2771
+                },
+                "LeftMargin": 73.4837,
+                "RightMargin": 782.5163,
+                "TopMargin": -29.6574,
+                "BottomMargin": 89.6574,
+                "Tag": 757,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "+12\n",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 100.1088,
+                      "Y": -47.4605
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5056,
+                      "Y": -2.0635
+                    },
+                    "PreSize": {
+                      "X": 0.404,
+                      "Y": 1.7391
+                    },
+                    "LeftMargin": 60.1088,
+                    "RightMargin": 57.8912,
+                    "TopMargin": 50.4605,
+                    "BottomMargin": -67.4605,
+                    "Tag": 758,
+                    "ActionTag": -679772689,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 40.0
+                    },
+                    "Name": "score0",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1048783660,
+                "Size": {
+                  "X": 198.0,
+                  "Y": 23.0
+                },
+                "Name": "player0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "一二三四五六七八九    ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "FZHei-B01S.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 360.2556,
+                  "Y": 100.8575
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3418,
+                  "Y": 1.2152
+                },
+                "PreSize": {
+                  "X": 0.1879,
+                  "Y": 0.2771
+                },
+                "LeftMargin": 261.2556,
+                "RightMargin": 594.7444,
+                "TopMargin": -29.3575,
+                "BottomMargin": 89.3575,
+                "Tag": 763,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "+12\n",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 99.099,
+                      "Y": -47.4605
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5005,
+                      "Y": -2.0635
+                    },
+                    "PreSize": {
+                      "X": 0.404,
+                      "Y": 1.7391
+                    },
+                    "LeftMargin": 59.099,
+                    "RightMargin": 58.901,
+                    "TopMargin": 50.4605,
+                    "BottomMargin": -67.4605,
+                    "Tag": 764,
+                    "ActionTag": 786830271,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 40.0
+                    },
+                    "Name": "score1",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 577498149,
+                "Size": {
+                  "X": 198.0,
+                  "Y": 23.0
+                },
+                "Name": "player1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "一二三四五六七八九    ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "FZHei-B01S.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 536.2302,
+                  "Y": 100.8575
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5088,
+                  "Y": 1.2152
+                },
+                "PreSize": {
+                  "X": 0.1879,
+                  "Y": 0.2771
+                },
+                "LeftMargin": 437.2302,
+                "RightMargin": 418.7698,
+                "TopMargin": -29.3575,
+                "BottomMargin": 89.3575,
+                "Tag": 765,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "+12\n",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 101.0988,
+                      "Y": -47.4605
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5106,
+                      "Y": -2.0635
+                    },
+                    "PreSize": {
+                      "X": 0.404,
+                      "Y": 1.7391
+                    },
+                    "LeftMargin": 61.0988,
+                    "RightMargin": 56.9012,
+                    "TopMargin": 50.4605,
+                    "BottomMargin": -67.4605,
+                    "Tag": 766,
+                    "ActionTag": -617971443,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 40.0
+                    },
+                    "Name": "score2",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -2083297188,
+                "Size": {
+                  "X": 198.0,
+                  "Y": 23.0
+                },
+                "Name": "player2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "一二三四五六七八九    ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "FZHei-B01S.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 722.2035,
+                  "Y": 100.8575
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6852,
+                  "Y": 1.2152
+                },
+                "PreSize": {
+                  "X": 0.1879,
+                  "Y": 0.2771
+                },
+                "LeftMargin": 623.2035,
+                "RightMargin": 232.7965,
+                "TopMargin": -29.3575,
+                "BottomMargin": 89.3575,
+                "Tag": 767,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "+12\n",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "FZHei-B01S.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 102.1086,
+                      "Y": -47.4605
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5157,
+                      "Y": -2.0635
+                    },
+                    "PreSize": {
+                      "X": 0.404,
+                      "Y": 1.7391
+                    },
+                    "LeftMargin": 62.1086,
+                    "RightMargin": 55.8914,
+                    "TopMargin": 50.4605,
+                    "BottomMargin": -67.4605,
+                    "Tag": 768,
+                    "ActionTag": 2106294655,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 40.0
+                    },
+                    "Name": "score3",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1245515319,
+                "Size": {
+                  "X": 198.0,
+                  "Y": 23.0
+                },
+                "Name": "player3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "qhqp/9-zhanji/btn_playback@2x.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 11,
+                "Scale9Height": 19,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 961.9244,
+                  "Y": 39.8791
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9126,
+                  "Y": 0.4805
+                },
+                "PreSize": {
+                  "X": 0.0389,
+                  "Y": 0.494
+                },
+                "LeftMargin": 941.4244,
+                "RightMargin": 71.5756,
+                "TopMargin": 22.6209,
+                "BottomMargin": 19.3791,
+                "Tag": 759,
+                "ActionTag": -1127214781,
+                "Size": {
+                  "X": 41.0,
+                  "Y": 41.0
+                },
+                "Name": "btn_replay",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1095483417,
+            "Size": {
+              "X": 1054.0,
+              "Y": 83.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1054.0,
+          "Y": 130.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "FZHei-B01S.ttf",
+        "qhqp/9-zhanji/bg_cjjl@2x.png",
+        "qhqp/9-zhanji/btn_playback@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

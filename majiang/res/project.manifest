@@ -1,0 +1,13 @@
+{
+    "packageUrl":"http://47.105.36.150/down/versionMgr/qhqp",
+    "remoteManifestUrl":"http://47.105.36.150:1239/updateres?type=project&app=qhqp&ver=1000",
+    "remoteVersionUrl":"http://47.105.36.150:1239/updateres?type=version&app=qhqp&ver=1000",
+    "version":"1000",
+    "engineVersion":"3.13.1",
+    "assets":{
+        
+    },
+    "searchPaths":[
+        
+    ]
+}

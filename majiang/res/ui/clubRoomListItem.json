@@ -1,0 +1,412 @@
+{
+  "ID": "cd8b6c7c-be68-4147-b145-099b9befa652",
+  "Version": "2.3.4",
+  "Name": "clubRoomListItem",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 221,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.1166,
+              "Y": 0.7407
+            },
+            "RightMargin": 758.0,
+            "TopMargin": 35.0,
+            "Tag": 238,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "gxDdz/17-club4/gx_bg@2x.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 0.985,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 8.58,
+                  "Y": 1.34
+                },
+                "RightMargin": -758.0,
+                "TopMargin": -34.0,
+                "Tag": 237,
+                "ActionTag": -239552131,
+                "Size": {
+                  "X": 858.0,
+                  "Y": 134.0
+                },
+                "Name": "Sprite_2",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 374934230,
+            "Size": {
+              "X": 100.0,
+              "Y": 100.0
+            },
+            "Name": "bg",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "clubres/clubinfo/jy_kwx.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 67.344,
+              "Y": 72.0249
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0785,
+              "Y": 0.5335
+            },
+            "PreSize": {
+              "X": 0.1259,
+              "Y": 0.8
+            },
+            "LeftMargin": 13.344,
+            "RightMargin": 736.656,
+            "TopMargin": 8.9751,
+            "BottomMargin": 18.0249,
+            "Tag": 242,
+            "ActionTag": 1449155674,
+            "Size": {
+              "X": 108.0,
+              "Y": 108.0
+            },
+            "Name": "gameImg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "斗地主-经典玩法（6局X1房卡）",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Font/FZY4JW_0569.TTF",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 126.0,
+              "Y": 89.157
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 139,
+              "G": 105,
+              "B": 20
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1469,
+              "Y": 0.6604
+            },
+            "PreSize": {
+              "X": 0.641,
+              "Y": 0.1704
+            },
+            "LeftMargin": 126.0,
+            "RightMargin": 182.0,
+            "TopMargin": 22.843,
+            "BottomMargin": 89.157,
+            "Tag": 243,
+            "ActionTag": 376463903,
+            "Size": {
+              "X": 550.0,
+              "Y": 23.0
+            },
+            "Name": "titleTxt",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "斗地主-经典玩法（6局X1房卡）",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "Font/FZY4JW_0569.TTF",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 126.0,
+              "Y": 35.9238
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 139,
+              "G": 105,
+              "B": 20
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1469,
+              "Y": 0.2661
+            },
+            "PreSize": {
+              "X": 0.641,
+              "Y": 0.1704
+            },
+            "LeftMargin": 126.0,
+            "RightMargin": 182.0,
+            "TopMargin": 76.0762,
+            "BottomMargin": 35.9238,
+            "Tag": 244,
+            "ActionTag": 1687107245,
+            "Size": {
+              "X": 550.0,
+              "Y": 23.0
+            },
+            "Name": "detailTxt",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "gxDdz/17-club4/club_btn_notBegin@2x.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 130,
+            "Scale9Height": 52,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 755.0001,
+              "Y": 70.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.88,
+              "Y": 0.5185
+            },
+            "PreSize": {
+              "X": 0.1865,
+              "Y": 0.5481
+            },
+            "LeftMargin": 675.0001,
+            "RightMargin": 22.9999,
+            "TopMargin": 28.0,
+            "BottomMargin": 33.0,
+            "Tag": 245,
+            "ActionTag": -758469301,
+            "Size": {
+              "X": 160.0,
+              "Y": 74.0
+            },
+            "Name": "notStartBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "gxDdz/17-club4/club_btn_ongoing@2x.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 130,
+            "Scale9Height": 52,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 755.0001,
+              "Y": 70.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.88,
+              "Y": 0.5185
+            },
+            "PreSize": {
+              "X": 0.1865,
+              "Y": 0.5481
+            },
+            "LeftMargin": 675.0001,
+            "RightMargin": 22.9999,
+            "TopMargin": 28.0,
+            "BottomMargin": 33.0,
+            "Tag": 246,
+            "ActionTag": -1410442996,
+            "Size": {
+              "X": 160.0,
+              "Y": 74.0
+            },
+            "Name": "playingBtn",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 858.0,
+          "Y": 135.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "clubres/clubinfo/jy_kwx.png",
+        "Font/FZY4JW_0569.TTF",
+        "gxDdz/17-club4/club_btn_notBegin@2x.png",
+        "gxDdz/17-club4/club_btn_ongoing@2x.png",
+        "gxDdz/17-club4/gx_bg@2x.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,761 @@
+{
+  "ID": "64bc4fe6-4dce-4bb5-b4a5-27ea429f8aa0",
+  "Version": "2.3.4",
+  "Name": "hlgc_controlLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 666,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -113.9065,
+              "Y": -32.6548
+            },
+            "Scale": {
+              "ScaleX": 1.2,
+              "ScaleY": 1.2
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.1003,
+              "Y": -0.051
+            },
+            "PreSize": {
+              "X": 0.1761,
+              "Y": 0.3125
+            },
+            "LeftMargin": -113.9065,
+            "RightMargin": 1049.9065,
+            "TopMargin": 472.6548,
+            "BottomMargin": -32.6548,
+            "Tag": 372,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "gxDdz/13-room/TimeBack.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 320.0
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.84,
+                  "Y": 1.6
+                },
+                "PreSize": {
+                  "X": 0.715,
+                  "Y": 0.71
+                },
+                "LeftMargin": 496.5,
+                "RightMargin": -439.5,
+                "TopMargin": -191.0,
+                "BottomMargin": 249.0,
+                "Tag": 794,
+                "ActionTag": 827721701,
+                "Size": {
+                  "X": 143.0,
+                  "Y": 142.0
+                },
+                "Name": "arrow",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "gxDdz/13-room/TimePoint0.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.7095,
+                  "Y": 283.0326
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.8435,
+                  "Y": 1.4152
+                },
+                "PreSize": {
+                  "X": 0.57,
+                  "Y": 0.19
+                },
+                "LeftMargin": 511.7095,
+                "RightMargin": -425.7095,
+                "TopMargin": -102.0326,
+                "BottomMargin": 264.0326,
+                "Tag": 2603,
+                "ActionTag": 1843282456,
+                "Size": {
+                  "X": 114.0,
+                  "Y": 38.0
+                },
+                "Name": "d0Sp",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "gxDdz/13-room/TimePoint1.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 605.2261,
+                  "Y": 320.0521
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "RotationSkewX": -90.0,
+                "RotationSkewY": -90.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 3.0261,
+                  "Y": 1.6003
+                },
+                "PreSize": {
+                  "X": 0.565,
+                  "Y": 0.19
+                },
+                "LeftMargin": 548.7261,
+                "RightMargin": -461.7261,
+                "TopMargin": -139.0521,
+                "BottomMargin": 301.0521,
+                "Tag": 2604,
+                "ActionTag": -1356810938,
+                "Size": {
+                  "X": 113.0,
+                  "Y": 38.0
+                },
+                "Name": "d1Sp",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "gxDdz/13-room/TimePoint2.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.5225,
+                  "Y": 357.3393
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "RotationSkewX": 180.0,
+                "RotationSkewY": 180.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.8426,
+                  "Y": 1.7867
+                },
+                "PreSize": {
+                  "X": 0.57,
+                  "Y": 0.19
+                },
+                "LeftMargin": 511.5225,
+                "RightMargin": -425.5225,
+                "TopMargin": -176.3393,
+                "BottomMargin": 338.3393,
+                "Tag": 2605,
+                "ActionTag": -928940757,
+                "Size": {
+                  "X": 114.0,
+                  "Y": 38.0
+                },
+                "Name": "d2Sp",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "gxDdz/13-room/TimePoint3.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 531.1682,
+                  "Y": 319.769
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "RotationSkewX": 90.0,
+                "RotationSkewY": 90.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.6558,
+                  "Y": 1.5988
+                },
+                "PreSize": {
+                  "X": 0.565,
+                  "Y": 0.195
+                },
+                "LeftMargin": 474.6682,
+                "RightMargin": -387.6682,
+                "TopMargin": -139.269,
+                "BottomMargin": 300.269,
+                "Tag": 2606,
+                "ActionTag": -1398715075,
+                "Size": {
+                  "X": 113.0,
+                  "Y": 39.0
+                },
+                "Name": "d3Sp",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -43829779,
+            "Size": {
+              "X": 200.0,
+              "Y": 200.0
+            },
+            "Name": "director",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1136.0,
+            "TopMargin": 640.0,
+            "Tag": 855,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "四人对战/不带庄     ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "FZHei-B01S.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 14.9995,
+                  "Y": 565.1942
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 14.9995,
+                "RightMargin": -184.9995,
+                "TopMargin": -576.6942,
+                "BottomMargin": 553.6942,
+                "Tag": 856,
+                "ActionTag": -728678563,
+                "Size": {
+                  "X": 170.0,
+                  "Y": 23.0
+                },
+                "Name": "wanfaTxt",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 22,
+                "LabelText": "房号:123456789",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "FZHei-B01S.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 115.0001,
+                  "Y": 616.9286
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 15.0001,
+                "RightMargin": -215.0001,
+                "TopMargin": -630.9286,
+                "BottomMargin": 602.9286,
+                "Tag": 860,
+                "ActionTag": 502701688,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 28.0
+                },
+                "Name": "roomIdTxt",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "局数:2000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "FZHei-B01S.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 114.9999,
+                  "Y": 590.4642
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 14.9999,
+                "RightMargin": -214.9999,
+                "TopMargin": -604.4642,
+                "BottomMargin": 576.4642,
+                "Tag": 862,
+                "ActionTag": -1036547492,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 28.0
+                },
+                "Name": "roundTxt",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "剩余牌数:xx  ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "FZHei-B01S.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 567.4287,
+                  "Y": 275.1223
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 501.4287,
+                "RightMargin": -633.4287,
+                "TopMargin": -286.6223,
+                "BottomMargin": 263.6223,
+                "Tag": 865,
+                "ActionTag": -2143067886,
+                "Size": {
+                  "X": 132.0,
+                  "Y": 23.0
+                },
+                "Name": "remainCard",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "10分封顶 摸2个宝  ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "FZHei-B01S.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 14.9995,
+                  "Y": 539.5297
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 14.9995,
+                "RightMargin": -179.9995,
+                "TopMargin": -551.0297,
+                "BottomMargin": 528.0297,
+                "Tag": 773,
+                "ActionTag": 1531593923,
+                "Size": {
+                  "X": 165.0,
+                  "Y": 23.0
+                },
+                "Name": "wanfaTxt_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 26,
+                "LabelText": "999",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "FZHei-B01S.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 545.8661,
+                  "Y": 352.1079
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 545.8661,
+                "RightMargin": -590.8661,
+                "TopMargin": -366.6079,
+                "BottomMargin": 337.6079,
+                "Tag": 2621,
+                "ActionTag": 612384003,
+                "Size": {
+                  "X": 45.0,
+                  "Y": 29.0
+                },
+                "Name": "timeTxt",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1527590619,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "textNode",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hlgc/starpointer.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 570.88,
+              "Y": 448.0151
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5025,
+              "Y": 0.7
+            },
+            "PreSize": {
+              "X": 0.0282,
+              "Y": 0.0609
+            },
+            "LeftMargin": 554.88,
+            "RightMargin": 549.12,
+            "TopMargin": 172.4849,
+            "BottomMargin": 428.5151,
+            "Tag": 1409,
+            "ActionTag": 1304922947,
+            "Size": {
+              "X": 32.0,
+              "Y": 39.0
+            },
+            "Name": "starpointer",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 1136.0,
+            "TopMargin": 640.0,
+            "Tag": 2302,
+            "ActionTag": -401061847,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "outPokerLayer",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "FZHei-B01S.ttf",
+        "gxDdz/13-room/TimeBack.png",
+        "gxDdz/13-room/TimePoint0.png",
+        "gxDdz/13-room/TimePoint1.png",
+        "gxDdz/13-room/TimePoint2.png",
+        "gxDdz/13-room/TimePoint3.png",
+        "hlgc/starpointer.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
